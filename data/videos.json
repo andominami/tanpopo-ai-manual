@@ -1,9 +1,9 @@
 [
   {
-    "id": "sample-01",
-    "title": "サンプル動画：受付の朝の準備",
-    "description": "開院前に行う受付準備の手順を説明したサンプル動画です。実際の動画に差し替えてください。",
+    "id": "appocho-print-01",
+    "title": "アポ帳の印刷方法",
+    "description": "アポ帳をPCから印刷する方法です",
     "category": "受付業務",
-    "driveFileId": "REPLACE_WITH_DRIVE_FILE_ID"
+    "driveFileId": "1BNZgxRFzVtpbDiuc7PkFH8REZbzDTKts"
   }
 ]
