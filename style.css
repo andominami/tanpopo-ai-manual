@@ -235,8 +235,7 @@ main {
 
 .modal-video-wrap {
   position: relative;
-  width: 100%;
-  max-height: 34vh;
+  width: min(100%, calc(34vh * 16 / 9));
   aspect-ratio: 16 / 9;
   border-radius: 8px;
   overflow: hidden;
