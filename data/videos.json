@@ -5,5 +5,12 @@
     "description": "アポ帳をPCから印刷する方法です",
     "category": "受付業務",
     "driveFileId": "1BNZgxRFzVtpbDiuc7PkFH8REZbzDTKts"
+  },
+  {
+    "id": "reception-pc-power-on-01",
+    "title": "受付PC電源のつけ方",
+    "description": "朝の受付PC電源のつけ方です。（PC操作・電源・朝の業務）",
+    "category": "受付業務",
+    "driveFileId": "1YDccHcWbA9CQiqewRrleXej56hsq-MK7"
   }
 ]
