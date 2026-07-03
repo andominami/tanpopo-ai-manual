@@ -23,8 +23,16 @@ body {
 .site-header {
   background: var(--surface);
   border-bottom: 1px solid var(--border);
-  padding: 24px 20px;
-  text-align: center;
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+
+.site-logo {
+  height: 48px;
+  width: auto;
 }
 
 .site-header h1 {
