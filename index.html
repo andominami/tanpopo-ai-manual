@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>タンポポ・アイ・マニュアル</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <h1>タンポポ・アイ・マニュアル</h1>
+  <p class="subtitle">院内向け動画マニュアル一覧</p>
+</header>
+
+<main>
+  <div class="controls">
+    <input type="search" id="search-input" placeholder="タイトルや説明で検索..." aria-label="動画を検索">
+    <div id="category-filters" class="category-filters" role="group" aria-label="カテゴリで絞り込み"></div>
+  </div>
+
+  <p id="empty-message" class="empty-message" hidden>該当する動画が見つかりませんでした。</p>
+
+  <div id="video-grid" class="video-grid"></div>
+</main>
+
+<div id="video-modal" class="modal" hidden>
+  <div class="modal-backdrop" data-close></div>
+  <div class="modal-content">
+    <button type="button" class="modal-close" data-close aria-label="閉じる">&times;</button>
+    <div class="modal-video-wrap">
+      <iframe id="modal-iframe" src="" allow="autoplay" allowfullscreen></iframe>
+    </div>
+    <h2 id="modal-title"></h2>
+    <p id="modal-description"></p>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
