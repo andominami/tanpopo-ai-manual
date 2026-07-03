@@ -235,7 +235,7 @@ main {
 
 .modal-video-wrap {
   position: relative;
-  width: min(100%, calc(34vh * 16 / 9));
+  width: min(100%, calc(52vh * 16 / 9));
   aspect-ratio: 16 / 9;
   border-radius: 8px;
   overflow: hidden;
@@ -246,6 +246,7 @@ main {
 
 .modal-text {
   overflow-y: auto;
+  min-height: 80px;
 }
 
 .modal-video-wrap iframe {
