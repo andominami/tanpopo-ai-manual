@@ -12,5 +12,12 @@
     "description": "朝の受付PC電源のつけ方です。（PC操作・電源・朝の業務）",
     "category": "受付業務",
     "driveFileId": "1YDccHcWbA9CQiqewRrleXej56hsq-MK7"
+  },
+  {
+    "id": "vacuum-hold-left-01",
+    "title": "バキュームの持ち方:左上下編",
+    "description": "バキュームの持ち方・左上下・DH・DA・アシスト",
+    "category": "診療業務",
+    "driveFileId": "19IfMEmQTzYO5IarSeqy5PJqmFbncPmeq"
   }
 ]
