@@ -172,6 +172,13 @@ main {
   margin-bottom: 6px;
 }
 
+.video-date {
+  display: inline-block;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin: 0 0 6px 8px;
+}
+
 .video-title {
   margin: 0 0 6px;
   font-size: 1.05rem;
