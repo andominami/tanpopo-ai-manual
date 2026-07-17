@@ -1,5 +1,20 @@
 const ALL_CATEGORY = "すべて";
 
+const CATEGORY_ORDER = [
+  "基本業務",
+  "診療業務",
+  "撮影業務",
+  "受付業務",
+  "訪問関連",
+  "消毒室関連",
+  "メンテナンス関連",
+  "技工関連",
+  "分院・基本業務",
+  "分院・診療業務",
+  "分院・撮影業務",
+  "分院・受付業務",
+];
+
 const state = {
   videos: [],
   activeCategory: ALL_CATEGORY,
@@ -24,7 +39,16 @@ function driveThumbUrl(fileId) {
 }
 
 function renderCategoryFilters() {
-  const categories = [ALL_CATEGORY, ...new Set(state.videos.map((v) => v.category))];
+  const usedCategories = [...new Set(state.videos.map((v) => v.category))];
+  usedCategories.sort((a, b) => {
+    const ai = CATEGORY_ORDER.indexOf(a);
+    const bi = CATEGORY_ORDER.indexOf(b);
+    if (ai === -1 && bi === -1) return 0;
+    if (ai === -1) return 1;
+    if (bi === -1) return -1;
+    return ai - bi;
+  });
+  const categories = [ALL_CATEGORY, ...usedCategories];
   filtersEl.innerHTML = "";
   for (const category of categories) {
     const btn = document.createElement("button");
