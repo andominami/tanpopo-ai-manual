@@ -22,11 +22,13 @@ const state = {
   activeCategory: ALL_CATEGORY,
   query: "",
   viewCounts: {},
+  sortOrder: "new",
 };
 
 const grid = document.getElementById("video-grid");
 const filtersEl = document.getElementById("category-filters");
 const searchInput = document.getElementById("search-input");
+const sortSelect = document.getElementById("sort-select");
 const emptyMessage = document.getElementById("empty-message");
 const modal = document.getElementById("video-modal");
 const modalIframe = document.getElementById("modal-iframe");
@@ -91,7 +93,7 @@ function renderCategoryFilters() {
 
 function getFilteredVideos() {
   const query = state.query.trim().toLowerCase();
-  return state.videos.filter((video) => {
+  const videos = state.videos.filter((video) => {
     const matchesCategory =
       state.activeCategory === ALL_CATEGORY || video.category === state.activeCategory;
     const matchesQuery =
@@ -100,6 +102,19 @@ function getFilteredVideos() {
       video.description.toLowerCase().includes(query);
     return matchesCategory && matchesQuery;
   });
+
+  // videos.jsonは投稿順(古い順)に並んでいる前提で並び替える
+  switch (state.sortOrder) {
+    case "views-desc":
+      return [...videos].sort((a, b) => getViewCount(b.id) - getViewCount(a.id));
+    case "views-asc":
+      return [...videos].sort((a, b) => getViewCount(a.id) - getViewCount(b.id));
+    case "old":
+      return videos;
+    case "new":
+    default:
+      return [...videos].reverse();
+  }
 }
 
 function renderGrid() {
@@ -179,6 +194,11 @@ document.addEventListener("keydown", (e) => {
 
 searchInput.addEventListener("input", (e) => {
   state.query = e.target.value;
+  renderGrid();
+});
+
+sortSelect.addEventListener("change", (e) => {
+  state.sortOrder = e.target.value;
   renderGrid();
 });
 

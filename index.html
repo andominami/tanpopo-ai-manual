@@ -17,6 +17,12 @@
 <main>
   <div class="controls">
     <input type="search" id="search-input" placeholder="タイトルや説明で検索..." aria-label="動画を検索">
+    <select id="sort-select" aria-label="並び替え">
+      <option value="new">投稿が新しい順</option>
+      <option value="old">投稿が古い順</option>
+      <option value="views-desc">再生数が多い順</option>
+      <option value="views-asc">再生数が少ない順</option>
+    </select>
     <div id="category-filters" class="category-filters" role="group" aria-label="カテゴリで絞り込み"></div>
   </div>
 

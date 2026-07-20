@@ -101,6 +101,20 @@ main {
   outline-offset: 1px;
 }
 
+#sort-select {
+  padding: 10px 14px;
+  font-size: 0.95rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+}
+
+#sort-select:focus {
+  outline: 2px solid var(--accent-dark);
+  outline-offset: 1px;
+}
+
 .category-filters {
   display: flex;
   flex-wrap: wrap;
@@ -313,5 +327,9 @@ main {
 
   #search-input {
     max-width: 320px;
+  }
+
+  #sort-select {
+    flex-shrink: 0;
   }
 }
