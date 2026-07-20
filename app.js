@@ -101,6 +101,7 @@ function renderGrid() {
     info.innerHTML = `
       <span class="video-category">${escapeHtml(video.category)}</span>
       ${video.recordedDate ? `<span class="video-date">撮影: ${escapeHtml(video.recordedDate)}</span>` : ""}
+      ${video.submittedBy ? `<span class="video-date">投稿: ${escapeHtml(video.submittedBy)}</span>` : ""}
       <h3 class="video-title">${escapeHtml(video.title)}</h3>
       <p class="video-description">${escapeHtml(video.description)}</p>
     `;
@@ -119,9 +120,10 @@ function escapeHtml(str) {
 
 function openModal(video) {
   modalIframe.src = driveEmbedUrl(video.driveFileId);
-  modalTitle.textContent = video.recordedDate
-    ? `${video.title}(撮影: ${video.recordedDate})`
-    : video.title;
+  const meta = [];
+  if (video.recordedDate) meta.push(`撮影: ${video.recordedDate}`);
+  if (video.submittedBy) meta.push(`投稿: ${video.submittedBy}`);
+  modalTitle.textContent = meta.length ? `${video.title}(${meta.join(" / ")})` : video.title;
   modalDescription.textContent = video.description;
   modal.hidden = false;
   document.body.style.overflow = "hidden";
