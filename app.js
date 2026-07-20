@@ -1,5 +1,8 @@
 const ALL_CATEGORY = "すべて";
 
+const VIEW_COUNT_API =
+  "https://script.google.com/macros/s/AKfycbzItrSudqsEYmiTQiXcC6mqI2qEXc1PDZs3hYU9w4t4qWxHiQO_U5eO4SllX3S9isxl9w/exec";
+
 const CATEGORY_ORDER = [
   "基本業務",
   "診療業務",
@@ -18,6 +21,7 @@ const state = {
   videos: [],
   activeCategory: ALL_CATEGORY,
   query: "",
+  viewCounts: {},
 };
 
 const grid = document.getElementById("video-grid");
@@ -35,6 +39,28 @@ function driveEmbedUrl(fileId) {
 
 function driveThumbUrl(fileId) {
   return `https://drive.google.com/thumbnail?id=${fileId}&sz=w400`;
+}
+
+function getViewCount(id) {
+  return state.viewCounts[id] || 0;
+}
+
+async function loadViewCounts() {
+  try {
+    const res = await fetch(VIEW_COUNT_API);
+    state.viewCounts = await res.json();
+  } catch (e) {
+    state.viewCounts = {};
+  }
+}
+
+function recordView(video) {
+  state.viewCounts[video.id] = getViewCount(video.id) + 1;
+  fetch(VIEW_COUNT_API, {
+    method: "POST",
+    headers: { "Content-Type": "text/plain;charset=utf-8" },
+    body: JSON.stringify({ id: video.id }),
+  }).catch(() => {});
 }
 
 function renderCategoryFilters() {
@@ -102,6 +128,7 @@ function renderGrid() {
       <span class="video-category">${escapeHtml(video.category)}</span>
       ${video.recordedDate ? `<span class="video-date">撮影: ${escapeHtml(video.recordedDate)}</span>` : ""}
       ${video.submittedBy ? `<span class="video-date">投稿: ${escapeHtml(video.submittedBy)}</span>` : ""}
+      <span class="video-date">再生: ${getViewCount(video.id)}回</span>
       <h3 class="video-title">${escapeHtml(video.title)}</h3>
       <p class="video-description">${escapeHtml(video.description)}</p>
     `;
@@ -119,14 +146,17 @@ function escapeHtml(str) {
 }
 
 function openModal(video) {
+  recordView(video);
   modalIframe.src = driveEmbedUrl(video.driveFileId);
   const meta = [];
   if (video.recordedDate) meta.push(`撮影: ${video.recordedDate}`);
   if (video.submittedBy) meta.push(`投稿: ${video.submittedBy}`);
+  meta.push(`再生: ${getViewCount(video.id)}回`);
   modalTitle.textContent = meta.length ? `${video.title}(${meta.join(" / ")})` : video.title;
   modalDescription.textContent = video.description;
   modal.hidden = false;
   document.body.style.overflow = "hidden";
+  renderGrid();
 }
 
 function closeModal() {
@@ -156,6 +186,8 @@ async function init() {
   const res = await fetch("data/videos.json");
   state.videos = await res.json();
   renderCategoryFilters();
+  renderGrid();
+  await loadViewCounts();
   renderGrid();
 }
 
