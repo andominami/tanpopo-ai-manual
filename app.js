@@ -15,6 +15,7 @@ const CATEGORY_ORDER = [
   "分院・基本業務",
   "分院・診療業務",
   "分院・受付業務",
+  "その他",
 ];
 
 const state = {
