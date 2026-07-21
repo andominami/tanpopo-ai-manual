@@ -53,12 +53,31 @@ function driveThumbUrl(fileId, size = "w400") {
   return `https://drive.google.com/thumbnail?id=${fileId}&sz=${size}`;
 }
 
+function youtubeEmbedUrl(youtubeId) {
+  return `https://www.youtube.com/embed/${youtubeId}`;
+}
+
+function youtubeThumbUrl(youtubeId) {
+  return `https://img.youtube.com/vi/${youtubeId}/hqdefault.jpg`;
+}
+
 function isPhoto(video) {
   return video.type === "photo";
 }
 
-function coverFileId(video) {
-  return isPhoto(video) ? video.photoFileIds[0] : video.driveFileId;
+function isYoutube(video) {
+  return video.type === "youtube";
+}
+
+function thumbUrl(video) {
+  if (isPhoto(video)) return driveThumbUrl(video.photoFileIds[0]);
+  if (isYoutube(video)) return youtubeThumbUrl(video.youtubeId);
+  return driveThumbUrl(video.driveFileId);
+}
+
+function embedUrl(video) {
+  if (isYoutube(video)) return youtubeEmbedUrl(video.youtubeId);
+  return driveEmbedUrl(video.driveFileId);
 }
 
 function getViewCount(id) {
@@ -149,7 +168,7 @@ function renderGrid() {
     const thumb = document.createElement("div");
     thumb.className = "video-thumb" + (isPhoto(video) ? " is-photo" : "");
     const img = document.createElement("img");
-    img.src = driveThumbUrl(coverFileId(video));
+    img.src = thumbUrl(video);
     img.alt = "";
     img.loading = "lazy";
     img.addEventListener("error", () => img.remove());
@@ -205,7 +224,7 @@ function openModal(video) {
   } else {
     modalPhotoWrap.hidden = true;
     modalVideoWrap.hidden = false;
-    modalIframe.src = driveEmbedUrl(video.driveFileId);
+    modalIframe.src = embedUrl(video);
   }
 
   const meta = [];
