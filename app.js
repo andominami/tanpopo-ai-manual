@@ -212,4 +212,42 @@ async function init() {
   renderGrid();
 }
 
-init();
+const LOCK_PASSWORD_HASH =
+  "90116063acc4ab1bff21066e506c308ccb719a47247ca2b89d7cc89d0fb89880";
+const LOCK_STORAGE_KEY = "tanpopo-manual-unlocked";
+
+const lockScreen = document.getElementById("lock-screen");
+const lockForm = document.getElementById("lock-form");
+const lockPassword = document.getElementById("lock-password");
+const lockError = document.getElementById("lock-error");
+const siteContent = document.getElementById("site-content");
+
+async function sha256Hex(text) {
+  const data = new TextEncoder().encode(text);
+  const digest = await crypto.subtle.digest("SHA-256", data);
+  return [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, "0")).join("");
+}
+
+function unlock() {
+  lockScreen.hidden = true;
+  siteContent.hidden = false;
+  init();
+}
+
+if (localStorage.getItem(LOCK_STORAGE_KEY) === "1") {
+  unlock();
+} else {
+  lockForm.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const hash = await sha256Hex(lockPassword.value);
+    if (hash === LOCK_PASSWORD_HASH) {
+      localStorage.setItem(LOCK_STORAGE_KEY, "1");
+      lockError.hidden = true;
+      unlock();
+    } else {
+      lockError.hidden = false;
+      lockPassword.value = "";
+      lockPassword.focus();
+    }
+  });
+}

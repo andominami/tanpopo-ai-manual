@@ -21,6 +21,81 @@ body {
   color: var(--text);
 }
 
+.lock-screen {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg);
+  z-index: 200;
+}
+
+.lock-screen[hidden] {
+  display: none;
+}
+
+.lock-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  padding: 32px 28px;
+  width: 90%;
+  max-width: 320px;
+  text-align: center;
+}
+
+.lock-form .site-logo {
+  height: 40px;
+  margin-bottom: 4px;
+}
+
+.lock-form p {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+#lock-password {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--bg);
+  color: var(--text);
+}
+
+#lock-password:focus {
+  outline: 2px solid var(--accent-dark);
+  outline-offset: 1px;
+}
+
+.lock-error {
+  color: #b3261e !important;
+}
+
+.lock-form button {
+  width: 100%;
+  padding: 10px 14px;
+  border: none;
+  border-radius: 999px;
+  background: var(--accent-dark);
+  color: #fff;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.lock-form button:hover {
+  opacity: 0.9;
+}
+
 .site-header {
   position: relative;
   background: var(--surface);
