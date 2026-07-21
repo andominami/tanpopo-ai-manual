@@ -1654,5 +1654,22 @@
     "category": "基本業務",
     "recordedDate": "",
     "driveFileId": "1E5_pFXoVXIe6VnqsLslE86Pbh3re0TIK"
+  },
+  {
+    "id": "photo-oral-frail-checkup",
+    "title": "オーラルフレイル健診の流れ",
+    "description": "1. (導入前)患者さまに10分前にきてもらい、質問票を記入してもらう\n2. (導入後)オーラルフレイルについて冊子を見せながら説明する\n3. 検査をして健診票①②の用紙をうめていく\n4. 結果を結果票に書き患者さまに説明する\n5. 低下しているものが改善するようにトレーニングを教える(青いファイルにトレーニングの説明用紙がまとめてあるため選んで渡す)\n6. 来年度の案内をする(毎年誕生月に受けると決めるとわかりやすい)\n7. (終了後)健診受診者リストに名前をかく\n8. オーラルフレイル健診記録表(青い用紙)に結果を書いてカルテにしまう\n\n※オーラルフレイルだった人\n→改善プログラムとチェックシート(青いファイル⑮⑯)を渡し、1ヶ月後に2回目の予約をとる。途中1回目の健診後2週間経ったくらいで電話でトレーニングの状況を確認する。\n負担金全員0、予約は1回目のやり方と同じ。",
+    "category": "診療業務",
+    "recordedDate": "",
+    "submittedBy": "林咲穂",
+    "type": "photo",
+    "photoFileIds": [
+      "1l__B_sj8mTrS6hHn-Co5DQgwosRB-o19",
+      "11HzcLxe6OWI-nn8LfCXbevmxYZkSCClZ",
+      "1zuGD3M1ZFdNkXbSW5c0zdSUH8Oc8U_KY",
+      "1VsKL9eMY2JGZEFkfdtadnhhnFlL77znD",
+      "1PFXFh7-i2mpIlakyOp3uiFABrp-5ekdb",
+      "18OR3KyROE-k5KJrNKNPV8ASBwNOuoED5"
+    ]
   }
 ]
