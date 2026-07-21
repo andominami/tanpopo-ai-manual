@@ -32,16 +32,33 @@ const searchInput = document.getElementById("search-input");
 const sortSelect = document.getElementById("sort-select");
 const emptyMessage = document.getElementById("empty-message");
 const modal = document.getElementById("video-modal");
+const modalVideoWrap = document.getElementById("modal-video-wrap");
 const modalIframe = document.getElementById("modal-iframe");
 const modalTitle = document.getElementById("modal-title");
 const modalDescription = document.getElementById("modal-description");
+const modalPhotoWrap = document.getElementById("modal-photo-wrap");
+const modalPhoto = document.getElementById("modal-photo");
+const modalPhotoPrev = document.getElementById("modal-photo-prev");
+const modalPhotoNext = document.getElementById("modal-photo-next");
+const modalPhotoCount = document.getElementById("modal-photo-count");
+
+let currentPhotoIndex = 0;
+let currentPhotoIds = [];
 
 function driveEmbedUrl(fileId) {
   return `https://drive.google.com/file/d/${fileId}/preview`;
 }
 
-function driveThumbUrl(fileId) {
-  return `https://drive.google.com/thumbnail?id=${fileId}&sz=w400`;
+function driveThumbUrl(fileId, size = "w400") {
+  return `https://drive.google.com/thumbnail?id=${fileId}&sz=${size}`;
+}
+
+function isPhoto(video) {
+  return video.type === "photo";
+}
+
+function coverFileId(video) {
+  return isPhoto(video) ? video.photoFileIds[0] : video.driveFileId;
 }
 
 function getViewCount(id) {
@@ -130,13 +147,19 @@ function renderGrid() {
     card.addEventListener("click", () => openModal(video));
 
     const thumb = document.createElement("div");
-    thumb.className = "video-thumb";
+    thumb.className = "video-thumb" + (isPhoto(video) ? " is-photo" : "");
     const img = document.createElement("img");
-    img.src = driveThumbUrl(video.driveFileId);
+    img.src = driveThumbUrl(coverFileId(video));
     img.alt = "";
     img.loading = "lazy";
     img.addEventListener("error", () => img.remove());
     thumb.appendChild(img);
+    if (isPhoto(video) && video.photoFileIds.length > 1) {
+      const badge = document.createElement("span");
+      badge.className = "thumb-photo-badge";
+      badge.textContent = `📷 ${video.photoFileIds.length}枚`;
+      thumb.appendChild(badge);
+    }
 
     const info = document.createElement("div");
     info.className = "video-info";
@@ -161,9 +184,30 @@ function escapeHtml(str) {
   return div.innerHTML;
 }
 
+function renderModalPhoto() {
+  modalPhoto.src = driveThumbUrl(currentPhotoIds[currentPhotoIndex], "w1600");
+  modalPhotoCount.textContent = `${currentPhotoIndex + 1} / ${currentPhotoIds.length}`;
+  const showNav = currentPhotoIds.length > 1;
+  modalPhotoPrev.hidden = !showNav;
+  modalPhotoNext.hidden = !showNav;
+}
+
 function openModal(video) {
   recordView(video);
-  modalIframe.src = driveEmbedUrl(video.driveFileId);
+
+  if (isPhoto(video)) {
+    currentPhotoIds = video.photoFileIds;
+    currentPhotoIndex = 0;
+    renderModalPhoto();
+    modalPhotoWrap.hidden = false;
+    modalVideoWrap.hidden = true;
+    modalIframe.src = "";
+  } else {
+    modalPhotoWrap.hidden = true;
+    modalVideoWrap.hidden = false;
+    modalIframe.src = driveEmbedUrl(video.driveFileId);
+  }
+
   const meta = [];
   if (video.recordedDate) meta.push(`撮影: ${video.recordedDate}`);
   if (video.submittedBy) meta.push(`投稿: ${video.submittedBy}`);
@@ -178,8 +222,19 @@ function openModal(video) {
 function closeModal() {
   modal.hidden = true;
   modalIframe.src = "";
+  modalPhoto.src = "";
   document.body.style.overflow = "";
 }
+
+modalPhotoPrev.addEventListener("click", () => {
+  currentPhotoIndex = (currentPhotoIndex - 1 + currentPhotoIds.length) % currentPhotoIds.length;
+  renderModalPhoto();
+});
+
+modalPhotoNext.addEventListener("click", () => {
+  currentPhotoIndex = (currentPhotoIndex + 1) % currentPhotoIds.length;
+  renderModalPhoto();
+});
 
 modal.addEventListener("click", (e) => {
   if (e.target.dataset.close !== undefined) {

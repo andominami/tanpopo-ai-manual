@@ -46,8 +46,14 @@
   <div class="modal-backdrop" data-close></div>
   <div class="modal-content">
     <button type="button" class="modal-close" data-close aria-label="閉じる">&times;</button>
-    <div class="modal-video-wrap">
+    <div id="modal-video-wrap" class="modal-video-wrap">
       <iframe id="modal-iframe" src="" allow="autoplay" allowfullscreen></iframe>
+    </div>
+    <div id="modal-photo-wrap" class="modal-photo-wrap" hidden>
+      <img id="modal-photo" src="" alt="">
+      <button type="button" id="modal-photo-prev" class="modal-photo-nav modal-photo-prev" aria-label="前の写真">&#10094;</button>
+      <button type="button" id="modal-photo-next" class="modal-photo-nav modal-photo-next" aria-label="次の写真">&#10095;</button>
+      <span id="modal-photo-count" class="modal-photo-count"></span>
     </div>
     <div class="modal-text">
       <h2 id="modal-title"></h2>
