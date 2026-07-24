@@ -154,6 +154,35 @@ main {
   padding: 24px 20px 60px;
 }
 
+.media-tabs {
+  display: flex;
+  gap: 4px;
+  border-bottom: 2px solid var(--border);
+  margin-bottom: 20px;
+}
+
+.media-tab {
+  font: inherit;
+  padding: 10px 20px;
+  border: none;
+  background: none;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+}
+
+.media-tab:hover {
+  color: var(--text);
+}
+
+.media-tab.active {
+  color: var(--accent-dark);
+  border-bottom-color: var(--accent-dark);
+}
+
 .controls {
   display: flex;
   flex-direction: column;

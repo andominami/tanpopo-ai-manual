@@ -24,9 +24,11 @@ const state = {
   query: "",
   viewCounts: {},
   sortOrder: "new",
+  mediaType: "all",
 };
 
 const grid = document.getElementById("video-grid");
+const mediaTabsEl = document.getElementById("media-tabs");
 const filtersEl = document.getElementById("category-filters");
 const searchInput = document.getElementById("search-input");
 const sortSelect = document.getElementById("sort-select");
@@ -103,7 +105,10 @@ function recordView(video) {
 }
 
 function renderCategoryFilters() {
-  const usedCategories = [...new Set(state.videos.map((v) => v.category))];
+  const videosForTabs = state.videos.filter(
+    (v) => state.mediaType === "all" || (state.mediaType === "photo" ? isPhoto(v) : !isPhoto(v))
+  );
+  const usedCategories = [...new Set(videosForTabs.map((v) => v.category))];
   usedCategories.sort((a, b) => {
     const ai = CATEGORY_ORDER.indexOf(a);
     const bi = CATEGORY_ORDER.indexOf(b);
@@ -133,11 +138,14 @@ function getFilteredVideos() {
   const videos = state.videos.filter((video) => {
     const matchesCategory =
       state.activeCategory === ALL_CATEGORY || video.category === state.activeCategory;
+    const matchesMediaType =
+      state.mediaType === "all" ||
+      (state.mediaType === "photo" ? isPhoto(video) : !isPhoto(video));
     const matchesQuery =
       !query ||
       video.title.toLowerCase().includes(query) ||
       video.description.toLowerCase().includes(query);
-    return matchesCategory && matchesQuery;
+    return matchesCategory && matchesMediaType && matchesQuery;
   });
 
   // videos.jsonは投稿順(古い順)に並んでいる前提で並び替える
@@ -276,6 +284,18 @@ sortSelect.addEventListener("change", (e) => {
   state.sortOrder = e.target.value;
   renderGrid();
 });
+
+for (const tab of mediaTabsEl.querySelectorAll(".media-tab")) {
+  tab.classList.toggle("active", tab.dataset.media === state.mediaType);
+  tab.addEventListener("click", () => {
+    state.mediaType = tab.dataset.media;
+    for (const t of mediaTabsEl.querySelectorAll(".media-tab")) {
+      t.classList.toggle("active", t === tab);
+    }
+    renderCategoryFilters();
+    renderGrid();
+  });
+}
 
 async function init() {
   const res = await fetch("data/videos.json");
