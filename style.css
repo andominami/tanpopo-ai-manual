@@ -114,9 +114,14 @@ body {
   width: auto;
 }
 
-.post-link {
-  position: static;
+.header-actions {
+  display: flex;
+  gap: 8px;
   margin-left: auto;
+  flex-wrap: wrap;
+}
+
+.post-link {
   display: inline-block;
   padding: 8px 16px;
   border-radius: 999px;
@@ -132,8 +137,14 @@ body {
   opacity: 0.9;
 }
 
+.report-link {
+  background: none;
+  border: 1px solid var(--accent-dark);
+  color: var(--accent-dark);
+}
+
 @media (min-width: 640px) {
-  .post-link {
+  .header-actions {
     position: absolute;
     right: 20px;
     top: 50%;
