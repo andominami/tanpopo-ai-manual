@@ -25,6 +25,7 @@ const state = {
   viewCounts: {},
   sortOrder: "new",
   mediaType: "all",
+  favorites: loadFavorites(),
 };
 
 const grid = document.getElementById("video-grid");
@@ -43,9 +44,38 @@ const modalPhoto = document.getElementById("modal-photo");
 const modalPhotoPrev = document.getElementById("modal-photo-prev");
 const modalPhotoNext = document.getElementById("modal-photo-next");
 const modalPhotoCount = document.getElementById("modal-photo-count");
+const modalFavoriteBtn = document.getElementById("modal-favorite-btn");
 
 let currentPhotoIndex = 0;
 let currentPhotoIds = [];
+let currentVideo = null;
+
+const FAVORITES_KEY = "tanpopo-manual-favorites";
+
+function loadFavorites() {
+  try {
+    return new Set(JSON.parse(localStorage.getItem(FAVORITES_KEY)) || []);
+  } catch (e) {
+    return new Set();
+  }
+}
+
+function saveFavorites() {
+  localStorage.setItem(FAVORITES_KEY, JSON.stringify([...state.favorites]));
+}
+
+function isFavorite(id) {
+  return state.favorites.has(id);
+}
+
+function toggleFavorite(id) {
+  if (state.favorites.has(id)) {
+    state.favorites.delete(id);
+  } else {
+    state.favorites.add(id);
+  }
+  saveFavorites();
+}
 
 function driveEmbedUrl(fileId) {
   return `https://drive.google.com/file/d/${fileId}/preview`;
@@ -105,9 +135,7 @@ function recordView(video) {
 }
 
 function renderCategoryFilters() {
-  const videosForTabs = state.videos.filter(
-    (v) => state.mediaType === "all" || (state.mediaType === "photo" ? isPhoto(v) : !isPhoto(v))
-  );
+  const videosForTabs = state.videos.filter(matchesMediaType);
   const usedCategories = [...new Set(videosForTabs.map((v) => v.category))];
   usedCategories.sort((a, b) => {
     const ai = CATEGORY_ORDER.indexOf(a);
@@ -133,19 +161,29 @@ function renderCategoryFilters() {
   }
 }
 
+function matchesMediaType(video) {
+  switch (state.mediaType) {
+    case "photo":
+      return isPhoto(video);
+    case "video":
+      return !isPhoto(video);
+    case "favorite":
+      return isFavorite(video.id);
+    default:
+      return true;
+  }
+}
+
 function getFilteredVideos() {
   const query = state.query.trim().toLowerCase();
   const videos = state.videos.filter((video) => {
     const matchesCategory =
       state.activeCategory === ALL_CATEGORY || video.category === state.activeCategory;
-    const matchesMediaType =
-      state.mediaType === "all" ||
-      (state.mediaType === "photo" ? isPhoto(video) : !isPhoto(video));
     const matchesQuery =
       !query ||
       video.title.toLowerCase().includes(query) ||
       video.description.toLowerCase().includes(query);
-    return matchesCategory && matchesMediaType && matchesQuery;
+    return matchesCategory && matchesMediaType(video) && matchesQuery;
   });
 
   // videos.jsonは投稿順(古い順)に並んでいる前提で並び替える
@@ -188,6 +226,16 @@ function renderGrid() {
       thumb.appendChild(badge);
     }
 
+    const favoriteBtn = document.createElement("span");
+    favoriteBtn.className = "favorite-btn" + (isFavorite(video.id) ? " active" : "");
+    favoriteBtn.textContent = isFavorite(video.id) ? "♥" : "♡";
+    favoriteBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      toggleFavorite(video.id);
+      renderGrid();
+    });
+    thumb.appendChild(favoriteBtn);
+
     const info = document.createElement("div");
     info.className = "video-info";
     info.innerHTML = `
@@ -219,8 +267,16 @@ function renderModalPhoto() {
   modalPhotoNext.hidden = !showNav;
 }
 
+function renderModalFavoriteBtn() {
+  const active = currentVideo && isFavorite(currentVideo.id);
+  modalFavoriteBtn.classList.toggle("active", !!active);
+  modalFavoriteBtn.textContent = active ? "♥" : "♡";
+}
+
 function openModal(video) {
   recordView(video);
+  currentVideo = video;
+  renderModalFavoriteBtn();
 
   if (isPhoto(video)) {
     currentPhotoIds = video.photoFileIds;
@@ -252,6 +308,13 @@ function closeModal() {
   modalPhoto.src = "";
   document.body.style.overflow = "";
 }
+
+modalFavoriteBtn.addEventListener("click", () => {
+  if (!currentVideo) return;
+  toggleFavorite(currentVideo.id);
+  renderModalFavoriteBtn();
+  renderGrid();
+});
 
 modalPhotoPrev.addEventListener("click", () => {
   currentPhotoIndex = (currentPhotoIndex - 1 + currentPhotoIds.length) % currentPhotoIds.length;

@@ -30,6 +30,7 @@
     <button type="button" class="media-tab" data-media="all">すべて</button>
     <button type="button" class="media-tab" data-media="video">動画</button>
     <button type="button" class="media-tab" data-media="photo">写真</button>
+    <button type="button" class="media-tab" data-media="favorite">お気に入り</button>
   </div>
 
   <div class="controls">
@@ -52,6 +53,7 @@
   <div class="modal-backdrop" data-close></div>
   <div class="modal-content">
     <button type="button" class="modal-close" data-close aria-label="閉じる">&times;</button>
+    <button type="button" id="modal-favorite-btn" class="modal-favorite-btn" aria-label="お気に入りに追加">♡</button>
     <div id="modal-video-wrap" class="modal-video-wrap">
       <iframe id="modal-iframe" src="" allow="autoplay" allowfullscreen></iframe>
     </div>
