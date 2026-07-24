@@ -72,6 +72,23 @@
     </div>
   </div>
 </div>
+
+<button type="button" id="chat-toggle" class="chat-toggle" aria-label="マニュアルに質問する">💬</button>
+<div id="chat-panel" class="chat-panel" hidden>
+  <div class="chat-header">
+    <span>マニュアルに質問する</span>
+    <button type="button" id="chat-close" aria-label="閉じる">&times;</button>
+  </div>
+  <div id="chat-messages" class="chat-messages">
+    <div class="chat-message chat-message-bot">
+      こんにちは！マニュアルの内容について質問してください。(例:「インカムの使い方は？」)
+    </div>
+  </div>
+  <form id="chat-form" class="chat-form">
+    <input type="text" id="chat-input" placeholder="質問を入力..." autocomplete="off">
+    <button type="submit">送信</button>
+  </form>
+</div>
 </div>
 
 <script src="app.js"></script>

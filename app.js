@@ -408,3 +408,67 @@ if (localStorage.getItem(LOCK_STORAGE_KEY) === "1") {
     }
   });
 }
+
+const chatToggle = document.getElementById("chat-toggle");
+const chatPanel = document.getElementById("chat-panel");
+const chatClose = document.getElementById("chat-close");
+const chatMessages = document.getElementById("chat-messages");
+const chatForm = document.getElementById("chat-form");
+const chatInput = document.getElementById("chat-input");
+
+function appendChatMessage(text, sender) {
+  const msg = document.createElement("div");
+  msg.className = "chat-message " + (sender === "user" ? "chat-message-user" : "chat-message-bot");
+  msg.textContent = text;
+  chatMessages.appendChild(msg);
+  chatMessages.scrollTop = chatMessages.scrollHeight;
+}
+
+chatToggle.addEventListener("click", () => {
+  chatPanel.hidden = !chatPanel.hidden;
+  if (!chatPanel.hidden) chatInput.focus();
+});
+
+chatClose.addEventListener("click", () => {
+  chatPanel.hidden = true;
+});
+
+chatForm.addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const question = chatInput.value.trim();
+  if (!question) return;
+
+  appendChatMessage(question, "user");
+  chatInput.value = "";
+  chatInput.disabled = true;
+  chatForm.querySelector("button").disabled = true;
+
+  const thinking = document.createElement("div");
+  thinking.className = "chat-message chat-message-bot";
+  thinking.textContent = "考え中...";
+  chatMessages.appendChild(thinking);
+  chatMessages.scrollTop = chatMessages.scrollHeight;
+
+  try {
+    const manual = state.videos.map((v) => ({
+      title: v.title,
+      category: v.category,
+      description: v.description,
+    }));
+    const res = await fetch(VIEW_COUNT_API, {
+      method: "POST",
+      headers: { "Content-Type": "text/plain;charset=utf-8" },
+      body: JSON.stringify({ question, manual }),
+    });
+    const data = await res.json();
+    thinking.remove();
+    appendChatMessage(data.answer || "回答を取得できませんでした。", "bot");
+  } catch (err) {
+    thinking.remove();
+    appendChatMessage("エラーが発生しました。時間をおいて試してください。", "bot");
+  } finally {
+    chatInput.disabled = false;
+    chatForm.querySelector("button").disabled = false;
+    chatInput.focus();
+  }
+});
