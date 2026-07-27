@@ -300,6 +300,7 @@ function openModal(video) {
   modal.hidden = false;
   document.body.style.overflow = "hidden";
   renderGrid();
+  history.replaceState(null, "", `#id=${encodeURIComponent(video.id)}`);
 }
 
 function closeModal() {
@@ -307,6 +308,7 @@ function closeModal() {
   modalIframe.src = "";
   modalPhoto.src = "";
   document.body.style.overflow = "";
+  history.replaceState(null, "", location.pathname + location.search);
 }
 
 modalFavoriteBtn.addEventListener("click", () => {
@@ -360,6 +362,14 @@ for (const tab of mediaTabsEl.querySelectorAll(".media-tab")) {
   });
 }
 
+function openFromHash() {
+  const match = location.hash.match(/^#id=(.+)$/);
+  if (!match) return;
+  const id = decodeURIComponent(match[1]);
+  const video = state.videos.find((v) => v.id === id);
+  if (video) openModal(video);
+}
+
 async function init() {
   const res = await fetch("data/videos.json");
   state.videos = await res.json();
@@ -367,6 +377,7 @@ async function init() {
   renderGrid();
   await loadViewCounts();
   renderGrid();
+  openFromHash();
 }
 
 const LOCK_PASSWORD_HASH =
