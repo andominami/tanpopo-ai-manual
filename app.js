@@ -101,7 +101,12 @@ function isYoutube(video) {
   return video.type === "youtube";
 }
 
+function isText(video) {
+  return video.type === "text";
+}
+
 function thumbUrl(video) {
+  if (isText(video)) return null;
   if (isPhoto(video)) return driveThumbUrl(video.photoFileIds[0]);
   if (isYoutube(video)) return youtubeThumbUrl(video.youtubeId);
   return driveThumbUrl(video.driveFileId);
@@ -212,13 +217,16 @@ function renderGrid() {
     card.addEventListener("click", () => openModal(video));
 
     const thumb = document.createElement("div");
-    thumb.className = "video-thumb" + (isPhoto(video) ? " is-photo" : "");
-    const img = document.createElement("img");
-    img.src = thumbUrl(video);
-    img.alt = "";
-    img.loading = "lazy";
-    img.addEventListener("error", () => img.remove());
-    thumb.appendChild(img);
+    thumb.className =
+      "video-thumb" + (isPhoto(video) ? " is-photo" : "") + (isText(video) ? " is-text" : "");
+    if (!isText(video)) {
+      const img = document.createElement("img");
+      img.src = thumbUrl(video);
+      img.alt = "";
+      img.loading = "lazy";
+      img.addEventListener("error", () => img.remove());
+      thumb.appendChild(img);
+    }
     if (isPhoto(video) && video.photoFileIds.length > 1) {
       const badge = document.createElement("span");
       badge.className = "thumb-photo-badge";
@@ -278,7 +286,11 @@ function openModal(video) {
   currentVideo = video;
   renderModalFavoriteBtn();
 
-  if (isPhoto(video)) {
+  if (isText(video)) {
+    modalPhotoWrap.hidden = true;
+    modalVideoWrap.hidden = true;
+    modalIframe.src = "";
+  } else if (isPhoto(video)) {
     currentPhotoIds = video.photoFileIds;
     currentPhotoIndex = 0;
     renderModalPhoto();
