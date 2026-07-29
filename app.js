@@ -249,7 +249,7 @@ function renderGrid() {
     info.innerHTML = `
       <span class="video-category">${escapeHtml(video.category)}</span>
       ${video.recordedDate ? `<span class="video-date">撮影: ${escapeHtml(video.recordedDate)}</span>` : ""}
-      ${video.submittedBy ? `<span class="video-date">投稿: ${escapeHtml(video.submittedBy)}</span>` : ""}
+      ${video.submittedBy ? `<span class="video-date video-submitted">投稿: ${escapeHtml(video.submittedBy)}</span>` : ""}
       <span class="video-date">再生: ${getViewCount(video.id)}回</span>
       <h3 class="video-title">${escapeHtml(video.title)}</h3>
       <p class="video-description">${escapeHtml(video.description)}</p>
