@@ -153,6 +153,18 @@ body {
   }
 }
 
+@media (max-width: 480px) {
+  .header-actions {
+    gap: 4px;
+    flex-wrap: nowrap;
+  }
+
+  .post-link {
+    padding: 6px 9px;
+    font-size: 0.68rem;
+  }
+}
+
 .site-header h1 {
   margin: 0;
   font-size: 1.6rem;
@@ -167,6 +179,7 @@ main {
 
 .media-tabs {
   display: flex;
+  justify-content: center;
   gap: 4px;
   border-bottom: 2px solid var(--border);
   margin-bottom: 20px;
