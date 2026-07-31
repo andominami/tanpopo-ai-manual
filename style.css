@@ -116,9 +116,16 @@ body {
 
 .header-actions {
   display: flex;
+  flex-direction: column;
   gap: 8px;
   margin-left: auto;
+}
+
+.header-actions-row {
+  display: flex;
+  gap: 8px;
   flex-wrap: wrap;
+  justify-content: flex-end;
 }
 
 .post-link {
@@ -127,10 +134,13 @@ body {
   border-radius: 999px;
   background: var(--accent-dark);
   color: #fff;
+  font: inherit;
   font-size: 0.85rem;
   font-weight: 600;
   text-decoration: none;
   white-space: nowrap;
+  border: none;
+  cursor: pointer;
 }
 
 .post-link:hover {
@@ -143,14 +153,42 @@ body {
   color: var(--accent-dark);
 }
 
-@media (min-width: 640px) {
-  .header-actions {
-    position: absolute;
-    right: 20px;
-    top: 50%;
-    transform: translateY(-50%);
-    margin-left: 0;
-  }
+.header-menu {
+  position: relative;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 220px;
+  z-index: 200;
+}
+
+.dropdown-menu[hidden] {
+  display: none;
+}
+
+.dropdown-menu a {
+  display: block;
+  padding: 8px 10px;
+  border-radius: 6px;
+  color: var(--text);
+  text-decoration: none;
+  font-size: 0.85rem;
+  white-space: normal;
+}
+
+.dropdown-menu a:hover {
+  background: var(--accent);
 }
 
 @media (max-width: 480px) {

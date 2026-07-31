@@ -495,3 +495,23 @@ chatForm.addEventListener("submit", async (e) => {
     chatInput.focus();
   }
 });
+
+const rulesLink = document.getElementById("rules-link");
+rulesLink.addEventListener("click", (e) => {
+  e.preventDefault();
+  alert("準備中です。追加までもうしばらくお待ちください。");
+});
+
+for (const trigger of document.querySelectorAll(".menu-trigger")) {
+  const menu = document.getElementById(trigger.dataset.menu);
+  trigger.addEventListener("click", (e) => {
+    e.stopPropagation();
+    const isOpen = !menu.hidden;
+    for (const m of document.querySelectorAll(".dropdown-menu")) m.hidden = true;
+    menu.hidden = isOpen;
+  });
+}
+
+document.addEventListener("click", () => {
+  for (const m of document.querySelectorAll(".dropdown-menu")) m.hidden = true;
+});
