@@ -194,12 +194,25 @@ body {
 @media (max-width: 480px) {
   .header-actions {
     gap: 4px;
+  }
+
+  .header-actions-row {
     flex-wrap: nowrap;
+    justify-content: center;
   }
 
   .post-link {
     padding: 6px 9px;
     font-size: 0.68rem;
+  }
+
+  .header-actions-row-secondary {
+    gap: 3px;
+  }
+
+  .header-actions-row-secondary .post-link {
+    padding: 4px 5px;
+    font-size: 0.58rem;
   }
 }
 
