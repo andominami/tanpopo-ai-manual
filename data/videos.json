@@ -1747,10 +1747,19 @@
   {
     "id": "video-sterile-bag-instrument-handoff",
     "title": "滅菌袋からの器具の出し方、受け渡し方",
-    "description": "滅菌袋から器具を渡す時\n\nOK→滅菌袋を開け、中を触らないようにDrに渡す。\nトレーに出しDrに取ってもらう。",
+    "description": "滅菌袋から器具を渡す時\n\nOK→滅菌袋を開け、中を触らないようにDrに渡す。\nトレーに出しDrに取ってもらう。\n\n※間違った例はこちら: https://andominami.github.io/tanpopo-ai-manual/#id=video-sterile-bag-instrument-handoff-ng",
     "category": "消毒室関連",
     "recordedDate": "2023-10-21",
     "submittedBy": "近藤有希",
     "driveFileId": "18RgZKL4dVJxlxlPEjqTwu6lwbJtEoY_x"
+  },
+  {
+    "id": "video-sterile-bag-instrument-handoff-ng",
+    "title": "滅菌袋からの器具の受け渡し方(NG例)",
+    "description": "滅菌袋から器具を渡す時\n\nNG→滅菌袋から出し、直接持ち直して渡す。\n\n※正しい例はこちら: https://andominami.github.io/tanpopo-ai-manual/#id=video-sterile-bag-instrument-handoff",
+    "category": "消毒室関連",
+    "recordedDate": "2023-10-21",
+    "submittedBy": "近藤有希",
+    "driveFileId": "18RFyCP4niJZMwzjGAvX4kMNugqJWXlmO"
   }
 ]
