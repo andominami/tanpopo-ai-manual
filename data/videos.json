@@ -1796,5 +1796,20 @@
     "recordedDate": "2026-06-17",
     "submittedBy": "吉田佳奈",
     "type": "text"
+  },
+  {
+    "id": "photo-one-cas-kit-arrangement",
+    "title": "ワンカスキット(One CAS KIT)の配列写真",
+    "description": "",
+    "category": "診療業務",
+    "recordedDate": "2021-12-19",
+    "submittedBy": "",
+    "type": "photo",
+    "photoFileIds": [
+      "1vhfbrolJQlIA7hJQPALSSdjRSAeC_ArF",
+      "1jDpWbaciIlLcryBRp_oWqz6ICt4RGLPV",
+      "1Ax9B75i7_iTD24tFd3iYNtm7Av3lowh9",
+      "19q419DZtVMVAafViIW79VnVtC46VjPb7"
+    ]
   }
 ]
