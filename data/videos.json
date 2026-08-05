@@ -1482,10 +1482,11 @@
   {
     "id": "v0161",
     "title": "インプラント　サージカルガイドのスキャン方法",
-    "description": "",
+    "description": "石膏節約の為にサージカルガイドをプライムスキャンで撮る方法を動画にしました\nご確認ください",
     "category": "診療業務",
     "recordedDate": "",
-    "driveFileId": "1xUnURo1mgANGD2tSsHN4x7Po9hjVbpC9"
+    "driveFileId": "1xUnURo1mgANGD2tSsHN4x7Po9hjVbpC9",
+    "submittedBy": "吉田佳奈"
   },
   {
     "id": "v0159",
@@ -1843,6 +1844,19 @@
       "1voRRy30ErMbdAqUmN5wmczVol0rhzmey",
       "1Anv2gFQKtX0gBSxS4LmzVutTJlrnbgtv",
       "1toaKzvFETLz2-7Rin5HN6pNV_rNAuu8I"
+    ]
+  },
+  {
+    "id": "photo-implant-healing-abutment",
+    "title": "インプラントのヒーリングアバットメントについて",
+    "description": "インプラントのヒーリングアバットメントについて\n\n超音波をかけて血液や汚れを落としてから個包装しています。\n血液ついたまま滅菌パックに入れないでください。\nまた、1Fで滅菌をかけるとなくなってしまう恐れがある為、使用後はパックせずに2F消毒室のアルミカップに入れてください。\n\n血液ついたまま滅菌パックに入れてしまうと洗浄の為に滅菌パックを開けなくてはならない為滅菌パックの無駄になります。\n\n宜しくお願いします。",
+    "category": "診療業務",
+    "recordedDate": "2024-07-03",
+    "submittedBy": "吉田佳奈",
+    "type": "photo",
+    "photoFileIds": [
+      "1ErERguwrCJ2sno4nytGC0BiF4tQtz5Cg",
+      "1NPJTeFNyMc_nes055sT9hLbptsbRacPX"
     ]
   }
 ]
