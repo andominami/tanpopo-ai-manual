@@ -1858,5 +1858,40 @@
       "1ErERguwrCJ2sno4nytGC0BiF4tQtz5Cg",
       "1NPJTeFNyMc_nes055sT9hLbptsbRacPX"
     ]
+  },
+  {
+    "id": "photo-implant-estimate-data",
+    "title": "インプラントの見積もりデータについて",
+    "description": "インプラントの見積もりデータについて\n\n見積もりデータは上書きしないでください\n\n最近上書きされていることが多いです\n\n誤って上書きしてしまった場合は元に戻してください\n\nよろしくお願いいたします",
+    "category": "診療業務",
+    "recordedDate": "2025-11-02",
+    "submittedBy": "吉田佳奈",
+    "type": "photo",
+    "photoFileIds": [
+      "1s4RU74uDAwf9nFLvv3p0_EQn1e9uuElZ"
+    ]
+  },
+  {
+    "id": "photo-dh-saliva-acidity-periodontal",
+    "title": "唾液の働き・酸性度について（食生活指導）・歯周病の進行",
+    "description": "○唾液の働き\n○酸性度について(食生活指導)\n○歯周病の進行\n資料をケア入力PCのところへ準備したので自由に使ってください。",
+    "category": "診療業務",
+    "recordedDate": "2022-09-12",
+    "submittedBy": "永友奈々子",
+    "type": "photo",
+    "photoFileIds": [
+      "1hiU1_Nrzz02YVSw1hmUELrd3X2QXkiWq",
+      "1GrTdaAdPZljefIZJ4QAA9B1WrzTOyz2C",
+      "1s9oJ6aOTMTpRD3EhL7h43a2q3ttxWSU4"
+    ]
+  },
+  {
+    "id": "text-dh-interdental-cleaning",
+    "title": "【DH会より】歯間清掃について",
+    "description": "報告が遅くなり申し訳ありません。\nクレームの件でDHアンケートをとり、ある程度の統一をする事について話し合いました。術者によってばらつきがでてしまうので、これからは施術内容とDH名もカルテにしっかり記載する事を徹底しましょう(エアフロー使用なども)\n\n○フロス\nケアでも2列目でも必ず全員に通す。\n\n○歯間ブラシ　1本10.45円\n術者のやり方に差が出やすい為、通したら通した事とサイズをカルテに必ず記載。(サイズの提案や購入にも繋がる)\n\n○ＢｒやＩのスーパーフロス　1本7.3円\n差別化を図るためＡ.Ｓ.Ｉメンテは必ず通す。\n保険コースで使った場合にはカルテに記載する。",
+    "category": "診療業務",
+    "recordedDate": "2022-09-12",
+    "submittedBy": "永友奈々子",
+    "type": "text"
   }
 ]
