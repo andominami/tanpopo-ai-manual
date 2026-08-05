@@ -802,10 +802,11 @@
   {
     "id": "v0812",
     "title": "マネキン設置方法(1分動画)",
-    "description": "",
+    "description": "誰でも正しくセッティングできるように\n基本的な事ですが、みなさん今一度確認をお願いします。\n10月にはSRP実技テストがあります。\n\n・注意① 動画の赤文字部分\nマネキン後ろの支柱のネジは使用しているとだんだん緩んできて、施術中にガタつく原因になります。各自で毎度必ずネジが締まってるか確認してから試験に挑むようお願いします。\n\n・注意② ヘッドローテーション\n無理やりに傾ける人がいます。必ずネジを緩めてから、角度調節してください。\nよろしくお願いいたします。",
     "category": "診療業務",
-    "recordedDate": "",
-    "driveFileId": "15Aze-KzHPZvckGYVF4riIfTfaCGXRhLr"
+    "recordedDate": "2023-08-28",
+    "driveFileId": "15Aze-KzHPZvckGYVF4riIfTfaCGXRhLr",
+    "submittedBy": "永友奈々子"
   },
   {
     "id": "v0822",
@@ -1937,6 +1938,21 @@
     "type": "photo",
     "photoFileIds": [
       "1tSlGeNWC9p1TwC7U5V5xAq1SOcdRLwSZ"
+    ]
+  },
+  {
+    "id": "photo-prinia-sonic-brush-orthodontic",
+    "title": "プリニア音波ブラシ　矯正装置の当て方について",
+    "description": "Dr矢沢へ確認して教えていただきました。\n基本的には手用歯ブラシで磨いてほしいそうです。\n(極細毛で毛が長いのが適している)\n\nただ、電動歯ブラシをお使いの方の場合\n①歯面に90°に当てない。\n　(結紮線が解ける原因となるため)\n\n②ブラケット装置の上から・下から当てる。\n\n③歯間の汚れはワンタフトを軽く当て、\n浮いてきた汚れをうがいで洗い流す。\n無理に貫通させて取りきろうとしなくて良い。\n(Dr矢沢は水流で落とすジェットウォッシャーを推奨しているそうですが、歯磨き後はよくゆすいでもらうようにしましょう)",
+    "category": "診療業務",
+    "recordedDate": "2023-07-19",
+    "submittedBy": "永友奈々子",
+    "type": "photo",
+    "photoFileIds": [
+      "1APOmfaQVKI0AzaklObbsoXWYQnVa8Jmu",
+      "1yLFKNQgykGy32H5N-Y5_0qNt2DA17faX",
+      "1LHHa-lCK5YLP4rfOLl0_1c9BJ7k8dx9x",
+      "1-gPGYy0sKVi85IZj3R36SdR-q4N7QDZq"
     ]
   }
 ]
