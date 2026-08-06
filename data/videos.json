@@ -2095,5 +2095,23 @@
       "1w_hwHe3ejK9Vcv7RUMpK_wJGvQVxXddl",
       "11U9b3hgXyyk7OVJHSwqhTq72Zp0iowxr"
     ]
+  },
+  {
+    "id": "video-visit-billing-list-invoice",
+    "title": "訪問先別請求一覧・請求書の出し方",
+    "description": "施設へまとめて請求するときの請求一覧と請求書の出し方です。",
+    "category": "訪問業務",
+    "recordedDate": "2022-03-03",
+    "submittedBy": "小林さち子",
+    "driveFileId": "1KGESS0vh_vXYZlOOvNDXYnoNGDBX9ABK"
+  },
+  {
+    "id": "video-visit-daily-record-entry",
+    "title": "訪問日計表の記入方法",
+    "description": "",
+    "category": "訪問業務",
+    "recordedDate": "2022-03-03",
+    "submittedBy": "小林さち子",
+    "driveFileId": "1XpcPe1cF3K80Ko1i4O14OHDoNGSzE1yb"
   }
 ]
