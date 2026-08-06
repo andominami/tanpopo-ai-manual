@@ -2069,5 +2069,31 @@
     "recordedDate": "2022-03-03",
     "submittedBy": "有光香織",
     "type": "text"
+  },
+  {
+    "id": "photo-walser-matrix",
+    "title": "ワルサーマトリックスについて",
+    "description": "使用した際は、Ｎｏ．1かＮｏ．2どっちのボックスから取ったのか分かるよう滅菌袋に書いてください。ボックスに滅菌袋も入れてあります。\n戻す際には、袋から出してクランプに戻す場所の番号書いてあるので、フォーセップス使って戻して下さい。形態が維持できて長持ちすると思われます。\n現時点で3つ行方不明で、1つ3000円近くするそうです。よろしくお願いします。\n田中",
+    "category": "消毒室関連",
+    "recordedDate": "2022-03-03",
+    "submittedBy": "田中",
+    "type": "photo",
+    "photoFileIds": [
+      "15n9sk-pLK-qophFckGEUkBfyxHFWsfAO",
+      "11UBHGUxX1lofUxKFgd1tWjXZ3SKIpU1c"
+    ]
+  },
+  {
+    "id": "photo-instruments-not-miele",
+    "title": "ミーレをかけない器具について",
+    "description": "緑のテープが貼ってあるのには、今まで通り薬液を入れてください。\nバーは容器自体変わりました。上まで浸かるように線まで薬液入りの水を入れてください。\n田中",
+    "category": "消毒室関連",
+    "recordedDate": "2022-03-03",
+    "submittedBy": "田中",
+    "type": "photo",
+    "photoFileIds": [
+      "1w_hwHe3ejK9Vcv7RUMpK_wJGvQVxXddl",
+      "11U9b3hgXyyk7OVJHSwqhTq72Zp0iowxr"
+    ]
   }
 ]
