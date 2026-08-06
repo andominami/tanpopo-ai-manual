@@ -2042,5 +2042,32 @@
     "category": "消毒室関連",
     "recordedDate": "2021-12-05",
     "driveFileId": "1dDwxlVp_4dQ4ZOt9cMeBNeaKWNccInOx"
+  },
+  {
+    "id": "video-ultrasonic-cleaner-cleanup",
+    "title": "超音波洗浄機の片付けの仕方",
+    "description": "",
+    "category": "消毒室関連",
+    "recordedDate": "2022-03-05",
+    "submittedBy": "川崎真紀",
+    "driveFileId": "1rNT8PHRGeE6Y2R1YWnmXNxQK--JSsAcA"
+  },
+  {
+    "id": "text-oral-surgery-instrument-sterilization",
+    "title": "口腔外科で使用する器具の洗浄滅菌について",
+    "description": "今まで通りにミーレをかけるやり方だと器具が足りなくなります。\n洗浄滅菌方法の動画を上げるので確認してください。\n\n①超音波にハイジーンウォッシュ入れて10分かける\n②10分後お水ですすぐ\n③滅菌パックに入れる\n④クラスBにかける\n\nこのやり方で口腔外科についているアシストがやってください。\n\n難しかったりなにかありましたら声かけてください。\n\nようこ、川崎",
+    "category": "消毒室関連",
+    "recordedDate": "2022-03-05",
+    "submittedBy": "川崎真紀",
+    "type": "text"
+  },
+  {
+    "id": "text-zoo-vacuum-request",
+    "title": "皆様へお願い(ZOOバキュームの取り扱いについて)",
+    "description": "ZOOバキューム使用後、必ず水を吸わせて、キッズの消毒液の中に浸けて下さい。ミーレは使用しません。超音波で洗浄後滅菌します。\nOG消毒室が「水」になり、チューブの中が不衛生になってしまうので、必ずお願いします。",
+    "category": "消毒室関連",
+    "recordedDate": "2022-03-03",
+    "submittedBy": "有光香織",
+    "type": "text"
   }
 ]
