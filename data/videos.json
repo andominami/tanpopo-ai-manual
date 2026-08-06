@@ -1993,5 +1993,30 @@
     "photoFileIds": [
       "1f1jctk6lx7X3DJYSNesCX2QqRFvyoto0"
     ]
+  },
+  {
+    "id": "video-3f-training-room-cleaning",
+    "title": "3階研修室の清掃方法",
+    "description": "",
+    "category": "基本業務",
+    "recordedDate": "2021-12-19",
+    "submittedBy": "亀山法子",
+    "driveFileId": "1uoT2agGb-P4vu6rxg5XciQEl6bfbG0Mf"
+  },
+  {
+    "id": "video-og-disinfection-basic-set-layout",
+    "title": "OG消毒室の基本セットの並べ方",
+    "description": "",
+    "category": "消毒室関連",
+    "recordedDate": "2021-12-20",
+    "driveFileId": "1MAcBXKSp4-yLKtuu543udy7O0K9nLDv7"
+  },
+  {
+    "id": "video-og-disinfection-miele-sterilization",
+    "title": "O・G階消毒室ミーレ後の滅菌について",
+    "description": "",
+    "category": "消毒室関連",
+    "recordedDate": "2021-12-05",
+    "driveFileId": "1atKYZH20GSlUc6RJ7MLTIlqKlNBBt9jP"
   }
 ]
