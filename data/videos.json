@@ -2151,5 +2151,57 @@
       "1JAhVWT3YSj2rupJ7gfZoU-x2Tb18rWTM",
       "1PmrOukQKapaoCNsSqXfVI8nYPb5zAZI8"
     ]
+  },
+  {
+    "id": "photo-icrave-mini-packing-wipe",
+    "title": "アイクレーブミニ庫内パッキン清拭",
+    "description": "毎朝電源をつける前に機械が冷めている状態で\n水拭きもしくはアルコールガーゼで\n庫内と外側表面を清拭します。\n説明書の画像添付してます。1番上です。\nメンテナンス１階①",
+    "category": "メンテナンス関連",
+    "recordedDate": "2024-08-24",
+    "submittedBy": "永友奈々子",
+    "type": "photo",
+    "photoFileIds": [
+      "1_3o3MOcefEwbhFxQZ_sGFscRQK-mWE9X",
+      "1BUqrLiW4O92LDDJwOC2dAxivkdrpyOyO"
+    ]
+  },
+  {
+    "id": "photo-unit-water-bleach-weekly",
+    "title": "ユニット水回りの漂白：毎週(日)夜",
+    "description": "(日)は各フロアでユニット片付けの際に、\nスピットンの傘・フィルター・コップ置き、\n汚れていたらシンクの排水フィルターや\n印象材の三角コーナー等を\nバケツに入れてハイターで漬け置きします。\n翌朝(月)に水洗いして元に戻しましょう。",
+    "category": "メンテナンス関連",
+    "recordedDate": "2024-08-25",
+    "submittedBy": "永友奈々子",
+    "type": "photo",
+    "photoFileIds": [
+      "1my7BHnywGHXQBrvWDaBmnu5BpAOG9Bmv"
+    ]
+  },
+  {
+    "id": "photo-nitradem-2f-daily",
+    "title": "2階ニトラデム(毎日1回)",
+    "description": "ニトラデムの中に同じ水が溜まっていると、DACへ古い水が供給されてエラーになってしまいます。それを防ぐために、DACが滅菌等で稼働していない時に毎日2〜3分の排水が必要です。\n【やり方】\n①ニトラデム 下のスイッチを縦にひねる\n②2〜3分そのまま(5ℓ排水される)\n③その間に周りのホコリを清拭、整理整頓\n④スイッチを横にもどす\n(合図はないので時間が経ったらもどす)\n\n簡単なのでケアやZの方、毎日やりましょう！",
+    "category": "メンテナンス関連",
+    "recordedDate": "2024-08-29",
+    "submittedBy": "永友奈々子",
+    "type": "photo",
+    "photoFileIds": [
+      "1cDVFN0XLde2pzLTrtGW7ySV5bVS8QyaZ",
+      "1T39r0QZBSOSC050fqezecmEE24CjbFoQ"
+    ]
+  },
+  {
+    "id": "photo-class-b-vacuum-test-friday",
+    "title": "クラスB バキュームテスト (金)朝",
+    "description": "電源を付けたらプログラムを数回押して\n「バキュームテスト」を選択してスタート。\n20分ほどかかります。週に1回朝行います。\n終了したら数値が表示されるので記録票へ記入。\n1.3以下　正常。\n1.3以上　成功しませんでした＝GCへ電話",
+    "category": "メンテナンス関連",
+    "recordedDate": "2024-08-29",
+    "submittedBy": "永友奈々子",
+    "type": "photo",
+    "photoFileIds": [
+      "1NQeNRulMDwz7FX4WwFBH-AWDZJjXW4c4",
+      "1ahd67p6dwa1ptHDT6pi69s4T8JdcO556",
+      "1SFLdpclZK71ND5Aj4gJ90-oIqUdyLkft"
+    ]
   }
 ]
