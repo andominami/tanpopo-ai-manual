@@ -2540,5 +2540,61 @@
     "photoFileIds": [
       "1s0IQa6yGrf5hEOZSJPpkbcRPWx1HeIdd"
     ]
+  },
+  {
+    "id": "photo-tissue-conditioning-soft-liner-prep",
+    "title": "ティッシュコンディショニング(ソフトライナー)準備",
+    "description": "①ワセリン\n②ガラス容器\n③粉\n④液\n⑤スポイト\n⑥プラスチックスパチュラ\n⑦金冠ばさみ\n⑧ストレート\n⑨技工用バーセット\n\n＊金冠ばさみはユニファーストの中から借りています。\n＊①〜⑥は棚の2段目のソフトライナーの箱に入っています。",
+    "category": "診療業務",
+    "recordedDate": "",
+    "submittedBy": "井出真理愛",
+    "type": "photo",
+    "photoFileIds": [
+      "1fN9TMY6q4yIQFRXssTa_cZzSW018QTzv",
+      "19LuBNl8wAs-fr_8SbnJu46GfEEQhpI0-"
+    ]
+  },
+  {
+    "id": "photo-sc-polishing-prep",
+    "title": "ＳＣ＆ポリッシングの準備",
+    "description": "①鎌形（シックル）スケーラー\n②ルーティー（エアスケーラー）\n③タスカル（ヘッド）\n④タスカル（本体）\n⑤チェックアップスタンダード",
+    "category": "診療業務",
+    "recordedDate": "2022-05-02",
+    "type": "photo",
+    "photoFileIds": [
+      "1Nc8U9nX5Yf8Y3EGRQ17IsR6NcRRAt-s4"
+    ]
+  },
+  {
+    "id": "photo-cr-preparation",
+    "title": "CRの準備",
+    "description": "①照射器\n②CCD\n③タービンまたは５倍速、バー\n④CRレジン\n⑤アプリケーター\n⑥エッチング\n⑦ボンディング\n⑧ストリップス",
+    "category": "診療業務",
+    "recordedDate": "2022-05-02",
+    "type": "photo",
+    "photoFileIds": [
+      "140mybg6N_jbXoff58HXMDOTJa-szDM8W"
+    ]
+  },
+  {
+    "id": "photo-sealant-preparation",
+    "title": "シーラントの準備",
+    "description": "①照射機\n②ディスポトレー（キッズはダッペンディッシュ）\n③シーラントのプライマー\n④マイクロブラシ\n⑤先端のチップ\n⑥シーラント本体",
+    "category": "診療業務",
+    "recordedDate": "2022-05-02",
+    "submittedBy": "早田愛",
+    "type": "photo",
+    "photoFileIds": [
+      "1uSurYo8VbI1MYn410aUM6zazwCc-kcfH"
+    ]
+  },
+  {
+    "id": "video-irradiator-cover-attachment",
+    "title": "照射器のカバーの付け方",
+    "description": "照射器やCCDカメラにカバーをつけるときは口腔内で外れないようにしっかりとつけるようおねがいします。",
+    "category": "診療業務",
+    "recordedDate": "2022-04-24",
+    "submittedBy": "熊谷容子",
+    "driveFileId": "1-Repz5neh_VAW0dgxOYhC-NXBUSdaHDz"
   }
 ]
