@@ -2415,5 +2415,44 @@
       "1nm_pSLDjpbarBEV71FXolcbwQQrA-uLe",
       "13J7HVagOEuRFEQfRRLjXCj1fJ_CeO1U7"
     ]
+  },
+  {
+    "id": "photo-root-canal-treatment-rct",
+    "title": "根管治療(根治、RCT)",
+    "description": "●ラバーダム防湿\n・ラバーダム一式\n・必要なら浸麻も\n・隔壁つくるならCR準備\n●仮封除去\n・5倍速\n・バー\n●根管洗浄\n・ルーティ(なるべく先が真っ直ぐなの)\n・酸性水、ネオクリーナー、オキシドールなど\n・ブローチ(綿線をつくる器具)\n・ペーパーポイント\n●根管拡大、根管長測定\n・ファイル\n・エンドゲージ\n・キャナルメーター(根管長測定器)\n※キャナルメーターのコード巻く時、根元をきつく巻かない。\n●仮封\n・IRM\n・ストッパー",
+    "category": "診療業務",
+    "recordedDate": "2022-05-11",
+    "submittedBy": "田中歩美",
+    "type": "photo",
+    "photoFileIds": [
+      "1naM88Hen06puWK-KowZWt58p5KlK7nxd",
+      "1H-Wuu_eHg3uVO14g7X34PN8UVKJdJ9bh",
+      "1IzrtW9MZnOPK4-xGzUho8vaw7bWI0CZq"
+    ]
+  },
+  {
+    "id": "photo-bite-registration-bt",
+    "title": "咬合採得(BT)",
+    "description": "G前の左下の引出しにセットであります。",
+    "category": "診療業務",
+    "recordedDate": "2022-05-11",
+    "submittedBy": "田中歩美",
+    "type": "photo",
+    "photoFileIds": [
+      "1qUdIPsvQLy_l0A8dwltSlMdj5ZHEhmDn",
+      "1BhTS1BfSiCZMTcVF4U2DFUTxwRhnVExq"
+    ]
+  },
+  {
+    "id": "photo-denture-repair-cracked-tooth-added",
+    "title": "ギシの修理(割れた、増歯)",
+    "description": "・ユニファースト(接着剤、金冠バサミ)\n・技工用バー\n・ワセリン\n・お湯\n\n修理内容によって異なります。",
+    "category": "診療業務",
+    "recordedDate": "2022-05-11",
+    "submittedBy": "田中歩美",
+    "type": "photo",
+    "photoFileIds": [
+      "1CNI1KNde0amOwFsESuZVy1sw69Oh5r8D"
+    ]
   }
 ]
