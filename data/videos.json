@@ -2240,5 +2240,59 @@
     "photoFileIds": [
       "1mYbrXnIqd791N5aR4eiNbWKjlCH7PT7S"
     ]
+  },
+  {
+    "id": "video-irradiator-wrap-winding",
+    "title": "照射機のラップ巻き方",
+    "description": "柳川さんがはがれにくい巻き方を教えてくれました。ひっぱりながら巻くのがコツだそうです。動画を共有します。",
+    "category": "診療業務",
+    "recordedDate": "2026-06-25",
+    "submittedBy": "永友奈々子",
+    "driveFileId": "1ugGUho1rzYhXS-i__l3IVHtYfV4Jpl6s"
+  },
+  {
+    "id": "photo-yutaka-prosthesis-case",
+    "title": "ユタカ　補綴物ケース",
+    "description": "OG消毒室のグローブの上棚にBOXを設置しました。\nセット後の空ケースはこちらにいれてください。\nユタカさんが定期的に確認して\n回収してくださることになりました。\nよろしくお願いいたします。",
+    "category": "診療業務",
+    "recordedDate": "2026-04-24",
+    "submittedBy": "永友奈々子",
+    "type": "photo",
+    "photoFileIds": [
+      "1z7z_hMPGrXbPdCEwmDBZYHUOUEJXz7_z"
+    ]
+  },
+  {
+    "id": "photo-basic-set-sharp-instrument-caution",
+    "title": "基本セットを組む時の注意",
+    "description": "基本セットを組む時に、鋭利な器具は\n上向きでいれるよう統一をお願いいたします。\n\n新人さんも入られましたので\n針刺し事故防止のためにも、\n器具の取り扱いについて今一度ご確認ください。\nよろしくお願いいたします。",
+    "category": "診療業務",
+    "recordedDate": "2026-04-22",
+    "submittedBy": "永友奈々子",
+    "type": "photo",
+    "photoFileIds": [
+      "1yNsmgDwn8804sgwMc_R1yn2DQdvLB3Vy"
+    ]
+  },
+  {
+    "id": "video-dental-scan-method",
+    "title": "デンタルのスキャン方法",
+    "description": "申し訳ありません！レントゲンの一連の動画、縦で撮ってしまいました！",
+    "category": "診療業務",
+    "recordedDate": "2022-01-29",
+    "submittedBy": "亀山法子",
+    "driveFileId": "1hZsLeXBqYDVyJHy7fF6PzSs0Dz3iPRln"
+  },
+  {
+    "id": "photo-rct-tools",
+    "title": "RCTの時に使う道具",
+    "description": "Dr.柳田がRCTに時に使う物の一覧です。\n基本Zの2番に置いてあります。\n\n基本バー\n21Hのファイル\n08 10のファイル\n根治ノート\n酸性水\n根管長測定器\n9P (9番のプラガー)\nネオクリーナー\n外科用のバキューム\nエンドゲージ\nバイトブロック\nラバーダムシート\nラバーダムパンチ\nラバーダムフレーム\nクランプ (基本202)\nクランプフォーセップス\n\n・根治する部位がわかる場合は、ラバーダムシートに穴を開けてクランプをつけた状態でおいておきましょう。\n\n・排唾管は使いません。",
+    "category": "診療業務",
+    "recordedDate": "2022-03-06",
+    "submittedBy": "熊谷容子",
+    "type": "photo",
+    "photoFileIds": [
+      "15AiX4M7q83q5eKcLHwPOsbHbBscTkUP9"
+    ]
   }
 ]
