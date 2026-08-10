@@ -2203,5 +2203,42 @@
       "1ahd67p6dwa1ptHDT6pi69s4T8JdcO556",
       "1SFLdpclZK71ND5Aj4gJ90-oIqUdyLkft"
     ]
+  },
+  {
+    "id": "photo-icare-1f-inner-wipe-daily",
+    "title": "1階アイケアの内面清拭(毎日)",
+    "description": "蓋開けて、内面や挿すところにオイル汚れがついてるので拭き取る。ペーパータオルも汚れてたら新しくする。",
+    "category": "メンテナンス関連",
+    "recordedDate": "2024-08-29",
+    "submittedBy": "田中歩美",
+    "type": "photo",
+    "photoFileIds": [
+      "1swc860OwU4i-4OJmA96vDAvMR3J3iRSM"
+    ]
+  },
+  {
+    "id": "photo-2f-gas-sterilizer-maintenance",
+    "title": "2階ガス滅菌 メインテナンス",
+    "description": "①缶体内の清拭(シンナーは使わない)\n②蓋のパッキンは消耗品なので2年毎に新しいものに交換\n③ミクロフィルターは1年に1回交換",
+    "category": "メンテナンス関連",
+    "recordedDate": "2024-08-29",
+    "submittedBy": "吉村海南",
+    "type": "photo",
+    "photoFileIds": [
+      "1p3ARrI3i1XoZB9SaetP37V0flfGUYaxc",
+      "17Krc-wbeFFw-ydYaPllQnQhcUbdtWabp"
+    ]
+  },
+  {
+    "id": "photo-z3-unit-caution",
+    "title": "Zの3番ユニット",
+    "description": "Z-3ユニットとOPE室のユニットは通常ユニットと形が違うので、夜ユニットを1番上まで上げたまま長時間放置してしまうと中のバネが伸びて故障の原因になります。\n\n夜上げないようご注意ください。",
+    "category": "診療業務",
+    "recordedDate": "2024-10-30",
+    "submittedBy": "吉田佳奈",
+    "type": "photo",
+    "photoFileIds": [
+      "1mYbrXnIqd791N5aR4eiNbWKjlCH7PT7S"
+    ]
   }
 ]
