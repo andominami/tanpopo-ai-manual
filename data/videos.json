@@ -2339,5 +2339,55 @@
     "recordedDate": "2022-05-11",
     "submittedBy": "亀山法子",
     "driveFileId": "1EmuCm7Tq9PvJ0ISEPW2ueIGV2_Z5ppNA"
+  },
+  {
+    "id": "video-infiltration-anesthesia-set",
+    "title": "浸麻のセット方法",
+    "description": "",
+    "category": "診療業務",
+    "recordedDate": "2022-05-11",
+    "submittedBy": "亀山法子",
+    "driveFileId": "1xQd42_F6ZN9XolDmMVkc1UV1lLZJRH9X"
+  },
+  {
+    "id": "video-electric-anesthesia-prep-1f-2f",
+    "title": "電動麻酔の準備1F、2F",
+    "description": "",
+    "category": "診療業務",
+    "recordedDate": "2022-05-29",
+    "submittedBy": "亀山法子",
+    "driveFileId": "1o3O_wkFoQ0Fpdu05oH5-0Ix0K1NfgOSR"
+  },
+  {
+    "id": "video-sponge-brush-usage",
+    "title": "スポンジブラシの使用法",
+    "description": "スポンジブラシの使い方を動画にまとめました。\n使用法がわからない方はご活用ください。",
+    "category": "診療業務",
+    "recordedDate": "2022-06-06",
+    "driveFileId": "1C_DZTnuvmA0vjN_OZaKG7W6nczphUR4R"
+  },
+  {
+    "id": "photo-5x-contra-angle-handpiece",
+    "title": "５倍速コントラアングルハンドピース",
+    "description": "幹部会より。\n各自、５倍速コントラのライト付き・無しの見分けを出来るようにお願いします。\n\n①接続部に黒い突起がある\nかつ、\n②注水部下に楕円形のパネルのような部分がある\n\nものがライト付きの５倍速です。\n口腔外科Dr.から要望があるようなのでお願いいたします。",
+    "category": "診療業務",
+    "recordedDate": "2023-10-30",
+    "submittedBy": "草柳早紀",
+    "type": "photo",
+    "photoFileIds": [
+      "1QUe_QegAyAJ4EPR0074Z--jroyDDe_w2"
+    ]
+  },
+  {
+    "id": "photo-agar-remnant-buildup",
+    "title": "寒天の半端な物が滞留している件について",
+    "description": "※写真を撮る前はもう一本少ないものがありました。\n\n⚠柳田先生より。\n\n以前より言っていることですが、寒天は中途半端な量が保温器に残っているのに量の多いものを使うのではなく、\n半端な量のものから使って下さい。(カートリッジを2本持っていくなど。柳田先生はそうしています。)\n少ないものが溜まらないようにして下さい。(滞留すると電源OFFしたり加温したり繰り返す度に劣化し精度も落ちます。)\n皆様そうして頂きDr.と衛生士の方はアシストの方がそうして持ってきた場合はそれをご了承ください。",
+    "category": "診療業務",
+    "recordedDate": "2023-11-25",
+    "submittedBy": "草柳早紀",
+    "type": "photo",
+    "photoFileIds": [
+      "1AsgQXOYxee09XF9rogo7S1Sw8I1V-HQl"
+    ]
   }
 ]
