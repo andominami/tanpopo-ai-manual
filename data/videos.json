@@ -2294,5 +2294,50 @@
     "photoFileIds": [
       "15AiX4M7q83q5eKcLHwPOsbHbBscTkUP9"
     ]
+  },
+  {
+    "id": "video-vacuum-holding-upper-lower-right",
+    "title": "バキュームの持ち方:右上下編",
+    "description": "",
+    "category": "診療業務",
+    "recordedDate": "2022-02-23",
+    "driveFileId": "1Z-zxb2Hnki4Efo9im9u2ozdoZbP-3gTB"
+  },
+  {
+    "id": "video-final-impression-agar-assist",
+    "title": "本印象アシスト:寒天のアシストについて",
+    "description": "",
+    "category": "診療業務",
+    "recordedDate": "2022-02-23",
+    "driveFileId": "1ecw-4aFV2mxBqBzdt9MQV7BBAzQ8QK4u"
+  },
+  {
+    "id": "photo-first-visit-form-entry",
+    "title": "初回用紙の記入",
+    "description": "",
+    "category": "診療業務",
+    "recordedDate": "2022-03-26",
+    "type": "photo",
+    "photoFileIds": [
+      "1k6bOjH0RH89DiTNS0yjlF9jtKiiIdsc4"
+    ]
+  },
+  {
+    "id": "video-lumix-usage",
+    "title": "ルミックス使用方法",
+    "description": "",
+    "category": "診療業務",
+    "recordedDate": "2022-05-05",
+    "submittedBy": "亀山法子",
+    "driveFileId": "13IE7V4Syygh4qdEeIaru9yZtqNOe2dQH"
+  },
+  {
+    "id": "video-co2-laser-preparation",
+    "title": "CO2レーザーの準備",
+    "description": "",
+    "category": "診療業務",
+    "recordedDate": "2022-05-11",
+    "submittedBy": "亀山法子",
+    "driveFileId": "1EmuCm7Tq9PvJ0ISEPW2ueIGV2_Z5ppNA"
   }
 ]
