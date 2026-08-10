@@ -2474,5 +2474,71 @@
       "1ksNW1Kt_KTtcD7Qkrox4eBRkTRtkx5Qk",
       "1or1BA3uH819G5ZvLUOSRbd4sDXrS7gQJ"
     ]
+  },
+  {
+    "id": "photo-denture-production-process",
+    "title": "義歯の製作過程",
+    "description": "",
+    "category": "診療業務",
+    "recordedDate": "2022-05-05",
+    "submittedBy": "永友奈々子",
+    "type": "photo",
+    "photoFileIds": [
+      "1sslREBSKM_VB3d6Kdb37zN0d-t2pxzsI",
+      "1bYClihtCpeaqtAesRjaYO2d-ex_VRBGl"
+    ]
+  },
+  {
+    "id": "photo-core-formation-resin-core-prep",
+    "title": "コア形成、レジンコア準備",
+    "description": "①ボンディング（レジンコア用）\n②マイクロチップ\n③スクリューピン、スクリューピンドライバー\n④ダイヤモンドピンセット\n⑤ミキシングチップ\n⑥レジン\n⑦照射機\n\n★①、③〜⑥が入ったレジンコアのセットは冷蔵庫の中にあります",
+    "category": "診療業務",
+    "recordedDate": "2022-05-05",
+    "submittedBy": "早田愛",
+    "type": "photo",
+    "photoFileIds": [
+      "1xpazJ-3LSiBTjP7ClREwqJHux0cPKEqu",
+      "1OYYVME5mafjpx8tiubtxMfS-GUWcANWA"
+    ]
+  },
+  {
+    "id": "photo-rebase-preparation-manual",
+    "title": "リベース準備マニュアル",
+    "description": "①リベース接着剤・ハケ\n②粉・計量カップ\n③液・ラバーカップ\n④プラスチックスパチュラ\n⑤ティッシュまたはペーパータオル\n⑥金冠バサミ（ユニファスト内から）\n⑦硬化促進剤・スプーン\n⑧ストレート・技工用バー\n⑨お湯（言われてから？）",
+    "category": "診療業務",
+    "recordedDate": "2022-05-03",
+    "submittedBy": "草柳早紀",
+    "type": "photo",
+    "photoFileIds": [
+      "1qMYmNAPSDann2Ykpgf6JpeScSSlrcf0U"
+    ]
+  },
+  {
+    "id": "photo-post-anesthesia-precautions",
+    "title": "麻酔後の注意事項",
+    "description": "①アプリケーションリンク\n②麻酔をした後の注意事項\n③スライドショーが流れる\n③閉じる時は画面長押し→スライドショーの終了",
+    "category": "診療業務",
+    "recordedDate": "",
+    "submittedBy": "蟹澤萌奈",
+    "type": "photo",
+    "photoFileIds": [
+      "12wtDBTOpBY6bzBJjv_grC7wHc5JsES67",
+      "1JLC3volyCSLTVlbdMKInpSscpDET6vwg",
+      "1AStN7Lq96u5DeTo0ozfcoR2NkcyyGpkO",
+      "1DbB1mv1h-M_zDX6Vyl9Ien1iFjSlsAz3",
+      "1h4tHVYuZzo9KdaDupF7nAf7rYcLyu-Gq"
+    ]
+  },
+  {
+    "id": "photo-tek-preparation",
+    "title": "TEK作成準備",
+    "description": "①粉\n②液\n③ラバーカップ\n④ワセリン\n⑤ストレート/技工バー\n⑥金冠ハサミ\n⑦小筆\n⑧鉛筆\n⑨スパチュラ\n⑩お湯",
+    "category": "診療業務",
+    "recordedDate": "",
+    "submittedBy": "蟹澤萌奈",
+    "type": "photo",
+    "photoFileIds": [
+      "1s0IQa6yGrf5hEOZSJPpkbcRPWx1HeIdd"
+    ]
   }
 ]
