@@ -2113,5 +2113,42 @@
     "recordedDate": "2022-03-03",
     "submittedBy": "小林さち子",
     "driveFileId": "1XpcPe1cF3K80Ko1i4O14OHDoNGSzE1yb"
+  },
+  {
+    "id": "photo-impression-tag-disposal",
+    "title": "印象の札はその日の最後にまとめて捨てる事にします。",
+    "description": "石膏を外すと誰が注いだのかわからなくなる為、これからは札は捨てずにとっておき、技工室当番がその日の夜にまとめて捨てましょう。また、注いだ人は赤字で名前を書くことを忘れないようにしましょう。\n皆さんよろしくお願いいたします。",
+    "category": "技工関連",
+    "recordedDate": "2022-10-02",
+    "submittedBy": "永友奈々子",
+    "type": "photo",
+    "photoFileIds": [
+      "1JWBkrY-MJCZvBxdp5Z6UAw2zH5E9YeLX"
+    ]
+  },
+  {
+    "id": "photo-nitradem-kids-renewal",
+    "title": "キッズの「ニトラデム」が新しくなりました",
+    "description": "キッズの「ニトラデム」が新しくなりました。ニトラデム本体の左側に、「電源スイッチ」と「水栓レバー」があり、その2ヵ所の操作となります。必ず行って下さい。\nコンセントは抜かず、今まで閉めていた水道の蛇口は開けたまま、白いレバーも横のままで大丈夫だそうです。よろしくお願いします。",
+    "category": "メンテナンス関連",
+    "recordedDate": "2023-02-02",
+    "submittedBy": "有光香織",
+    "type": "photo",
+    "photoFileIds": [
+      "1r7KV9NyAG1Vc0dTEA6LmTk7opHpbumY1"
+    ]
+  },
+  {
+    "id": "photo-storage-server-power-handling",
+    "title": "みなさんにお願いです(特に電源当番の方)",
+    "description": "1階レントゲン室の所にあるstorageの方のサーバーは緊急時以外電源を切らないでください。\n本日朝来たら切れていたようで、立ち上げたらエラーが出てしまってパノラマが撮れませんでした。\nパノラマのサーバーと接続ができてなくバックアップも正常に行われてなかったようです。\nテプラーも貼ってあるので見落としに気をつけて下さい。\n\n誤って切ってしまうような位置に電源ボタンないのですが、万が一切ってしまった場合は、①まずパノラマのPCをシャットダウンし、storageの電源ボタンを押して電源を切る。\n②storageのサーバーの裏にあるコンセントに繋がってる太いケーブルを抜いて、もう一度刺す。\n③storageの電源ボタンを押して電源をつける。\n④1〜2分後に、青いランプ1つ、緑のランプ9こ、青い点滅してるランプが1つ付いてれば正常に起動しています。\n⑤パノラマのサーバーを立ち上げる。ここで無事撮影ができれば問題ないそうです。撮影できないようならシロナさんに電話して下さい。\n\nよろしくお願いします。",
+    "category": "メンテナンス関連",
+    "recordedDate": "2023-08-08",
+    "submittedBy": "熊谷容子",
+    "type": "photo",
+    "photoFileIds": [
+      "1JAhVWT3YSj2rupJ7gfZoU-x2Tb18rWTM",
+      "1PmrOukQKapaoCNsSqXfVI8nYPb5zAZI8"
+    ]
   }
 ]
