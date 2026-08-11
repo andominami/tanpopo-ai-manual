@@ -868,7 +868,7 @@
     "id": "v0701",
     "title": "診療終了後の電源関係(診療側消毒室)",
     "description": "",
-    "category": "基本業務",
+    "category": "診療業務",
     "recordedDate": "",
     "driveFileId": "1u5TH858r0O_mIDMt4GQdkr-7jBR703j_"
   },
@@ -1470,7 +1470,7 @@
     "id": "v0094",
     "title": "電源当番 夜電源チェック (再投稿)",
     "description": "",
-    "category": "基本業務",
+    "category": "診療業務",
     "recordedDate": "",
     "driveFileId": "14wWACUALvUXsNNV62NzyhhemLpZKQazi"
   },
@@ -1575,7 +1575,7 @@
     "id": "v0122",
     "title": "電源当番【夜】",
     "description": "",
-    "category": "基本業務",
+    "category": "診療業務",
     "recordedDate": "",
     "driveFileId": "1pQebhDb4ncbH5iOK8_GmgwBzKi0Ws1l5"
   },
@@ -1583,7 +1583,7 @@
     "id": "v0098",
     "title": "電源当番【朝①】",
     "description": "",
-    "category": "基本業務",
+    "category": "診療業務",
     "recordedDate": "",
     "driveFileId": "14pYKJY41JCS4G49GhNnvlQV8IvpyYL7g"
   },
@@ -1591,7 +1591,7 @@
     "id": "v0084",
     "title": "電源当番【昼】",
     "description": "",
-    "category": "基本業務",
+    "category": "診療業務",
     "recordedDate": "",
     "driveFileId": "1wyctjxbJ8hx6mrBktuZT_OzaFPjLeVu4"
   },
@@ -1655,7 +1655,7 @@
     "id": "v0024",
     "title": "電源当番【朝②】",
     "description": "",
-    "category": "基本業務",
+    "category": "診療業務",
     "recordedDate": "",
     "driveFileId": "1E5_pFXoVXIe6VnqsLslE86Pbh3re0TIK"
   },
