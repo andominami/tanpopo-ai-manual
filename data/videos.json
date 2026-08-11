@@ -2651,5 +2651,74 @@
     "photoFileIds": [
       "1jzOhEugwt10SRi2r7dzFT22co6Klzgwf"
     ]
+  },
+  {
+    "id": "photo-tatsujin-plus-icon-missing",
+    "title": "院内患者の画面から達人プラスのアイコンが消えたとき",
+    "description": "院内患者の画面の右上の方に普段は達人プラスのアイコンがありますが、もし消えてしまっていたら、下向きの三角を押し、達人プラスと書いてあるところをクリックしてください\nそうするとアイコンが、出てきます",
+    "category": "撮影業務",
+    "recordedDate": "2025-04-11",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "197674rx6yv5K6ud8HDv1_tSAI-yyoh3U"
+    ]
+  },
+  {
+    "id": "photo-branch-one-operation-kun",
+    "title": "分院　ワンオペ君",
+    "description": "ワンオペ君を使う時はかけるところがないのでバキュームのホースのところにかけて下さい。\nサクションミラーは使い捨てです。",
+    "category": "分院・診療業務",
+    "recordedDate": "2025-11-01",
+    "submittedBy": "林咲穂",
+    "type": "photo",
+    "photoFileIds": [
+      "1Zxys__IdoINAW5MRc9ezCKajcb0Ctn_k",
+      "1EhemrEuwO5Me_Jtr4c17V0aYB0-Z76dV",
+      "1YT07JWjaj_IKlbdbGfhn0dTUoSfQemXI",
+      "1uro-5R-EPlvo5l6ch02hLufEc9vn_Ww0"
+    ]
+  },
+  {
+    "id": "photo-branch-staff-parking",
+    "title": "分院スタッフ用駐車場",
+    "description": "分院のスタッフ用駐車場の場所がわかりましたので、お知らせします\n\n厚木駅近くにあります桔梗堂田辺薬局の横の道に入るとディスカウントショップ つるやというお店があります。\n\nその隣の駐車場の29.30.31をたんぽぽが借りています(全部で32台停めれる駐車場の29.30.31番です)\n\n29に柳田先生or志賀先生\n30に受付\n31にDAorDH\nでお願いします\n\n駐車場の番号が薄くわかりづらいですが、28や32には停めないように気をつけてください（一番端っこの32番は別の方なのでご注意ください）\n本院の掲示板にも写真はってあります。わからなければ、一門迄お問い合わせください\n\nよろしくお願いします",
+    "category": "分院・基本業務",
+    "recordedDate": "2023-07-30",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1bc7h2WL9uYigjSYzxYm75IMO50vZBmqP",
+      "1tcWlcBZ2bgVqf5414gldvPPMCtqCKapx",
+      "1kA3KosdXLNS9J11Mv0Nh_vSAgWprj8X3"
+    ]
+  },
+  {
+    "id": "photo-branch-morning-pc-startup",
+    "title": "分院の朝のパソコンの立ち上げの件",
+    "description": "朝、診療室のパソコンを立ち上げるときに上のモニタのパソコンも起動しますが、起動したら、キャレットスクエア（写真の水色マーク）も起動してください\n（下のバーにアイコンが出ている状態にしてください）\n起動しないとパントモやデンタル等撮影したデータが飛ばないことがあるそうです\n\nよろしくお願いします",
+    "category": "分院・基本業務",
+    "recordedDate": "2026-07-28",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1vvVJGjf9ngv3gJRzQkOUWO2MwAIEQsej",
+      "1LAWgjfdDjLs2C7EK5_p3vlTSsWpS5iO7",
+      "1OUBHUy3nygD5Hbf5zwctc3rhDt6OESOx",
+      "1fvpeduwLGttCaVO0kfuaHBfftkHKSMYU"
+    ]
+  },
+  {
+    "id": "photo-honin-patient-whitening-self-pay-branch",
+    "title": "本院の患者さんがホワイトニング等自費のお会計をする場合",
+    "description": "本院の患者さんがホワイトニングの為だけに分院に来た時等に使える番号を作りました\n\n自費診療で今後も診療に来る場合などは通常通り初診登録してください\n【999999】　（9が6個です）\nよろしくお願いします\nあとで、Teamsにも上げます",
+    "category": "分院・受付業務",
+    "recordedDate": "2026-07-24",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1cnCFfqgTqq5-tfU48HcaNGQCPKT1XL-t",
+      "1_bQeyiM4TwgNPKGS0GqyJYvWG0s_ooSF"
+    ]
   }
 ]
