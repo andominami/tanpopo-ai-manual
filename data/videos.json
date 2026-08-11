@@ -2596,5 +2596,60 @@
     "recordedDate": "2022-04-24",
     "submittedBy": "熊谷容子",
     "driveFileId": "1-Repz5neh_VAW0dgxOYhC-NXBUSdaHDz"
+  },
+  {
+    "id": "photo-branch-reception-new-patient-registration",
+    "title": "分院受付で初診の登録をする方へ",
+    "description": "分院の初診の登録で、オプテックさんが教えてくれた内容だけだと、データに担当医が入らず、集計をかけると担当医無しになって、しまうので、初診の登録画面で、F9のつぎへを押し、「主担当医」というところに担当医を入れるようにお願いします",
+    "category": "受付業務",
+    "recordedDate": "2023-09-02",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1VW4wqBoXo3wzm52uXTNxbz6zRiXPCKP-",
+      "15ACIG_Eo949b2dPft6azoQegoHiREXoH"
+    ]
+  },
+  {
+    "id": "video-self-pay-insurance-refund-credit",
+    "title": "自費の会計時に保険の返金があったとき（クレジット払いの場合）",
+    "description": "返金したら受領の領収書に患者さんに受け取りのサインを頂いて、返金処理済領収書入れにしまって下さい\n\n参考写真:\nhttps://drive.google.com/file/d/1l4bClMHTTfUTi05wCI46g4Zf8JXwITUs/view\nhttps://drive.google.com/file/d/1bS8X2Mt4oC5MSN3-FlmYoYVW8EHXopce/view",
+    "category": "受付業務",
+    "recordedDate": "2023-10-21",
+    "submittedBy": "一門麻依",
+    "driveFileId": "1OXtxQdWDYdYIASqPSm_gtHUiDNVy-K2G"
+  },
+  {
+    "id": "photo-sudo-shoji-garbage-collection-branch",
+    "title": "須藤商事ゴミ回収（分院）",
+    "description": "毎週土曜日の9:00〜9:30頃に須藤商事さんがゴミ回収に来ます。\n\nインターホンが鳴ったら、従業員入り口から鍵を渡して下さい。\n\n鍵置き場は院長室の壁にある鍵置き場（青の③）です。",
+    "category": "受付業務",
+    "recordedDate": "2024-03-02",
+    "submittedBy": "杉本麻水",
+    "type": "photo",
+    "photoFileIds": [
+      "1QzVGbjEZCCdVvWoQ91h4k5sQ0lMJW5as"
+    ]
+  },
+  {
+    "id": "text-branch-reception-medication-instruction-a5",
+    "title": "分院受付に入る方へ",
+    "description": "今まで入力なしの服薬指示書はA4で印刷して、半分に切っていましたが、紙がもったいないので\nA5版を作ったので、A5で印刷してください\n\nデスクトップの「薬の説明」フォルダの中に、「服薬指示書A5」というフォルダがあります。\nそこから開いてください。\nてざしにA5の紙をセットすれば印刷されます\n\nよろしくお願いします",
+    "category": "受付業務",
+    "recordedDate": "2024-03-19",
+    "submittedBy": "一門麻依",
+    "type": "text"
+  },
+  {
+    "id": "photo-branch-appointment-change",
+    "title": "分院の予約を変更するとき",
+    "description": "患者さんの都合で予約を変更するときは、画面の「はい」「いいえ」の下にある「前の予約を患者都合でキャンセルにする」にチェックをいれてください\n\nいれないと予約の履歴も消えてしまいます\nその下の項目も、事前キャンセル、当日キャンセル、無断キャンセルや理由などあるのでいれて下さい\n\nよろしくお願いします",
+    "category": "受付業務",
+    "recordedDate": "2024-07-12",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1jzOhEugwt10SRi2r7dzFT22co6Klzgwf"
+    ]
   }
 ]
