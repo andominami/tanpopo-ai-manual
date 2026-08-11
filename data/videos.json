@@ -2825,5 +2825,70 @@
       "1INlp7yUunoZo1i55m-WXKknoL5n4zGQU",
       "1r8lzyynmEoggmnQT2Uok5_pjO-0ejihf"
     ]
+  },
+  {
+    "id": "photo-branch-same-building-f-mark",
+    "title": "分院に行く方へ（同じマンションの方の記録簿マーク）",
+    "description": "同じマンションの方は分かりやすくするために、業務記録簿の特記欄に赤字でFと記入します(ファーストリンクレジデンス⇒Fです)\nよろしくお願いします",
+    "category": "分院・受付業務",
+    "recordedDate": "2023-08-12",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1nPhWy6kjgoU086_TzmWi0p0AEuda1ZYa"
+    ]
+  },
+  {
+    "id": "photo-branch-reception-drawer-contents",
+    "title": "分院受付に入るかたへ（引き出しの中身）",
+    "description": "引き出しに入っているものです\nもしわからなかったら連絡下さいね\n\n杉本さんへ\nとりあえず引き出しにメモ貼ってあります\n明日、よろしくお願いします",
+    "category": "分院・受付業務",
+    "recordedDate": "2023-08-19",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1-uPN06xmNV0xKW-aupok0EVMQuHL49R3",
+      "1uDdzMEnBSEenEZ04qmAekBmRshpyuO7J",
+      "1IbA7hpDDizu6BdGaRedhxdb61ibwslyq",
+      "1Ou1mTdzs4q-lGE7KS6_-7AA1nyYeZ6vr"
+    ]
+  },
+  {
+    "id": "photo-branch-mailbox-opening",
+    "title": "分院のポストの開け方",
+    "description": "分院の受付に入る方にお願いです\n出勤したらポストの中に確認お願いします\n届いていたら引き出しにファイルがあるので、振り分けお願いします\n一門が出勤の日に回収して請求書などは本院に持っていきます。\nポストの開け方は右に2回転して9で止め、\n左に回して1で止めます\n\n※投稿時に手順動画が添付されていましたが、現在Drive上で見つからなかったため写真のみ掲載しています。",
+    "category": "分院・受付業務",
+    "recordedDate": "2023-08-19",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1y_0zJFVBeRMYGNiTwSQc6-TMxhMIuT_P"
+    ]
+  },
+  {
+    "id": "photo-branch-epp-plaque-input",
+    "title": "分院のEPP、プラーク入力について",
+    "description": "分院のEPP、プラーク入力は、\n①ユニットのモニター＋マウスで行う方法\n②色が黒い方のiPad(2台)で行う方法\nが可能ですが、レセコンにデータを反映させるには②でないと出来ないようなので、\n\nマウスで行わず色の黒いiPad(注：銀色は不可)で行うよう統一をお願いします。\nケースを着けたら色が分かりにくくなりましたが明日なにか印をつけておきます。",
+    "category": "分院・診療業務",
+    "recordedDate": "2023-08-31",
+    "submittedBy": "草柳早紀",
+    "type": "photo",
+    "photoFileIds": [
+      "15zbn4QXFiBBovM015O1znXUepNWyQ-4m",
+      "1eEC8-GACaF5SRCiPQv2OBa-3ZrHm5BT4"
+    ]
+  },
+  {
+    "id": "photo-branch-first-visit-reason-input",
+    "title": "分院受付に入る方にお願い（初診来院理由の入力）",
+    "description": "初診の来院理由等を入力するデータを作りました\n受付のアポツール用パソコンのデスクトップにアイコン置いたので、初診の患者を登録したら入力する用にお願いします",
+    "category": "分院・受付業務",
+    "recordedDate": "2023-09-02",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1HXA-MP4IyStmwgQLPXYesAui3fBoeyNn",
+      "1YgbK80ohOO5zzQdXEsb2UMCjHxAnTsru"
+    ]
   }
 ]
