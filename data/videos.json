@@ -2720,5 +2720,51 @@
       "1cnCFfqgTqq5-tfU48HcaNGQCPKT1XL-t",
       "1_bQeyiM4TwgNPKGS0GqyJYvWG0s_ooSF"
     ]
+  },
+  {
+    "id": "photo-branch-patient-parking-count",
+    "title": "分院の患者さん用駐車場【分院受付に入る方へ】",
+    "description": "患者さんの駐車場の利用数確認のために、とりあえず、7月8月は、数をカウントします\n\n車マークの方のカウントではなく、実際に駐車券を渡した方の数をカウントしてください\n\nデスクトップにエクセルの表があるので、締め作業の時に必ず入れるようにお願いします\n\nまた、渡した人のなかで、1時間超えてしまった方の数もカウントしてください\n\nよろしくお願いします",
+    "category": "分院・受付業務",
+    "recordedDate": "2026-07-03",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "182StTFdNlSjg4dyZILJ8wCfQNT4pZhfh",
+      "1RcsD6gxDIj41lChkhqZauCyTrF4p-YQJ"
+    ]
+  },
+  {
+    "id": "photo-branch-stationery-scissors",
+    "title": "分院の文房具のハサミ",
+    "description": "よく受付にハサミ貸してくださいと言われるので、一応お知らせです\n\n5番ユニットの奥側です",
+    "category": "分院・受付業務",
+    "recordedDate": "2026-06-20",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "19DuY6-YU9LF-XKtTPhgHCFpTRNbqHqoK"
+    ]
+  },
+  {
+    "id": "photo-branch-oral-hypofunction-chart-mark",
+    "title": "口腔機能低下症、発達不全の患者さんのカルテ【分院】",
+    "description": "口腔機能低下症、発達不全の方のカルテに分院は印をつけることになりました。\n写真のようにテープを貼っていきます\n\n検査の予約を取った段階で貼って良いそうです\n他のテープと一緒のところにありますので、受付にはいる方はお願いします\n\n【コメント】一門麻依 (2026/06/16):\nプローブを持っている方は上の写真の緑のテープのところにプ有と記入してください\n\n宜しくお願いします",
+    "category": "分院・受付業務",
+    "recordedDate": "2026-06-09",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1gwqaojHx3KAIz5HSoj66gYcG9ygqQnuA"
+    ]
+  },
+  {
+    "id": "text-nightguard-request-handling",
+    "title": "ナイトガード希望の方がいた時",
+    "description": "志賀先生より\n\n患者さんからナイトガード希望と言われたら、忘れないように\n業務記録簿にナイトガード希望と色つきのペンで記入か、マーカーで引くなどして、目立つように書いてください\n\n宜しくお願いします",
+    "category": "受付業務",
+    "recordedDate": "2026-05-29",
+    "submittedBy": "一門麻依",
+    "type": "text"
   }
 ]
