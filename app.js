@@ -246,7 +246,7 @@ function renderGrid() {
     if (video.pinned) {
       const pinnedBadge = document.createElement("span");
       pinnedBadge.className = "thumb-pinned-badge";
-      pinnedBadge.textContent = "📌 ピン留め中";
+      pinnedBadge.textContent = "📌";
       thumb.appendChild(pinnedBadge);
     }
 
