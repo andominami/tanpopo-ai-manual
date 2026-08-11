@@ -2766,5 +2766,64 @@
     "recordedDate": "2026-05-29",
     "submittedBy": "一門麻依",
     "type": "text"
+  },
+  {
+    "id": "photo-branch-invisalign-scan-bag",
+    "title": "分院ではインビザラインのスキャンをする方へ",
+    "description": "分院で、インビザラインのスキャンをした時\n先端を本院に持っていって、ガス滅菌をしますが、ジップ袋にいれたまま持っていきますので、袋を捨てないでください\n\n今、見たら3個むき出しの状態で入っていました\nお願いします",
+    "category": "分院・診療業務",
+    "recordedDate": "2026-05-16",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "14kYn1oA_axWFp5B1CM7IJtYy77jpDj4d"
+    ]
+  },
+  {
+    "id": "text-honin-to-branch-transfer-reservation",
+    "title": "本院→転院の患者さんの予約について",
+    "description": "転院する患者さんの予約（再確認）\n\n本院から分院へ転院する場合、基本的には同月内では転院出来ません。\nご予約を取る際、注意してください\n宜しくお願い致します",
+    "category": "受付業務",
+    "recordedDate": "2026-04-23",
+    "submittedBy": "一門麻依",
+    "type": "text"
+  },
+  {
+    "id": "text-going-to-branch-notes",
+    "title": "分院へ行く方へ",
+    "description": "分院へ行く方へお願い＆注意事項です\n\n分院の日は、朝は8：30までにタイムカードを押すようにしてください。\n\n退勤は18：30にです\n分院は勤務時間が1時間短いので、足りない分は残業から相殺予定です\n\n分院に行った日は分院に置いてあるタイムカードを押してください。\n本院のタイムカードにも分院に行った日付のところに「分院」と記入お願いします\n\n制服は、今の制服のままで大丈夫です\n\n8月は車通勤の方は、分院の近くに駐車場を借りましたので、そちらに停めていただきます。\n場所は後日ご連絡致します\n\n決まったことなどありましたら、その都度ご連絡しますので、宜しくお願いします",
+    "category": "分院・基本業務",
+    "recordedDate": "2023-07-10",
+    "submittedBy": "一門麻依",
+    "type": "text"
+  },
+  {
+    "id": "photo-branch-dac-gecko-grip",
+    "title": "今後分院行く方にお伝えします",
+    "description": "DACのスタンドの所にヤモリグリップを貼ったので、赤いフタを使わない時はヤモリグリップの所にくっつけて下さい。\n診療終了後はDACに赤いフタを被せてホコリが溜まらないようにしましょう！",
+    "category": "分院・診療業務",
+    "recordedDate": "2023-08-02",
+    "submittedBy": "熊谷容子",
+    "type": "photo",
+    "photoFileIds": [
+      "1RPrRc5M53Zw8_KUDiH75-Wijq2LM0zc_",
+      "1jbQ6nsf9HlzJyrkOh8HhRDNUpQvkjtYq",
+      "1pex_hdO7XPEX82jj6lJt0r8zpntyMPaw"
+    ]
+  },
+  {
+    "id": "photo-branch-miele-sterilization-notice",
+    "title": "分院に行く人に伝達です",
+    "description": "・バースタンドやファイルも今後ミーレにかけることになりました。網のカゴに入れるようお願いします。\n今は使用する基本セットの数も多くないのでミーレは2〜3日に1回かけるくらいだと思いますので、バースタンドや注射筒、口角こうなどは次亜塩素酸水でよく消毒して滅菌にかけて下さい。\n\n・診療終了後、本院と同じようにシンクも掃除してタオルで拭きあげて下さい。水垢がついて取れなくなる前にキレイにして予防しましょう\n\n・排唾管ですが本院の2回と同じように滅菌パックには入れずに滅菌してそのまま引き出しに戻すようにお願いします。\n全部滅菌パックに入れてしまうとかさばって収納できなくなります。",
+    "category": "分院・診療業務",
+    "recordedDate": "2023-08-11",
+    "submittedBy": "熊谷容子",
+    "type": "photo",
+    "photoFileIds": [
+      "14OLjUdAomX2XClZi_88EG0kx6Sz-KRBy",
+      "122lnavuNsF0FlVjlbi7WbM0nh1MtBXR-",
+      "1INlp7yUunoZo1i55m-WXKknoL5n4zGQU",
+      "1r8lzyynmEoggmnQT2Uok5_pjO-0ejihf"
+    ]
   }
 ]
