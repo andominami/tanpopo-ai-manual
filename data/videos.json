@@ -2935,5 +2935,59 @@
     "photoFileIds": [
       "1N9lfm5NlrxRxjUp7lJkjIyAkOrtDFZnz"
     ]
+  },
+  {
+    "id": "text-branch-pediatric-imaging",
+    "title": "※分院の小児について※",
+    "description": "Dr.志賀より\n分院では、無理のない範囲でお子さんも11枚法、難しければ5枚法を撮影するようにお願いしますとのことです。",
+    "category": "分院・診療業務",
+    "recordedDate": "2023-09-26",
+    "submittedBy": "井出真理愛",
+    "type": "text"
+  },
+  {
+    "id": "photo-branch-pantomo-imaging-settings",
+    "title": "分院：パントモ撮影について",
+    "description": "「2D」からひとつひとつ設定していくと、途中で、5枚保存する設定にしてしまう可能性があるため\nパノラマ_成人 やパノラマ_小児など下の一覧から設定を呼び出して撮るようにしてください。\nあと、マウスは右にレセコン、左にiCATの配置に統一することとなりましたのでお願いいたします！",
+    "category": "分院・診療業務",
+    "recordedDate": "2023-10-07",
+    "submittedBy": "草柳早紀",
+    "type": "photo",
+    "photoFileIds": [
+      "1ed1Af-WiVl1sZy-8zurcYpGNs0ccm-Lt",
+      "1441l3NwmXrs9sdbT0wAjWX_l-WhUPyWI"
+    ]
+  },
+  {
+    "id": "photo-branch-waiting-room-cleaning",
+    "title": "分院待合室の清掃について",
+    "description": "分院はいつも夜に掃除機をかけています\nその時に、イスの下と一番後ろのイスの後ろの所もゴミがたまりやすいので、お願いします\n\n待合室のイスの手すりのところもゴミが貯まりやすいので、受付の方は拭き掃除お願いします",
+    "category": "分院・基本業務",
+    "recordedDate": "2023-10-13",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1Q74g73AcURNn0imI0uDXWSx1p-q56BIT",
+      "12vbWIak6z4j19dFcYQ3aBk-FXksn2_xD",
+      "1u-QWivQiQ1C_2zrawPByAFdcHg0-t9Yb"
+    ]
+  },
+  {
+    "id": "text-branch-next-checkup-list",
+    "title": "次回検診の方【分院】",
+    "description": "分院の患者さんの【終了患者一覧】のデータを作りました。\nアポツールで普段使っているパソコンのデスクトップにありますので、患者さんが終了して、次回検診になった時は入力してください\n\nアプリでリコール＆お知らせなのか、ハガキを出すのか、チェックに使います\n\nリコール漏れがないように、しっかり管理お願いします\nよろしくお願いします",
+    "category": "分院・受付業務",
+    "recordedDate": "2023-10-27",
+    "submittedBy": "一門麻依",
+    "type": "text"
+  },
+  {
+    "id": "text-alginate-handling",
+    "title": "アルジネートについて",
+    "description": "アルジネートを練和する際、台の角などで、スパチュラを拭かないようにしてください。\n拭くときは、ペーパータオルでお願いします。",
+    "category": "診療業務",
+    "recordedDate": "2023-11-10",
+    "submittedBy": "志賀英俊",
+    "type": "text"
   }
 ]
