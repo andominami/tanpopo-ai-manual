@@ -2989,5 +2989,61 @@
     "recordedDate": "2023-11-10",
     "submittedBy": "志賀英俊",
     "type": "text"
+  },
+  {
+    "id": "text-branch-reception-doctor-login",
+    "title": "【分院受付に入る方へ】担当医でのログインについて",
+    "description": "電子カルテのオプテックPC起動したときに、今までは受付でログインしていましたが、\n集計したときに、オペレーター別で集計をかけると「受付」に自費の入金があたように表示されてしまいます。\n\nですので、今後は担当するドクターでログインしてください\n金曜・土曜は、AM・PMでドクターが替わり面倒かと思いますが、お願いします\n\n【コメント】一門麻依 (2024/03/22):\n自費のお会計を入力するときに、受付の名前になってしまうので、必ず、朝PCを立ち上げたときに、診療するドクターの名前でログインしてください。\n\nよろしくお願いします",
+    "category": "分院・受付業務",
+    "recordedDate": "2023-11-14",
+    "submittedBy": "一門麻依",
+    "type": "text"
+  },
+  {
+    "id": "photo-branch-washing-machine-maintenance",
+    "title": "分院の洗濯機のメンテナンス",
+    "description": "最近、乾燥機にかけても生乾きの事が多かった原因は、フィルターの掃除が不十分だったようです\n\n洗濯機をかける前にフィルターにたまっていないか、確認をしてからかけるようにして下さい\nよろしくお願いします\n\n写真の綿は乾燥フィルターに詰まっていたゴミです",
+    "category": "分院・基本業務",
+    "recordedDate": "2023-11-24",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "11MT2Njq6Pv8vbQABQpvz5awvqo1AHxWI",
+      "1HfKrm356k-jmfKfWJI71zha7TFAz9Yv1"
+    ]
+  },
+  {
+    "id": "photo-branch-record-book-doctor-name",
+    "title": "業務記録簿に担当医の名前を記入[分院]",
+    "description": "今後、業務記録簿の左上の所に担当医の名前(一文字)を記入するようにして下さい\nよろしくお願いします",
+    "category": "分院・受付業務",
+    "recordedDate": "2024-01-05",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1p7PwsK8zNsYFtqP_ZdtS0SRlIUgWpkh_"
+    ]
+  },
+  {
+    "id": "text-branch-answering-machine-setting",
+    "title": "分院の留守電の設定について",
+    "description": "分院の留守電は\n\n朝　8：30　解除\n帰り　18：30　留守電設定してください\n\n分院は昼休みも留守電にせずに、対応お願いします",
+    "category": "分院・受付業務",
+    "recordedDate": "2024-02-24",
+    "submittedBy": "一門麻依",
+    "type": "text"
+  },
+  {
+    "id": "photo-branch-cs-lab-data-transfer",
+    "title": "CS LABにデータを送る方法[分院]",
+    "description": "分院もCS LABの福崎さんに設定していただいて、データを送れるようになりました\n\n受付のノートパソコンのEdgeのお気に入りバーにDropboxのリンクをいれました\nデータはこちらからおくってください\nまた、福崎さんとのLINEも出きるようになりました\nノートパソコンか、音楽を流しているiPadにLINEが入っていますので、そちらこら何かあれば連絡してください\nよろしくお願いします",
+    "category": "分院・受付業務",
+    "recordedDate": "2024-03-23",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1bHqFxLUJIj0-yPQKE2iDCeMtYSAhiCTY",
+      "1YTFDWLZic_UchTdjF9WbIJ1SGMygAFWC"
+    ]
   }
 ]
