@@ -243,6 +243,13 @@ function renderGrid() {
       thumb.appendChild(badge);
     }
 
+    if (video.pinned) {
+      const pinnedBadge = document.createElement("span");
+      pinnedBadge.className = "thumb-pinned-badge";
+      pinnedBadge.textContent = "📌 ピン留め中";
+      thumb.appendChild(pinnedBadge);
+    }
+
     const favoriteBtn = document.createElement("span");
     favoriteBtn.className = "favorite-btn" + (isFavorite(video.id) ? " active" : "");
     favoriteBtn.textContent = isFavorite(video.id) ? "♥" : "♡";
@@ -316,7 +323,8 @@ function openModal(video) {
   if (video.recordedDate) meta.push(`撮影: ${video.recordedDate}`);
   if (video.submittedBy) meta.push(`投稿: ${video.submittedBy}`);
   meta.push(`再生: ${getViewCount(video.id)}回`);
-  modalTitle.textContent = meta.length ? `${video.title}(${meta.join(" / ")})` : video.title;
+  const titleText = video.pinned ? `📌 ${video.title}` : video.title;
+  modalTitle.textContent = meta.length ? `${titleText}(${meta.join(" / ")})` : titleText;
   modalDescription.textContent = video.description;
   modal.hidden = false;
   document.body.style.overflow = "hidden";

@@ -619,6 +619,19 @@ main {
   border-radius: 999px;
 }
 
+.thumb-pinned-badge {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  background: rgba(224, 69, 39, 0.9);
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
 .video-thumb.is-photo {
   background-image: none;
 }
