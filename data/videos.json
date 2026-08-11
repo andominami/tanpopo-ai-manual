@@ -3045,5 +3045,19 @@
       "1bHqFxLUJIj0-yPQKE2iDCeMtYSAhiCTY",
       "1YTFDWLZic_UchTdjF9WbIJ1SGMygAFWC"
     ]
+  },
+  {
+    "id": "photo-how-to-use-ai-question",
+    "title": "【AIに質問する】の使い方",
+    "description": "クリックするとNotebookLMに飛びます。\nその中の【チャット】で質問したいことを入力します。（今回はRCTについて聞いています）\nすると、たんぽぽマニュアル内の情報からRCTについて、準備するものや手順などを教えてくれます。参考資料もあげてくれます。\n\n【Studio】にすると、自分でオリジナルの資料も作れます。\n【音声解説】で覚えたいこと、勉強したいこと等入れると、オリジナルの音声解説が作成できます。通勤時間に聞き流すのもいいと思います。(出来上がるのに少し時間がかかります)\n\nここで質問したり作った資料は他のユーザーには共有されません。",
+    "category": "基本業務",
+    "recordedDate": "2026-08-11",
+    "type": "photo",
+    "pinned": true,
+    "photoFileIds": [
+      "1iq3vbUvC0kmSs6UBBtkFArn5eWaZjv-8",
+      "16FEdHEZBMDANRrFf4BijMUOwafGp4ITy",
+      "17iPvOdzIBZPxXDGgUFlXGM_wy4ZJV9Qz"
+    ]
   }
 ]

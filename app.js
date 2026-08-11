@@ -191,18 +191,27 @@ function getFilteredVideos() {
     return matchesCategory && matchesMediaType(video) && matchesQuery;
   });
 
+  // pinned: true の項目は並び替え条件に関わらず常に先頭に表示する
+  const pinned = videos.filter((video) => video.pinned);
+  const rest = videos.filter((video) => !video.pinned);
+
   // videos.jsonは投稿順(古い順)に並んでいる前提で並び替える
+  let sortedRest;
   switch (state.sortOrder) {
     case "views-desc":
-      return [...videos].sort((a, b) => getViewCount(b.id) - getViewCount(a.id));
+      sortedRest = [...rest].sort((a, b) => getViewCount(b.id) - getViewCount(a.id));
+      break;
     case "views-asc":
-      return [...videos].sort((a, b) => getViewCount(a.id) - getViewCount(b.id));
+      sortedRest = [...rest].sort((a, b) => getViewCount(a.id) - getViewCount(b.id));
+      break;
     case "old":
-      return videos;
+      sortedRest = rest;
+      break;
     case "new":
     default:
-      return [...videos].reverse();
+      sortedRest = [...rest].reverse();
   }
+  return [...pinned, ...sortedRest];
 }
 
 function renderGrid() {
