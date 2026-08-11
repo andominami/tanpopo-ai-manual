@@ -2890,5 +2890,61 @@
       "1HXA-MP4IyStmwgQLPXYesAui3fBoeyNn",
       "1YgbK80ohOO5zzQdXEsb2UMCjHxAnTsru"
     ]
+  },
+  {
+    "id": "photo-branch-invisalign-tool-storage",
+    "title": "【分院】インビザラインの道具等の置き場所について",
+    "description": "【分院】\nインビザラインの道具類の置き場を、クラスBの上の棚に設定しました。\nIPR用コントラ、キット、チューイー、クリーニングクリスタル等です。",
+    "category": "分院・診療業務",
+    "recordedDate": "2023-09-02",
+    "submittedBy": "草柳早紀",
+    "type": "photo",
+    "photoFileIds": [
+      "1IWKxZuteim6s4jsMutpc76kDdQgZMTsP",
+      "1DK48bRPpOJ0jUUJpaMghUWQhJdbz8SDU"
+    ]
+  },
+  {
+    "id": "text-branch-self-pay-input",
+    "title": "分院自費の入力について",
+    "description": "分院の自費の入力は受付の会計画面からではなく、カルテ入力画面から入力してください\n\n受付で入れることもできますが、受付で入れるときは、一度ログオフしてDrの名前でログインしなおしてください\n\n受付と診療室入力パソコンの近くに、入力方法書いたものおいています\n\n不明な点などありましたら　一門までお願いします\n\n※投稿時に「自費の会計入力.docx」が添付されていましたが、現在Drive上で見つからなかったため本文のみ掲載しています。",
+    "category": "分院・受付業務",
+    "recordedDate": "2023-09-07",
+    "submittedBy": "一門麻依",
+    "type": "text"
+  },
+  {
+    "id": "text-branch-watashi-no-haisha-san-app",
+    "title": "分院診察券アプリ「私の歯医者さん」について",
+    "description": "診察券アプリの「私の歯医者さん」ですが、携帯1端末に対して、ひとつの医院しか登録出来ないそうです\n\nなので、もし　初診で来院された患者さんが、以前　他院で登録しているとそのままだと「あつぎ駅前たんぽぽ歯科・矯正歯科」で診察券として使えません\n\n一度、アプリをアンインストールしていただき、再度インストールしてからトークン発行し、その番号でログインしていただければ使えます。",
+    "category": "分院・受付業務",
+    "recordedDate": "2023-09-14",
+    "submittedBy": "一門麻依",
+    "type": "text"
+  },
+  {
+    "id": "photo-branch-ccd-charging",
+    "title": "分院のCCDの充電について",
+    "description": "診療終了後、CCDは充電器から外して横向きに置くようにお願いします。\nコンセントは差しっぱなしで大丈夫です。\n木の蓋？が外れるようになってますが、何度も何度も取らない方がいいとのことでした。\nよろしくお願いします。",
+    "category": "分院・診療業務",
+    "recordedDate": "2023-09-23",
+    "submittedBy": "熊谷容子",
+    "type": "photo",
+    "photoFileIds": [
+      "1ooSmqRGgg1a0ztVvsToiMJn9mZ6wOxPC",
+      "1tgXC22FavRkX4h1lf0pYNdlgZi0AIvFK"
+    ]
+  },
+  {
+    "id": "photo-branch-laundry",
+    "title": "洗濯について",
+    "description": "分院での洗濯ですが、本院ほど量が多くないので2〜3日に1回洗濯機を回してると思いますが、蓋が閉まってると洗濯済みなのか未洗濯なのか分からなくなってしまう為、蓋は常に開けておいてください。\n蓋が閉まってる場合は前日に洗濯したことになるので畳んで棚に戻して欲しいです。\nよろしくお願いします。",
+    "category": "分院・基本業務",
+    "recordedDate": "2023-09-23",
+    "submittedBy": "熊谷容子",
+    "type": "photo",
+    "photoFileIds": [
+      "1N9lfm5NlrxRxjUp7lJkjIyAkOrtDFZnz"
+    ]
   }
 ]
