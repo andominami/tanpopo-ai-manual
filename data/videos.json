@@ -3126,5 +3126,63 @@
     "recordedDate": "2025-08-22",
     "submittedBy": "一門麻依",
     "type": "text"
+  },
+  {
+    "id": "photo-branch-appointment-gray-slot-warning",
+    "title": "分院の予約を取る時に注意してください。",
+    "description": "分院の予約を取る時に、枠がグレーになっているところは、予約を取らないでください\nアポツールの仕様上、枠を開けていなくても、\n予約を取れてしまいます\n\n（先週に取った予約で閉まっているところに3人入ってしまっていました。\n同じ日に取っているようです）\n\n皆で注意お願いします",
+    "category": "分院・受付業務",
+    "recordedDate": "2025-09-12",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1CH0YYnwyfCNR2fzSnbZBWay1OOFGqPzf"
+    ]
+  },
+  {
+    "id": "photo-branch-invisalign-tool-storage-return",
+    "title": "インビザライン関係の道具について【分院】",
+    "description": "インビザラインのIPRに使う道具がリムーバーの先等をしまう場所に入っていました\nインビザライン関係の道具は、インビザライン用の棚があるので、そこにしまってください\n\n最近、分院で違うところに戻されていることが多いです\n\n使ったものは元の場所に戻すようにしてください\nもし場所がわからないときは、わかる人に聞いて、違う場所に戻さないように注意お願いします",
+    "category": "分院・診療業務",
+    "recordedDate": "2026-01-24",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "13EWZCatI78QiV_3Q_KG3cQzZSDAaoPIo",
+      "1bCw8Ga3grLY5Kr45UBFnVc38-JWoMA1D"
+    ]
+  },
+  {
+    "id": "text-branch-record-input-doctor-hygienist-name",
+    "title": "分院の入力について",
+    "description": "分院の入力は\nドクターの2列目は　担当医ではなく、その列のドクターの名前で入力して下さい\n（その日にいないドクターの名前で、入力しないようにしてください）\n\nケア枠は担当した衛生士さんの名前で入力お願いします\nもし名前がないなどありましたら、教えてください\n\nその日にいない人の名前にならないようにご注意お願いします",
+    "category": "分院・受付業務",
+    "recordedDate": "2026-01-31",
+    "submittedBy": "一門麻依",
+    "type": "text"
+  },
+  {
+    "id": "photo-branch-appointment-tool-auto-complete-warning",
+    "title": "分院のアポツールについて",
+    "description": "最近、未来の予約が、既に来院して、終了になっていることがあります\n\nおそらく、未来の予約内容等を見た時に来院や\n診察等を押してしまって、日付が変わった為、自動的に終了になっているのだと思います\n\nこのままだと、前日のお知らせメール等が届かなくなってしまうので、押さないように注意してください\n\n（当日、患者さんが来院された時に受付で押すか、アプリでチェックインします）\n\nよろしくお願いします",
+    "category": "分院・受付業務",
+    "recordedDate": "2026-02-19",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1PsvVoVe3klCLaoC_LfdRneHGlGHGDBu1"
+    ]
+  },
+  {
+    "id": "photo-branch-orthodontic-wax-storage",
+    "title": "分院の受付に入る方へ（矯正用ワックスお預かり）",
+    "description": "曽根先生から矯正用のワックスをお預かりしました\n受付の駐車券等が入っている引き出しにあります\n\nもし患者さんから問い合わせが来たらお渡ししてください（費用はかかりません）\nよろしくお願いします",
+    "category": "分院・受付業務",
+    "recordedDate": "2026-03-19",
+    "submittedBy": "一門麻依",
+    "type": "photo",
+    "photoFileIds": [
+      "1MkI1-xUaxtp7k1avV2adfereFBlLKQT5"
+    ]
   }
 ]
