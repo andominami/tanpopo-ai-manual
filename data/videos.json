@@ -3270,5 +3270,36 @@
       "1HdK6zVQ9EB-C2XvZuDUkgiQV2sZ4qEVH",
       "1-rz-Jkllqcj-xpw03-EmSu7K3fS0nwS2"
     ]
+  },
+  {
+    "id": "text-care-panorama-billing-code",
+    "title": "ケアでのパノラマの入力について",
+    "description": "ケアでパノラマを撮った時に算定を\n「部分パノラマ」\nで入力している方がいるようですが、正しくは\n402点のパノラマ撮影です\n\n「部分パノラマ」では入力しないでください\n\nよろしくお願いいたします",
+    "category": "診療業務",
+    "recordedDate": "2026-07-08",
+    "submittedBy": "吉田佳奈",
+    "type": "text"
+  },
+  {
+    "id": "photo-president-lab-bag-change",
+    "title": "プレジデントさんの袋が変わりました",
+    "description": "・指示書に「よろしくお願いします」はかかなくてOK\n・Agの場合必ず丸をつける\n・模型を袋に入れるときは、模型同士がぶつからないように指示書の前と後ろに分けて入れる\n・ぶつかる場合はティッシュにくるむ\n\nサンプルをもらったのでプレジデントさんの袋があるところに置いておきます。",
+    "category": "技工関連",
+    "recordedDate": "2026-07-08",
+    "submittedBy": "林咲穂",
+    "type": "photo",
+    "photoFileIds": [
+      "1yu9JkNP6EChBLr9nP_ZElhR2-FhSE3Sl",
+      "1jvKPyLwx3z2dHYoRf-2HrRiGoy5o4zcr"
+    ]
+  },
+  {
+    "id": "text-credit-card-signature-usage",
+    "title": "クレジットカードのサインでの利用について",
+    "description": "クレジットカードのサイン利用はできなくなるとお伝えしていましたが、本日患者様よりお問い合わせあったため、念のため再度皆さんに周知します。\n\nクレジットカードのサインでの決済は原則できなくなりました。\nただ、例外として未だ認められている場合があります。\n①ＩＣチップが搭載されていないカード\n②暗証番号の設定がされていない海外カード\n\n上記の2パターンのみ、例外的にサインでの決済が認められているようです。\n\n①に関してはスライドでの利用になるため、今後スライド式のカードが利用できない機器に変更していく予定です。",
+    "category": "受付業務",
+    "recordedDate": "2026-06-19",
+    "submittedBy": "山下愛美",
+    "type": "text"
   }
 ]
