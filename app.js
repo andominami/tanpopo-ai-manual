@@ -1,5 +1,11 @@
 const ALL_CATEGORY = "すべて";
 
+// video.category は文字列(単一カテゴリ)か配列(複数カテゴリ)のどちらでも受け付ける
+function getCategories(video) {
+  if (Array.isArray(video.category)) return video.category;
+  return video.category ? [video.category] : [];
+}
+
 const VIEW_COUNT_API =
   "https://script.google.com/macros/s/AKfycbzItrSudqsEYmiTQiXcC6mqI2qEXc1PDZs3hYU9w4t4qWxHiQO_U5eO4SllX3S9isxl9w/exec";
 
@@ -141,7 +147,7 @@ function recordView(video) {
 
 function renderCategoryFilters() {
   const videosForTabs = state.videos.filter(matchesMediaType);
-  const usedCategories = [...new Set(videosForTabs.map((v) => v.category))];
+  const usedCategories = [...new Set(videosForTabs.flatMap(getCategories))];
   usedCategories.sort((a, b) => {
     const ai = CATEGORY_ORDER.indexOf(a);
     const bi = CATEGORY_ORDER.indexOf(b);
@@ -183,7 +189,7 @@ function getFilteredVideos() {
   const query = state.query.trim().toLowerCase();
   const videos = state.videos.filter((video) => {
     const matchesCategory =
-      state.activeCategory === ALL_CATEGORY || video.category === state.activeCategory;
+      state.activeCategory === ALL_CATEGORY || getCategories(video).includes(state.activeCategory);
     const matchesQuery =
       !query ||
       video.title.toLowerCase().includes(query) ||
@@ -263,7 +269,7 @@ function renderGrid() {
     const info = document.createElement("div");
     info.className = "video-info";
     info.innerHTML = `
-      <span class="video-category">${escapeHtml(video.category)}</span>
+      ${getCategories(video).map((c) => `<span class="video-category">${escapeHtml(c)}</span>`).join("")}
       ${video.recordedDate ? `<span class="video-date">撮影: ${escapeHtml(video.recordedDate)}</span>` : ""}
       ${video.submittedBy ? `<span class="video-date video-submitted">投稿: ${escapeHtml(video.submittedBy)}</span>` : ""}
       <span class="video-date">再生: ${getViewCount(video.id)}回</span>
