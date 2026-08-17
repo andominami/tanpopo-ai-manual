@@ -3256,5 +3256,19 @@
     "photoFileIds": [
       "1XJXQGFfyuNT6bNen3SBzcgbOMa9-0CR0"
     ]
+  },
+  {
+    "id": "photo-breaker-tripped-response",
+    "title": "ブレーカーが落ちた時",
+    "description": "ブレーカーが落ちたときの対応についてです。\n\n1階はゴミを集めている棚の隣(1枚目)、2階はZの前(3枚目)にあります。\n\n開けると2枚目のようになっています。\nまず黒いスイッチ部分を確認し、部分的に落ちていないかを確認し落ちていたらなおします。\n特に落ちていなければ上の主幹というところのスイッチをあげてください。\n主幹のスイッチを動かしても戻らないときがあるそうですが、その時は何度かスイッチを動かすよう部長から指示がありました。\n\nよろしくお願いします。",
+    "category": "基本業務",
+    "recordedDate": "2026-07-21",
+    "submittedBy": "林咲穂",
+    "type": "photo",
+    "photoFileIds": [
+      "1_iapgUmTQl87uIEzjbKRf16jrvEycTNK",
+      "1HdK6zVQ9EB-C2XvZuDUkgiQV2sZ4qEVH",
+      "1-rz-Jkllqcj-xpw03-EmSu7K3fS0nwS2"
+    ]
   }
 ]
