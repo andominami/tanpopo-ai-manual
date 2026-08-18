@@ -111,6 +111,10 @@ function isText(video) {
   return video.type === "text";
 }
 
+function isPdf(video) {
+  return video.type === "pdf";
+}
+
 function thumbUrl(video) {
   if (isText(video)) return null;
   if (isPhoto(video)) return driveThumbUrl(video.photoFileIds[0]);
@@ -233,7 +237,9 @@ function renderGrid() {
 
     const thumb = document.createElement("div");
     thumb.className =
-      "video-thumb" + (isPhoto(video) ? " is-photo" : "") + (isText(video) ? " is-text" : "");
+      "video-thumb" +
+      (isPhoto(video) || isPdf(video) ? " is-photo" : "") +
+      (isText(video) ? " is-text" : "");
     if (!isText(video)) {
       const img = document.createElement("img");
       img.src = thumbUrl(video);
@@ -246,6 +252,12 @@ function renderGrid() {
       const badge = document.createElement("span");
       badge.className = "thumb-photo-badge";
       badge.textContent = `📷 ${video.photoFileIds.length}枚`;
+      thumb.appendChild(badge);
+    }
+    if (isPdf(video)) {
+      const badge = document.createElement("span");
+      badge.className = "thumb-photo-badge";
+      badge.textContent = "📄 PDF";
       thumb.appendChild(badge);
     }
 
@@ -322,6 +334,7 @@ function openModal(video) {
   } else {
     modalPhotoWrap.hidden = true;
     modalVideoWrap.hidden = false;
+    modalVideoWrap.classList.toggle("is-pdf", isPdf(video));
     modalIframe.src = embedUrl(video);
   }
 

@@ -532,6 +532,12 @@ main {
   display: none;
 }
 
+.modal-video-wrap.is-pdf {
+  width: min(100%, 640px);
+  aspect-ratio: auto;
+  height: min(75vh, 900px);
+}
+
 .modal-text {
   overflow-y: auto;
   min-height: 80px;
