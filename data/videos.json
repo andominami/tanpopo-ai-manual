@@ -3321,5 +3321,72 @@
     "submittedBy": "熊谷朋実",
     "type": "pdf",
     "driveFileId": "1CwL6EWCQr6AEISfMOV8SrwW0WpxK4rhL"
+  },
+  {
+    "id": "photo-vacuum-cleaner-plug-caution",
+    "title": "掃除機をかけるときの注意⚠️",
+    "description": "今日、Gの掃除機をかけると本体が異様に熱くなるとの報告を受け確認したところ、プラグのブレード（金属部分）が曲がっていました。これだけが熱くなった原因かはわかりませんが、この状態は危険ですので、掃除機を取り回す際にはプラグに対しコードを横に強く引っ張る力をかけないよう気をつけてください。\n\nブレードをまっすぐに戻しジャバラホース内に絡まっていた塵埃の塊を取り除きフィルターを掃除しました。これで様子をみてまた異様に熱くなるようならお知らせください。",
+    "category": "基本業務",
+    "recordedDate": "2026-06-13",
+    "submittedBy": "須藤能子",
+    "type": "photo",
+    "photoFileIds": [
+      "1o7tn-qbwetDWJ5w-wVDdMXvqYBsbBT4v"
+    ]
+  },
+  {
+    "id": "photo-ethanol-container",
+    "title": "エタノールについて",
+    "description": "1階消毒室に置いてあるエタノールの注ぎ口が無く入れるのに大変な為、臨時で容器を作りました！\nオーラルステリの中身も空になってしまったらろうとを使用してオーラルステリの中に入れてください。",
+    "category": "消毒室関連",
+    "recordedDate": "2026-06-13",
+    "submittedBy": "三枝真奈美",
+    "type": "photo",
+    "photoFileIds": [
+      "1mO20BGpbnoCMXIkyUc-t7mdLOpLo_kmU",
+      "1RGSguvc4BNG7YWKi0O7wBF78FmGB-Vja"
+    ]
+  },
+  {
+    "id": "photo-oral-frailty-checkup-supplies",
+    "title": "オーラルフレイル健診の消耗品について",
+    "description": "オーラルフレイル健診で使う消耗品の数が合わないことが多いです。\n海老名市から毎回必要な分だけもらっています。\n1人に2つ使うなどはしないようお願いします！\n落としてしまったなど、やむを得ず多くだした場合は教えてください！\n\n栄養士の方は新しく在庫が入って袋から箱にうつすときに個数があってるか確認お願いします！",
+    "category": "訪問業務",
+    "recordedDate": "2026-06-13",
+    "submittedBy": "林咲穂",
+    "type": "photo",
+    "photoFileIds": [
+      "1jKD1gP6HwfPdgFsYzH9UTznyJ4cft4HN"
+    ]
+  },
+  {
+    "id": "photo-restroom-soap-dispenser",
+    "title": "【お手洗いのソープディスペンサー】",
+    "description": "お手洗いのソープディスペンサーの充電が切れていることが度々あります。\n\n今日はキッズ側の充電が切れており充電しました。朝コードを挿して昼には満タンになっていたのですぐ充電できると思います。\n(泡も最大量になっていました)\n\nType-Cケーブルは受付の引き出しにあるのでそちらを使用していいと思います。\n(使用後は必ず返却してください)\n\n掃除の際に泡の設定量と併せて電池残量の確認もよろしくお願い致します。",
+    "category": "基本業務",
+    "recordedDate": "2026-06-10",
+    "submittedBy": "蝦代三千代(阪下)",
+    "type": "photo",
+    "photoFileIds": [
+      "1NexB6kwIWA1RM-VQAaiTjEE_QA1hHDyH",
+      "1i8sj6ZQpqWlSSS_13m15jLsOr8jzrcZa",
+      "19PySaFWZJSffBYFjfc7-CUEgcBXSRkqN"
+    ]
+  },
+  {
+    "id": "photo-jobcan-clock-pc-relocation",
+    "title": "ジョブカン打刻PC移動",
+    "description": "事務よりお知らせします。①諸々の事情によりジョブカン打刻PCを新館スタッフ用トイレ前の台に移動しました。②従来どおり個人宛の連絡に使えるようにタイムカードラックを設置しました。この赤いタイムカードはその台紙として使います。③更に、2箇所にあったインカム充電台はキッズ診療室入口に集めました。④カルテ庫前のカラーボックスは撤去し、届出用紙等の引出は打刻PC下に移しました。各自ご確認ください。よろしくお願いします。\n\n移動の作業を手伝ってくださった皆様、ありがとうございました🙏",
+    "category": "基本業務",
+    "recordedDate": "2026-06-09",
+    "submittedBy": "須藤能子",
+    "type": "photo",
+    "photoFileIds": [
+      "1mL9KGSkU6tI6pyy5VWqN67OmS8NBtc3D",
+      "17FxWI70rcEMjt9NSVU6mh1yOu8CYAH-m",
+      "1-Vj-XGwvdoeZgBW9w8eAAEfeqNeecQrm",
+      "1K-vxiDyNY3m5dlL49phkyLkZeCSuIHja",
+      "1s0i7KLuEk5UztX5bbr_9mZv1E83CR050"
+    ]
   }
 ]
