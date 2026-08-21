@@ -3388,5 +3388,63 @@
       "1K-vxiDyNY3m5dlL49phkyLkZeCSuIHja",
       "1s0i7KLuEk5UztX5bbr_9mZv1E83CR050"
     ]
+  },
+  {
+    "id": "photo-cerec-block-management",
+    "title": "❗セレックブロックの管理について❗",
+    "description": "セレックブロックを使う時は、\n必ず受付スタッフへ声をかけて出してもらい、\n受付スタッフが管理表へ個数を記入することになっています。\n\nですが、以前よりご自身で取る方や、ご自身で取って記入が無い方、記入があっても字が独特で読めず次に記入する人が読み間違えてしまうことなどがあり、在庫数が記入してあるものと実数に差が出てしまうことがありました。\n\n今後セレックブロックを使う場合は、必ず受付スタッフに伝えてブロックを出してもらう様にしてください。\n受付スタッフはしっかり記入して下さい。",
+    "category": "基本業務",
+    "recordedDate": "2026-06-05",
+    "submittedBy": "山下愛美",
+    "type": "photo",
+    "photoFileIds": [
+      "1ygiF5aTAd1pLi9QulL67vxUJbKvkiULF"
+    ]
+  },
+  {
+    "id": "photo-visit-daisy-cord-storage",
+    "title": "訪問デイジーのコード収納の仕方",
+    "description": "コードの収納が間違っておりますので、ご注意ください。",
+    "category": "訪問業務",
+    "recordedDate": "2026-06-05",
+    "submittedBy": "後藤多喜子",
+    "type": "photo",
+    "photoFileIds": [
+      "1mGfishXxYKb6WPLhvDsC7nDutwP_z6Eq"
+    ]
+  },
+  {
+    "id": "text-jobcan-correction-approval-flow",
+    "title": "ジョブカン打刻修正申請後の流れ",
+    "description": "①打刻修正申請に対しては、当日出勤している幹部が承認することとします\n\n②スタッフについては、幹部ドクターまたは主任が承認します\n\n③ドクター/研修医については、理事長・院長または課長が承認します\n\n④打刻修正申告をした人は、できるだけその日のうちに（または次回出勤日に）該当の上司に声をかけ、承認の依頼をしましょう\n\n⑤依頼された上司は当日中に確認し、承認をお願いします",
+    "category": "基本業務",
+    "recordedDate": "2026-05-31",
+    "submittedBy": "須藤能子",
+    "type": "text"
+  },
+  {
+    "id": "photo-jobcan-ic-card-clock-2026-06",
+    "title": "2026年6月からの勤怠打刻について",
+    "description": "2026年6月1日(月)から、勤怠打刻はジョブカンのICカードタッチによる打刻とし、タイムカードによる打刻は原則廃止となります。出勤・退勤時のタッチを忘れないようにお願いします。\n打刻用パソコンの不具合またはカード忘れによりタッチができない時に限り、白紙のタイムカードに氏名と○年○月を記入して打刻し、後でジョブカンマイページから打刻修正の申請をしてください。\n\n『ジョブカンマイページの見方』のご案内を打刻パソコンの側に貼りましたので参考にしてください。よろしくお願いします。\n【追記】teams2026/4/17(金)16:32小林さん投稿の『Outlookのメールからログインする方法』がうまくいかない場合に上記のログイン方法をお試しください。ログイン後の画面のページレイアウトが少し違いますが同様に使えます。",
+    "category": "基本業務",
+    "recordedDate": "2026-05-31",
+    "submittedBy": "須藤能子",
+    "type": "photo",
+    "photoFileIds": [
+      "1RrfhoKxVRanL_BqRQH7_INwPy7YtGUpU"
+    ]
+  },
+  {
+    "id": "photo-lab-instruction-handwriting-request",
+    "title": "⭐指示書の文字についてのお願い⭐",
+    "description": "再三、何度も申し上げておりますが、指示書(だけではありませんが)は誰でも読める字で書いてください。\n患者様のお名前を間違えて記入すると、技巧所さんからの納品書も誤ったお名前で届きます。\nまた、指示書に書いてある患者様のお名前が間違っていると、受付での技工物チェックにも非常に時間がかかってしまいます。\nご協力ください。",
+    "category": "技工関連",
+    "recordedDate": "2026-05-13",
+    "submittedBy": "山下愛美",
+    "type": "photo",
+    "photoFileIds": [
+      "1Dm21XIveUp3ibJjFf13nWK7AEM35PqLH",
+      "1NF18yPKIspdzVQ3q8zfVUDjrg5G-0wie"
+    ]
   }
 ]
