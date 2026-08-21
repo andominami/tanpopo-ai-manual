@@ -3,7 +3,10 @@
     "id": "intercom-handling-01",
     "title": "インカムの取り扱い",
     "description": "1. 出勤時の準備\n・朝、出勤してタイムカードを押したらすぐにインカムを装着します。\n・充電器のランプが緑色になっているものが充電完了の合図なので、それを使用してください。\n・自分のイヤホンを本体に接続してから、横のスイッチを上げて電源を入れます。\n・電源が入ったことを確認し、本体をポケットに入れます。\n\n2. インカムでの話し方\n・マイクの横にあるボタンを押し、1秒数えてから話し始めます。\n・まず、自分の場所(フロアなど)と名前を名乗ります(例：「Gの丸山です」)。\n・次に、伝えたい相手の名前を言います(例：「佐原さんへお伝えします」)。\n・その後に要件を伝えます(例：「Gの接客を代わってください」)。\n\n3. 返信の仕方\n・返事をする時も、自分の名前を名乗るようにしましょう(例：「丸山、わかりました」)。\n・ただし、呼びかけてから5秒待っても返事がない場合は、他の方が割り込んで話してもよいことになっています。\n\n4. 退勤時の片付け\n・退勤する時にインカムを外します。\n・電源を切り、コードを抜きます。\n・充電器に差し戻す際は、必ず赤いランプが点灯することを確認してください。",
-    "category": "基本業務",
+    "category": [
+      "基本業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1n4XRF-GiWG2RYPds_DfCv6uKq5M7RLUd"
   },
@@ -11,7 +14,10 @@
     "id": "reception-pc-power-on-01",
     "title": "受付PC電源のつけ方",
     "description": "朝の受付PC電源のつけ方です。（PC操作・電源・朝の業務）",
-    "category": "受付業務",
+    "category": [
+      "受付業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1YDccHcWbA9CQiqewRrleXej56hsq-MK7"
   },
@@ -19,7 +25,10 @@
     "id": "vacuum-hold-left-01",
     "title": "バキュームの持ち方:左上下編",
     "description": "バキュームの持ち方・左上下・DH・DA・アシスト",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "19IfMEmQTzYO5IarSeqy5PJqmFbncPmeq"
   },
@@ -27,7 +36,10 @@
     "id": "five-shot-photography-01",
     "title": "5枚法撮影方法",
     "description": "1. 正面観の撮影手順\n・カメラと位置の準備：患者の口とカメラが正面を向くように位置を合わせます。\n・口角鉤(リトラクター)の装着：口角鉤を水で濡らし、患者の歯肉に当たらないよう注意しながら口にかけます。\n・患者への協力依頼：患者に口角鉤の左右の端を持ってもらい、撮影部位が見えるように少し浮かせるよう指示します。\n・機材の設定：倍率を1/2に設定し、フラッシュとカメラの電源を入れ、ライトを点灯させます。\n・撮影：ゆっくりとピントを合わせ、音が鳴ったらシャッターを切ります。\n・開口状態の撮影：続いて「お口をちょっと開けてください」と声をかけ、開いた状態でもう1枚撮影します。\n・終了と移動：口角鉤を外し、次の撮影(咬合面)に備えて椅子を一番低い位置まで下げます。\n\n2. 咬合面(上顎・下顎)の撮影手順\n・口角鉤の準備：小さいサイズの口角鉤を濡らして使用します。\n・上顎の撮影：口角鉤を上向きにかけ、患者に保持してもらいます。鏡(ミラー)を引っ張りながら挿入し、7番から7番の咬合面が入るように位置を調整して撮影します。\n・下顎の撮影：口角鉤を下向きに回して患者に持ち替えてもらい、左右の3番(犬歯)あたりを排除するように指示します。患者に口を大きく開けてもらい、鏡を滑らせるように挿入します。排除が不十分な場合は「もうちょっとひっかけるようにしてください」と声をかけます。\n\n3. 側方観(左・右)の撮影手順\n・口角鉤の装着：片側ずつ撮影するため、口角鉤は1つだけ使用します。\n・左側の撮影：右側に口角鉤をかけて患者に持ってもらいます。細い側方用の鏡を使用し、横から奥までしっかりと入れます。「カチッと噛んでください」と指示し、横から撮影します。\n・右側の撮影：一度口角鉤を外し、今度は左側にかけ直して患者に保持を依頼します。「ちょっと左を向いてください」と頭の向きを調整してもらい、同様に鏡を入れて「カチッと噛んでください」と指示し、撮影を行います。",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1EACml44hCjce0LEPzAVVAa_E1Zrs5DF_"
   },
@@ -35,7 +47,10 @@
     "id": "appocho-print-01",
     "title": "アポ帳の印刷方法",
     "description": "1. 事前準備：印刷したい日付を設定し、当日出勤する医師の名前と急患枠(休診枠)を書き出します。\n2. 選択設定の開始：通常画面(医師表など)の下部にある矢印ボタンを押し、「選択設定」をクリックします。\n3. 表示医師の選択：「医師用設定4」などを選択し、書き出した医師の名前にチェックを入れ、不要な項目のチェックを外して「設定」ボタンを押します。\n4. 印刷モードへの切り替え：再度、画面下の矢印ボタンを押し、「印刷モード」に切り替えます。\n5. プレビューとサイズ調整：「印刷プレビュー」ボタンを押し、縮小率の数字を調整して、ページ表示が「1/1(1枚に収まる状態)」になるよう設定します。\n6. 詳細設定の開始：「印刷」ボタンから「詳細設定」を開きます。\n7. 出力サイズと色の設定：元サイズ(A4)はそのままで、出力サイズを「A3」に変更し、カラーモードを必ず「白黒」に設定します。\n8. 給紙方法の設定：裏紙を使用するため、トレイ設定を「手差し」に変更し、「OK」を押します。\n9. 用紙のセットと実行：プリンターに、「すでに文字が書いてある面を上、白い面を(印刷面として)下」にして裏紙をセットし、画面の「印刷」をクリックします。",
-    "category": "受付業務",
+    "category": [
+      "受付業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1BNZgxRFzVtpbDiuc7PkFH8REZbzDTKts"
   },
@@ -43,7 +58,10 @@
     "id": "v0006",
     "title": "石膏の注ぎ方(ユタカ)",
     "description": "",
-    "category": "技工関連",
+    "category": [
+      "技工関連",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1XZqR9loCjA9spTVJVdvX2qDIIANZLonw"
   },
@@ -51,17 +69,12 @@
     "id": "v1640",
     "title": "OG基本セットのパック方法",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1DdWH8sEMXEdlo6AOe_85aNwzmWsDZbbf"
-  },
-  {
-    "id": "v1633",
-    "title": "タイムカードの取り扱いについて",
-    "description": "",
-    "category": "基本業務",
-    "recordedDate": "",
-    "driveFileId": "1TCvTZeEn0U_R9SjQxBDn2FI-QghkITMm"
   },
   {
     "id": "v1631",
@@ -83,23 +96,18 @@
     "id": "v1636",
     "title": "よくある入庫スキャンのミス②",
     "description": "",
-    "category": "基本業務",
+    "category": "診療業務",
     "recordedDate": "",
     "driveFileId": "1M6sqOONBBORRa9wprzjMz_9tzX7OvOmf"
-  },
-  {
-    "id": "v1632",
-    "title": "インカムの取り扱いについて",
-    "description": "",
-    "category": "基本業務",
-    "recordedDate": "",
-    "driveFileId": "18gY6aN8_oBNdtTjzOnvl8yz9a0PRnziO"
   },
   {
     "id": "v1624",
     "title": "Vmaxの患者さんの出し方・CCD撮影のアシストの方法",
     "description": "",
-    "category": "撮影業務",
+    "category": [
+      "撮影業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1UEhZBgUadnSJC4Q989SOfpWw8cK4zqH9"
   },
@@ -107,7 +115,10 @@
     "id": "v1610",
     "title": "ユニットの片付け方",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1vhsU4ZmfPfLEn-tu2M_3gAihSh7EP5I_"
   },
@@ -147,7 +158,10 @@
     "id": "v1604",
     "title": "上顎臼歯デンタル撮影法",
     "description": "",
-    "category": "撮影業務",
+    "category": [
+      "撮影業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1AEm2RalIGS9RhlUN4XbxNnG8tf43ACXu"
   },
@@ -187,7 +201,10 @@
     "id": "v1611",
     "title": "朝のユニットの準備",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1EzI0-BjBVo-kQfxCyrMZnzVBIYnZWbGm"
   },
@@ -195,7 +212,10 @@
     "id": "v1597",
     "title": "患者誘導の仕方",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1jW7p07CyAeBJl3hXSQl7Eu1capE9C0-T"
   },
@@ -227,7 +247,10 @@
     "id": "v1533",
     "title": "受付朝の電源入れる場所",
     "description": "",
-    "category": "受付業務",
+    "category": [
+      "受付業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1zbdReAwpIGsbulXrutsoKjL1LEKA41sZ"
   },
@@ -259,7 +282,10 @@
     "id": "v1571",
     "title": "DAC(新)の使用方法",
     "description": "",
-    "category": "消毒室関連",
+    "category": [
+      "消毒室関連",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1pxi0-MKt8Lain2fyPUvoSpo0pBj8Sb00"
   },
@@ -315,7 +341,10 @@
     "id": "v1432",
     "title": "分院 パノラマ撮り方と保存方法",
     "description": "",
-    "category": "分院・診療業務",
+    "category": [
+      "分院・診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1zLkMJIcfOhamVp_Ct9F5fk6Xd-WtzB8l"
   },
@@ -323,7 +352,7 @@
     "id": "v1443",
     "title": "在庫係の方へ",
     "description": "",
-    "category": "基本業務",
+    "category": "診療業務",
     "recordedDate": "",
     "driveFileId": "1cjghTA0n2qOP87c1KuHcBsRYmalYYn_s"
   },
@@ -339,7 +368,10 @@
     "id": "v1591",
     "title": "顔貌の撮り方",
     "description": "",
-    "category": "撮影業務",
+    "category": [
+      "撮影業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1OOI23pfKhuHQFFlN-aNDejqTYAyr5oGO"
   },
@@ -347,7 +379,10 @@
     "id": "v1589",
     "title": "アルジネート練和方法",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1Los9NwED942iPpEq4SYQ8G-IpKc4HsNM"
   },
@@ -363,7 +398,7 @@
     "id": "v1505",
     "title": "アップデート版zaico入庫スキャン方法",
     "description": "",
-    "category": "基本業務",
+    "category": "診療業務",
     "recordedDate": "",
     "driveFileId": "1nzHc4FX3W7XiwciZqp69YGTR2G0VUw_u"
   },
@@ -395,7 +430,7 @@
     "id": "v1398",
     "title": "【在庫係の方へ】",
     "description": "",
-    "category": "基本業務",
+    "category": "診療業務",
     "recordedDate": "",
     "driveFileId": "1PzGKzgin_iazD2g44wvWslSX5W2VONzG"
   },
@@ -411,7 +446,10 @@
     "id": "v1467",
     "title": "ライトのつけ方(正)",
     "description": "",
-    "category": "基本業務",
+    "category": [
+      "基本業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1I7-ZwU8CFOzLNgKNwU4hpYz88ke_cuA_"
   },
@@ -419,7 +457,10 @@
     "id": "v1464",
     "title": "コンセントの抜き方(正)",
     "description": "",
-    "category": "基本業務",
+    "category": [
+      "基本業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1nOqgFwOu6gxnjpaCodbn29sxaJeDiP2j"
   },
@@ -451,7 +492,10 @@
     "id": "v1317",
     "title": "トイレの便座掃除の仕方",
     "description": "",
-    "category": "基本業務",
+    "category": [
+      "基本業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1ExnlorzajMnGOPKn3K2fp0QHANwBhmCD"
   },
@@ -467,7 +511,10 @@
     "id": "v1316",
     "title": "ＤAＣのつけ方",
     "description": "",
-    "category": "消毒室関連",
+    "category": [
+      "消毒室関連",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1iR7NC0NezsBbtWYPx84cJBvhWiLk-4YB"
   },
@@ -475,7 +522,10 @@
     "id": "v1346",
     "title": "受付の電話のおまたせ応答のやり方",
     "description": "",
-    "category": "受付業務",
+    "category": [
+      "受付業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1xnuUrb0iZr1FPRv2q5KESzFgJ6YF2xUT"
   },
@@ -499,7 +549,10 @@
     "id": "v0929",
     "title": "CTの撮影の準備の仕方",
     "description": "",
-    "category": "撮影業務",
+    "category": [
+      "撮影業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1jBPYSUPk55Yg4mJUhz4pYuxep1G8aQS2"
   },
@@ -539,7 +592,7 @@
     "id": "v0918",
     "title": "Vmax(ヴィジュアルマックス)の操作～患者さん向けツール編～",
     "description": "",
-    "category": "基本業務",
+    "category": "診療業務",
     "recordedDate": "",
     "driveFileId": "1qsBwpNZK0azPHX9pMEMOgFhajqn496Uo"
   },
@@ -563,7 +616,10 @@
     "id": "v0914",
     "title": "デンタル撮影法　下顎臼歯",
     "description": "",
-    "category": "撮影業務",
+    "category": [
+      "撮影業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1OMcFAPCEUjKe8Wrw43AA5DZGR0lMxtaF"
   },
@@ -571,7 +627,10 @@
     "id": "v0916",
     "title": "1Fパノラマ撮影方法",
     "description": "",
-    "category": "撮影業務",
+    "category": [
+      "撮影業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1YRbXk8kmw1d-XTYCgicQMaWxjFoFn6VB"
   },
@@ -587,7 +646,10 @@
     "id": "v0911",
     "title": "技工所への出し方(プレジデント)",
     "description": "",
-    "category": "技工関連",
+    "category": [
+      "技工関連",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1SWStjFgPdcEiqVfpxFCg1X_ArYlYW4wX"
   },
@@ -595,7 +657,10 @@
     "id": "v0912",
     "title": "技工所への出し方(ベルザ・DP)",
     "description": "",
-    "category": "技工関連",
+    "category": [
+      "技工関連",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "16F6zRLJ0_080WR8YGyeDu2W8SYH4UspN"
   },
@@ -611,7 +676,10 @@
     "id": "v0915",
     "title": "デンタル撮影法　上顎前歯",
     "description": "",
-    "category": "撮影業務",
+    "category": [
+      "撮影業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1VaM4-KYW9lOX2EkKSPWGHrl-9Wje_d8a"
   },
@@ -619,7 +687,10 @@
     "id": "v0910",
     "title": "技工所への出し方(サエキ)",
     "description": "",
-    "category": "技工関連",
+    "category": [
+      "技工関連",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "16wUYZCnKggi0mS-Umi4eJJ_Ao7jyjRSc"
   },
@@ -643,7 +714,10 @@
     "id": "v0887",
     "title": "精算機の立ち上げ方",
     "description": "",
-    "category": "受付業務",
+    "category": [
+      "受付業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1Z4pmQ1lUL5FMhCn3JKPU7lD51vXtiA22"
   },
@@ -654,14 +728,6 @@
     "category": "診療業務",
     "recordedDate": "",
     "driveFileId": "1DaVjPa1cCZ6coNq4Z_lkF-JHS-dyVqx8"
-  },
-  {
-    "id": "v0892",
-    "title": "自動精算機の閉め方",
-    "description": "",
-    "category": "受付業務",
-    "recordedDate": "",
-    "driveFileId": "1obSyyStRYDJnGJ0PZsNbfCvlt2VbcI-b"
   },
   {
     "id": "v0897",
@@ -675,7 +741,10 @@
     "id": "v0891",
     "title": "受付にある精算機の閉め方",
     "description": "",
-    "category": "受付業務",
+    "category": [
+      "受付業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "10m5qglzlpplgW9ejQRTDiZmCxVKOM9Qd"
   },
@@ -699,7 +768,10 @@
     "id": "v0886",
     "title": "窓口精算機閉め方",
     "description": "",
-    "category": "受付業務",
+    "category": [
+      "受付業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1fmE2sRULl7zu8iu3B6uDUnGxHp2jQnGD"
   },
@@ -707,7 +779,10 @@
     "id": "v0831",
     "title": "分院　セファロの撮り方",
     "description": "",
-    "category": "分院・診療業務",
+    "category": [
+      "分院・診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1qNsM665bt_oBvEEbfB5oRKafuRprNxNh"
   },
@@ -739,7 +814,10 @@
     "id": "v0835",
     "title": "分院　DACユニバーサルの使い方",
     "description": "",
-    "category": "分院・診療業務",
+    "category": [
+      "分院・診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1x7pz3eT0hSzKqIXCLghSwofHr_QPd7pH"
   },
@@ -763,7 +841,10 @@
     "id": "v0832",
     "title": "分院　CTの撮り方",
     "description": "",
-    "category": "分院・診療業務",
+    "category": [
+      "分院・診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "11Qg1sk0rRBA7ApKzQWJeJLrrDqP7GKd0"
   },
@@ -771,7 +852,10 @@
     "id": "v0829",
     "title": "分院　ミーレ",
     "description": "",
-    "category": "分院・診療業務",
+    "category": [
+      "分院・診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1UoT07lnJ_Mdc-IGRAYJAgYN_U42Qj_qY"
   },
@@ -779,7 +863,10 @@
     "id": "v0830",
     "title": "分院　クラスB",
     "description": "",
-    "category": "分院・診療業務",
+    "category": [
+      "分院・診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1noiDSWooYa6EFVr7qV_i51YcI69BVy_d"
   },
@@ -852,7 +939,10 @@
     "id": "v0817",
     "title": "分院iPadでのEPP 入力",
     "description": "",
-    "category": "分院・診療業務",
+    "category": [
+      "分院・診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1hesSEn0CXaChuS9MYjAiKWh48Rzo466F"
   },
@@ -868,7 +958,10 @@
     "id": "v0701",
     "title": "診療終了後の電源関係(診療側消毒室)",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1u5TH858r0O_mIDMt4GQdkr-7jBR703j_"
   },
@@ -892,7 +985,10 @@
     "id": "v0619",
     "title": "消毒室　朝の準備方法",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1LEqa3VBYbmRE_wq95qzfg3ELt5r0Iebi"
   },
@@ -908,7 +1004,10 @@
     "id": "v0623",
     "title": "キッズの朝のユニットの準備",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1x_2eworgpwFFfiPXLgMgyQfYGL5vp0gv"
   },
@@ -988,7 +1087,10 @@
     "id": "v0570",
     "title": "分院 パノラマ 電源の入れ方",
     "description": "",
-    "category": "分院・診療業務",
+    "category": [
+      "分院・診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1V0NcquCFWi1ihVglT78YaWnF7PmO1w-0"
   },
@@ -996,7 +1098,10 @@
     "id": "v0576",
     "title": "分院　GO(レントゲン)",
     "description": "",
-    "category": "分院・診療業務",
+    "category": [
+      "分院・診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1SIZizSpIZlNr1UNUbbG09XMhAvB0hBzK"
   },
@@ -1036,7 +1141,10 @@
     "id": "v0622",
     "title": "AUの準備",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1rXgFOGPKAoFPr98yM1z3ynSMBovzpaiX"
   },
@@ -1052,7 +1160,10 @@
     "id": "v0605",
     "title": "グローブ節約方法",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1UdOJwmwSHBR3BCxDpr24GYMfMkj3-P3T"
   },
@@ -1130,14 +1241,6 @@
     "driveFileId": "1hsl9A9Qc3gK0W-kv2UtK7tNNzGHVU7ck"
   },
   {
-    "id": "v0547",
-    "title": "自費の会計時に保険の返金があったとき（クレジット払いの場合）",
-    "description": "",
-    "category": "受付業務",
-    "recordedDate": "",
-    "driveFileId": "19FAWS6Tq_U9XU0ZuydaP4N33TqboedGe"
-  },
-  {
     "id": "v0561",
     "title": "訪問　レントゲンの取り込み方",
     "description": "",
@@ -1173,7 +1276,10 @@
     "id": "v0422",
     "title": "（新）精算機の閉め方",
     "description": "",
-    "category": "受付業務",
+    "category": [
+      "受付業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1D2Yw_YcU6-AId7oNtg3TAlJgUOw2KU4y"
   },
@@ -1213,7 +1319,10 @@
     "id": "v0404",
     "title": "分院 パノラマ患者設定の仕方",
     "description": "",
-    "category": "分院・診療業務",
+    "category": [
+      "分院・診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1KV-bbEd_IzhSzPy6OyryCOY4w6FofM91"
   },
@@ -1277,7 +1386,10 @@
     "id": "v0437",
     "title": "AUの片づけ",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1JTgOuNIQy-5exZ8jrn3XBfQpEnKAeWqY"
   },
@@ -1293,7 +1405,10 @@
     "id": "v0402",
     "title": "分院　5枚法取り込み",
     "description": "",
-    "category": "分院・診療業務",
+    "category": [
+      "分院・診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1MsJM-ARfgILz2c326zmFnd6evHX5co2u"
   },
@@ -1342,7 +1457,7 @@
     "id": "v0257",
     "title": "入力マニュアル　iPadでの見方",
     "description": "",
-    "category": "診療業務",
+    "category": "分院・診療業務",
     "recordedDate": "",
     "driveFileId": "1YkigYMsozWrnntzXKj8jRKJe89QLIqms"
   },
@@ -1350,7 +1465,10 @@
     "id": "v0304",
     "title": "分院 デンタル",
     "description": "",
-    "category": "分院・診療業務",
+    "category": [
+      "分院・診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1C4i1l7o6uyWLiKgEz6smIX2krrW6ThIV"
   },
@@ -1382,7 +1500,10 @@
     "id": "v0247",
     "title": "2Fパノラマ撮影方法",
     "description": "",
-    "category": "撮影業務",
+    "category": [
+      "撮影業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "16FlDyK2fPfKUp8TIygrbxp1ByUKkYPF6"
   },
@@ -1406,7 +1527,10 @@
     "id": "v0246",
     "title": "DHC取り込みと正しい顕微鏡の操作方法",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1uwKtW_bfIEqD1DHA-h4-2JCsibsG0oaq"
   },
@@ -1454,7 +1578,10 @@
     "id": "v0195",
     "title": "トイレ掃除の仕方",
     "description": "",
-    "category": "基本業務",
+    "category": [
+      "基本業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1Se3RHnj7e0K7G-rERMJr6WwFi6WPvH17"
   },
@@ -1470,7 +1597,10 @@
     "id": "v0094",
     "title": "電源当番 夜電源チェック (再投稿)",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "14wWACUALvUXsNNV62NzyhhemLpZKQazi"
   },
@@ -1503,7 +1633,10 @@
     "id": "v0151",
     "title": "1F CT撮影法方法",
     "description": "",
-    "category": "撮影業務",
+    "category": [
+      "撮影業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1y1TJXdyxfOxdfd7ipDP0pDVxoKGT4rhS"
   },
@@ -1535,7 +1668,10 @@
     "id": "v0033",
     "title": "【5枚法撮り方】",
     "description": "",
-    "category": "撮影業務",
+    "category": [
+      "撮影業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1Y0QjR-P-m1-bJoJu14DsfYt4LWN6FfaT"
   },
@@ -1551,7 +1687,10 @@
     "id": "v0248",
     "title": "５枚法の撮影方法",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1vigGHN3DF98xmd4tELYa-AHpazyjEflZ"
   },
@@ -1567,7 +1706,7 @@
     "id": "v0150",
     "title": "技工室の朝の準備",
     "description": "",
-    "category": "基本業務",
+    "category": "診療業務",
     "recordedDate": "",
     "driveFileId": "11PyMBoGzgK5AeTI16MB3ewPuHJSic73u"
   },
@@ -1575,7 +1714,10 @@
     "id": "v0122",
     "title": "電源当番【夜】",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1pQebhDb4ncbH5iOK8_GmgwBzKi0Ws1l5"
   },
@@ -1583,7 +1725,10 @@
     "id": "v0098",
     "title": "電源当番【朝①】",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "14pYKJY41JCS4G49GhNnvlQV8IvpyYL7g"
   },
@@ -1591,7 +1736,10 @@
     "id": "v0084",
     "title": "電源当番【昼】",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1wyctjxbJ8hx6mrBktuZT_OzaFPjLeVu4"
   },
@@ -1607,7 +1755,10 @@
     "id": "v0056",
     "title": "2F CT撮影法",
     "description": "",
-    "category": "撮影業務",
+    "category": [
+      "撮影業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1KepjakOnhaK0nTAvPwgppOAym_vgbKbE"
   },
@@ -1615,7 +1766,10 @@
     "id": "v0049",
     "title": "【5枚法取込み方・画像揃え方】",
     "description": "",
-    "category": "撮影業務",
+    "category": [
+      "撮影業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "17A1VWE6S3B3GUSlzz1D9Q86fTlZsCDwa"
   },
@@ -1623,7 +1777,10 @@
     "id": "v0068",
     "title": "セファロの撮影方法",
     "description": "",
-    "category": "撮影業務",
+    "category": [
+      "撮影業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1nRx3_acg0Glp3LtTNmKXMD5l0jkHuQFI"
   },
@@ -1655,7 +1812,10 @@
     "id": "v0024",
     "title": "電源当番【朝②】",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1E5_pFXoVXIe6VnqsLslE86Pbh3re0TIK"
   },
@@ -1717,7 +1877,10 @@
     "id": "photo-panorama-jaw-position",
     "title": "パノラマ撮影のコツ(顎の引き方)",
     "description": "パノラマを撮るとき顎を引きすぎると画像が狭窄してしまいます。診断できないので赤い線をカンペル平面(鼻聴導線)に合わせて撮影して下さい。エプロンが映り込むことも多いので注意して下さい。",
-    "category": "撮影業務",
+    "category": [
+      "撮影業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-05-22",
     "submittedBy": "亀山法子",
     "type": "photo",
@@ -1731,7 +1894,10 @@
     "id": "video-gypsum-mixer-usage",
     "title": "石膏練和機の使い方",
     "description": "電源ボタンの位置が少し分かりにくい位置にあります。必ず動画ご確認下さい。\n\n基本動作は\n①電源ON\n②攪拌秒数設定(M1〜M3ボタン)\n③石膏練和したカップを設置\n④バキュームのライトが赤黄緑と点灯したのを確認\n⑤スタートボタン\n⑥リリースボタンで取り外し、の流れです。\n\n業者さんより密閉率高いのでなるべく新しいカップ使ってほしいそうです。\n吸引力が上がってますので、石膏入れすぎると石膏を吸引してしまう可能性があります。石膏量はカップの線より下でお願いします。\n\n石膏が詰まってくると赤黄緑のライトがスムーズに点灯しなくなるそうです、その際はフィルターやOリングを外して水洗いしてください。\n※詳しくは手入れのやり方動画観てください。",
-    "category": "技工関連",
+    "category": [
+      "技工関連",
+      "新人マニュアル"
+    ],
     "recordedDate": "2023-01-26",
     "submittedBy": "",
     "driveFileId": "1BEpC41hQy1_9TRCiksn120BnJL2OwaLW"
@@ -1752,7 +1918,10 @@
     "id": "video-sterile-bag-instrument-handoff",
     "title": "滅菌袋からの器具の出し方、受け渡し方",
     "description": "滅菌袋から器具を渡す時\n\nOK→滅菌袋を開け、中を触らないようにDrに渡す。\nトレーに出しDrに取ってもらう。\n\n※間違った例はこちら: https://andominami.github.io/tanpopo-ai-manual/#id=video-sterile-bag-instrument-handoff-ng",
-    "category": "消毒室関連",
+    "category": [
+      "消毒室関連",
+      "新人マニュアル"
+    ],
     "recordedDate": "2023-10-21",
     "submittedBy": "近藤有希",
     "driveFileId": "18RgZKL4dVJxlxlPEjqTwu6lwbJtEoY_x"
@@ -1761,7 +1930,10 @@
     "id": "video-sterile-bag-instrument-handoff-ng",
     "title": "滅菌袋からの器具の受け渡し方(NG例)",
     "description": "滅菌袋から器具を渡す時\n\nNG→滅菌袋から出し、直接持ち直して渡す。\n\n※正しい例はこちら: https://andominami.github.io/tanpopo-ai-manual/#id=video-sterile-bag-instrument-handoff",
-    "category": "消毒室関連",
+    "category": [
+      "消毒室関連",
+      "新人マニュアル"
+    ],
     "recordedDate": "2023-10-21",
     "submittedBy": "近藤有希",
     "driveFileId": "18RFyCP4niJZMwzjGAvX4kMNugqJWXlmO"
@@ -2009,7 +2181,10 @@
     "id": "video-og-disinfection-basic-set-layout",
     "title": "OG消毒室の基本セットの並べ方",
     "description": "",
-    "category": "消毒室関連",
+    "category": [
+      "消毒室関連",
+      "新人マニュアル"
+    ],
     "recordedDate": "2021-12-20",
     "driveFileId": "1MAcBXKSp4-yLKtuu543udy7O0K9nLDv7"
   },
@@ -2049,7 +2224,10 @@
     "id": "video-ultrasonic-cleaner-cleanup",
     "title": "超音波洗浄機の片付けの仕方",
     "description": "",
-    "category": "消毒室関連",
+    "category": [
+      "消毒室関連",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-03-05",
     "submittedBy": "川崎真紀",
     "driveFileId": "1rNT8PHRGeE6Y2R1YWnmXNxQK--JSsAcA"
@@ -2267,7 +2445,10 @@
     "id": "photo-basic-set-sharp-instrument-caution",
     "title": "基本セットを組む時の注意",
     "description": "基本セットを組む時に、鋭利な器具は\n上向きでいれるよう統一をお願いいたします。\n\n新人さんも入られましたので\n針刺し事故防止のためにも、\n器具の取り扱いについて今一度ご確認ください。\nよろしくお願いいたします。",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2026-04-22",
     "submittedBy": "永友奈々子",
     "type": "photo",
@@ -2279,7 +2460,10 @@
     "id": "video-dental-scan-method",
     "title": "デンタルのスキャン方法",
     "description": "申し訳ありません！レントゲンの一連の動画、縦で撮ってしまいました！",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-01-29",
     "submittedBy": "亀山法子",
     "driveFileId": "1hZsLeXBqYDVyJHy7fF6PzSs0Dz3iPRln"
@@ -2288,7 +2472,10 @@
     "id": "photo-rct-tools",
     "title": "RCTの時に使う道具",
     "description": "Dr.柳田がRCTに時に使う物の一覧です。\n基本Zの2番に置いてあります。\n\n基本バー\n21Hのファイル\n08 10のファイル\n根治ノート\n酸性水\n根管長測定器\n9P (9番のプラガー)\nネオクリーナー\n外科用のバキューム\nエンドゲージ\nバイトブロック\nラバーダムシート\nラバーダムパンチ\nラバーダムフレーム\nクランプ (基本202)\nクランプフォーセップス\n\n・根治する部位がわかる場合は、ラバーダムシートに穴を開けてクランプをつけた状態でおいておきましょう。\n\n・排唾管は使いません。",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-03-06",
     "submittedBy": "熊谷容子",
     "type": "photo",
@@ -2300,7 +2487,10 @@
     "id": "video-vacuum-holding-upper-lower-right",
     "title": "バキュームの持ち方:右上下編",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-02-23",
     "driveFileId": "1Z-zxb2Hnki4Efo9im9u2ozdoZbP-3gTB"
   },
@@ -2316,7 +2506,10 @@
     "id": "photo-first-visit-form-entry",
     "title": "初回用紙の記入",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-03-26",
     "type": "photo",
     "photoFileIds": [
@@ -2345,7 +2538,10 @@
     "id": "video-infiltration-anesthesia-set",
     "title": "浸麻のセット方法",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-05-11",
     "submittedBy": "亀山法子",
     "driveFileId": "1xQd42_F6ZN9XolDmMVkc1UV1lLZJRH9X"
@@ -2354,7 +2550,10 @@
     "id": "video-electric-anesthesia-prep-1f-2f",
     "title": "電動麻酔の準備1F、2F",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-05-29",
     "submittedBy": "亀山法子",
     "driveFileId": "1o3O_wkFoQ0Fpdu05oH5-0Ix0K1NfgOSR"
@@ -2421,7 +2620,10 @@
     "id": "photo-root-canal-treatment-rct",
     "title": "根管治療(根治、RCT)",
     "description": "●ラバーダム防湿\n・ラバーダム一式\n・必要なら浸麻も\n・隔壁つくるならCR準備\n●仮封除去\n・5倍速\n・バー\n●根管洗浄\n・ルーティ(なるべく先が真っ直ぐなの)\n・酸性水、ネオクリーナー、オキシドールなど\n・ブローチ(綿線をつくる器具)\n・ペーパーポイント\n●根管拡大、根管長測定\n・ファイル\n・エンドゲージ\n・キャナルメーター(根管長測定器)\n※キャナルメーターのコード巻く時、根元をきつく巻かない。\n●仮封\n・IRM\n・ストッパー",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-05-11",
     "submittedBy": "田中歩美",
     "type": "photo",
@@ -2460,7 +2662,10 @@
     "id": "photo-ext-preparation-forceps-elevator",
     "title": "EXT準備(抜歯鉗子とヘーベル種類)",
     "description": "・抜歯同意書\n・表面麻酔\n・浸潤麻酔\n・日大式ヘーベル\n・抜歯鉗子(抜歯部位の)\n・えいひ\n・外科用バキューム\n・止血セット\n\nDrによって、使用器具が異なるので滅菌袋から出さずキャビネットの上に準備して下さい。",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-05-11",
     "submittedBy": "田中歩美",
     "type": "photo",
@@ -2506,7 +2711,10 @@
     "id": "photo-rebase-preparation-manual",
     "title": "リベース準備マニュアル",
     "description": "①リベース接着剤・ハケ\n②粉・計量カップ\n③液・ラバーカップ\n④プラスチックスパチュラ\n⑤ティッシュまたはペーパータオル\n⑥金冠バサミ（ユニファスト内から）\n⑦硬化促進剤・スプーン\n⑧ストレート・技工用バー\n⑨お湯（言われてから？）",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-05-03",
     "submittedBy": "草柳早紀",
     "type": "photo",
@@ -2546,7 +2754,10 @@
     "id": "photo-tissue-conditioning-soft-liner-prep",
     "title": "ティッシュコンディショニング(ソフトライナー)準備",
     "description": "①ワセリン\n②ガラス容器\n③粉\n④液\n⑤スポイト\n⑥プラスチックスパチュラ\n⑦金冠ばさみ\n⑧ストレート\n⑨技工用バーセット\n\n＊金冠ばさみはユニファーストの中から借りています。\n＊①〜⑥は棚の2段目のソフトライナーの箱に入っています。",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "submittedBy": "井出真理愛",
     "type": "photo",
@@ -2559,7 +2770,10 @@
     "id": "photo-sc-polishing-prep",
     "title": "ＳＣ＆ポリッシングの準備",
     "description": "①鎌形（シックル）スケーラー\n②ルーティー（エアスケーラー）\n③タスカル（ヘッド）\n④タスカル（本体）\n⑤チェックアップスタンダード",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-05-02",
     "type": "photo",
     "photoFileIds": [
@@ -2570,7 +2784,10 @@
     "id": "photo-cr-preparation",
     "title": "CRの準備",
     "description": "①照射器\n②CCD\n③タービンまたは５倍速、バー\n④CRレジン\n⑤アプリケーター\n⑥エッチング\n⑦ボンディング\n⑧ストリップス",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-05-02",
     "type": "photo",
     "photoFileIds": [
@@ -2581,7 +2798,10 @@
     "id": "photo-sealant-preparation",
     "title": "シーラントの準備",
     "description": "①照射機\n②ディスポトレー（キッズはダッペンディッシュ）\n③シーラントのプライマー\n④マイクロブラシ\n⑤先端のチップ\n⑥シーラント本体",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-05-02",
     "submittedBy": "早田愛",
     "type": "photo",
@@ -2593,7 +2813,10 @@
     "id": "video-irradiator-cover-attachment",
     "title": "照射器のカバーの付け方",
     "description": "照射器やCCDカメラにカバーをつけるときは口腔内で外れないようにしっかりとつけるようおねがいします。",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-04-24",
     "submittedBy": "熊谷容子",
     "driveFileId": "1-Repz5neh_VAW0dgxOYhC-NXBUSdaHDz"
@@ -2615,7 +2838,7 @@
     "id": "video-self-pay-insurance-refund-credit",
     "title": "自費の会計時に保険の返金があったとき（クレジット払いの場合）",
     "description": "返金したら受領の領収書に患者さんに受け取りのサインを頂いて、返金処理済領収書入れにしまって下さい\n\n参考写真:\nhttps://drive.google.com/file/d/1l4bClMHTTfUTi05wCI46g4Zf8JXwITUs/view\nhttps://drive.google.com/file/d/1bS8X2Mt4oC5MSN3-FlmYoYVW8EHXopce/view",
-    "category": "受付業務",
+    "category": "分院・受付業務",
     "recordedDate": "2023-10-21",
     "submittedBy": "一門麻依",
     "driveFileId": "1OXtxQdWDYdYIASqPSm_gtHUiDNVy-K2G"
@@ -2657,7 +2880,7 @@
     "id": "photo-tatsujin-plus-icon-missing",
     "title": "院内患者の画面から達人プラスのアイコンが消えたとき",
     "description": "院内患者の画面の右上の方に普段は達人プラスのアイコンがありますが、もし消えてしまっていたら、下向きの三角を押し、達人プラスと書いてあるところをクリックしてください\nそうするとアイコンが、出てきます",
-    "category": "撮影業務",
+    "category": "分院・撮影業務",
     "recordedDate": "2025-04-11",
     "submittedBy": "一門麻依",
     "type": "photo",
@@ -2698,7 +2921,10 @@
     "id": "photo-branch-morning-pc-startup",
     "title": "分院の朝のパソコンの立ち上げの件",
     "description": "朝、診療室のパソコンを立ち上げるときに上のモニタのパソコンも起動しますが、起動したら、キャレットスクエア（写真の水色マーク）も起動してください\n（下のバーにアイコンが出ている状態にしてください）\n起動しないとパントモやデンタル等撮影したデータが飛ばないことがあるそうです\n\nよろしくお願いします",
-    "category": "分院・基本業務",
+    "category": [
+      "分院・基本業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2026-07-28",
     "submittedBy": "一門麻依",
     "type": "photo",
@@ -2793,7 +3019,10 @@
     "id": "text-going-to-branch-notes",
     "title": "分院へ行く方へ",
     "description": "分院へ行く方へお願い＆注意事項です\n\n分院の日は、朝は8：30までにタイムカードを押すようにしてください。\n\n退勤は18：30にです\n分院は勤務時間が1時間短いので、足りない分は残業から相殺予定です\n\n分院に行った日は分院に置いてあるタイムカードを押してください。\n本院のタイムカードにも分院に行った日付のところに「分院」と記入お願いします\n\n制服は、今の制服のままで大丈夫です\n\n8月は車通勤の方は、分院の近くに駐車場を借りましたので、そちらに停めていただきます。\n場所は後日ご連絡致します\n\n決まったことなどありましたら、その都度ご連絡しますので、宜しくお願いします",
-    "category": "分院・基本業務",
+    "category": [
+      "分院・基本業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2023-07-10",
     "submittedBy": "一門麻依",
     "type": "text"
@@ -2858,7 +3087,10 @@
     "id": "photo-branch-epp-plaque-input",
     "title": "分院のEPP、プラーク入力について",
     "description": "分院のEPP、プラーク入力は、\n①ユニットのモニター＋マウスで行う方法\n②色が黒い方のiPad(2台)で行う方法\nが可能ですが、レセコンにデータを反映させるには②でないと出来ないようなので、\n\nマウスで行わず色の黒いiPad(注：銀色は不可)で行うよう統一をお願いします。\nケースを着けたら色が分かりにくくなりましたが明日なにか印をつけておきます。",
-    "category": "分院・診療業務",
+    "category": [
+      "分院・診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2023-08-31",
     "submittedBy": "草柳早紀",
     "type": "photo",
@@ -3122,7 +3354,10 @@
     "id": "text-branch-night-closing-procedure",
     "title": "分院　夜の締め作業について",
     "description": "分院に入る方にお願いします\n\n分院はimpが出たら、必ずその日のうちに本院の技工室に届けます\nその為、石膏固まっていたら　外して指示書と一緒にチャック袋に入れます\n本院相はティッシュなどでくるんで、割れたり欠けたりしないようにしてください。\n（もし帰りの時間までに外せない時はトレーごと袋に入れ、技工所さんにお渡しします。本院に戻った段階で外せそうなら外して出します）\n\nチャック袋に入れたものを技工室にあるケースにいれ、スタッフルームの机の上に置いておいてください。\n基本的に一門がいれば一門が、いない場合は志賀先生が本院に届けてくれますが、一応確認お願いします\n\n袋に入れるとき、対合　バイトなどしっかり確認お願いします\n\nまた、分院は人数が少なく朝の準備が間に合わなくなるので、夜のうちに掃除機かけと　トイレ掃除を行いますので、ご周知下さい\n\n診療終了後は相談コーナーのプリンタや、パソコンの消し忘れ、パントモの本体の電源消し忘れ、特寝室のエアコンや電気の消し忘れが無いか確認お願いします\n\n少ない人数で大変化とは思いますが、ご協力よろしくお願い致します",
-    "category": "分院・基本業務",
+    "category": [
+      "分院・基本業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2025-08-22",
     "submittedBy": "一門麻依",
     "type": "text"
@@ -3284,7 +3519,10 @@
     "id": "photo-president-lab-bag-change",
     "title": "プレジデントさんの袋が変わりました",
     "description": "・指示書に「よろしくお願いします」はかかなくてOK\n・Agの場合必ず丸をつける\n・模型を袋に入れるときは、模型同士がぶつからないように指示書の前と後ろに分けて入れる\n・ぶつかる場合はティッシュにくるむ\n\nサンプルをもらったのでプレジデントさんの袋があるところに置いておきます。",
-    "category": "技工関連",
+    "category": [
+      "技工関連",
+      "新人マニュアル"
+    ],
     "recordedDate": "2026-07-08",
     "submittedBy": "林咲穂",
     "type": "photo",
@@ -3351,7 +3589,7 @@
     "id": "photo-oral-frailty-checkup-supplies",
     "title": "オーラルフレイル健診の消耗品について",
     "description": "オーラルフレイル健診で使う消耗品の数が合わないことが多いです。\n海老名市から毎回必要な分だけもらっています。\n1人に2つ使うなどはしないようお願いします！\n落としてしまったなど、やむを得ず多くだした場合は教えてください！\n\n栄養士の方は新しく在庫が入って袋から箱にうつすときに個数があってるか確認お願いします！",
-    "category": "訪問業務",
+    "category": "診療業務",
     "recordedDate": "2026-06-13",
     "submittedBy": "林咲穂",
     "type": "photo",
@@ -3377,7 +3615,10 @@
     "id": "photo-jobcan-clock-pc-relocation",
     "title": "ジョブカン打刻PC移動",
     "description": "事務よりお知らせします。①諸々の事情によりジョブカン打刻PCを新館スタッフ用トイレ前の台に移動しました。②従来どおり個人宛の連絡に使えるようにタイムカードラックを設置しました。この赤いタイムカードはその台紙として使います。③更に、2箇所にあったインカム充電台はキッズ診療室入口に集めました。④カルテ庫前のカラーボックスは撤去し、届出用紙等の引出は打刻PC下に移しました。各自ご確認ください。よろしくお願いします。\n\n移動の作業を手伝ってくださった皆様、ありがとうございました🙏",
-    "category": "基本業務",
+    "category": [
+      "基本業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2026-06-09",
     "submittedBy": "須藤能子",
     "type": "photo",
@@ -3393,7 +3634,7 @@
     "id": "photo-cerec-block-management",
     "title": "❗セレックブロックの管理について❗",
     "description": "セレックブロックを使う時は、\n必ず受付スタッフへ声をかけて出してもらい、\n受付スタッフが管理表へ個数を記入することになっています。\n\nですが、以前よりご自身で取る方や、ご自身で取って記入が無い方、記入があっても字が独特で読めず次に記入する人が読み間違えてしまうことなどがあり、在庫数が記入してあるものと実数に差が出てしまうことがありました。\n\n今後セレックブロックを使う場合は、必ず受付スタッフに伝えてブロックを出してもらう様にしてください。\n受付スタッフはしっかり記入して下さい。",
-    "category": "基本業務",
+    "category": "診療業務",
     "recordedDate": "2026-06-05",
     "submittedBy": "山下愛美",
     "type": "photo",
@@ -3417,7 +3658,10 @@
     "id": "text-jobcan-correction-approval-flow",
     "title": "ジョブカン打刻修正申請後の流れ",
     "description": "①打刻修正申請に対しては、当日出勤している幹部が承認することとします\n\n②スタッフについては、幹部ドクターまたは主任が承認します\n\n③ドクター/研修医については、理事長・院長または課長が承認します\n\n④打刻修正申告をした人は、できるだけその日のうちに（または次回出勤日に）該当の上司に声をかけ、承認の依頼をしましょう\n\n⑤依頼された上司は当日中に確認し、承認をお願いします",
-    "category": "基本業務",
+    "category": [
+      "基本業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2026-05-31",
     "submittedBy": "須藤能子",
     "type": "text"
@@ -3426,7 +3670,10 @@
     "id": "photo-jobcan-ic-card-clock-2026-06",
     "title": "2026年6月からの勤怠打刻について",
     "description": "2026年6月1日(月)から、勤怠打刻はジョブカンのICカードタッチによる打刻とし、タイムカードによる打刻は原則廃止となります。出勤・退勤時のタッチを忘れないようにお願いします。\n打刻用パソコンの不具合またはカード忘れによりタッチができない時に限り、白紙のタイムカードに氏名と○年○月を記入して打刻し、後でジョブカンマイページから打刻修正の申請をしてください。\n\n『ジョブカンマイページの見方』のご案内を打刻パソコンの側に貼りましたので参考にしてください。よろしくお願いします。\n【追記】teams2026/4/17(金)16:32小林さん投稿の『Outlookのメールからログインする方法』がうまくいかない場合に上記のログイン方法をお試しください。ログイン後の画面のページレイアウトが少し違いますが同様に使えます。",
-    "category": "基本業務",
+    "category": [
+      "基本業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2026-05-31",
     "submittedBy": "須藤能子",
     "type": "photo",
@@ -3438,7 +3685,10 @@
     "id": "photo-lab-instruction-handwriting-request",
     "title": "⭐指示書の文字についてのお願い⭐",
     "description": "再三、何度も申し上げておりますが、指示書(だけではありませんが)は誰でも読める字で書いてください。\n患者様のお名前を間違えて記入すると、技巧所さんからの納品書も誤ったお名前で届きます。\nまた、指示書に書いてある患者様のお名前が間違っていると、受付での技工物チェックにも非常に時間がかかってしまいます。\nご協力ください。",
-    "category": "技工関連",
+    "category": [
+      "技工関連",
+      "新人マニュアル"
+    ],
     "recordedDate": "2026-05-13",
     "submittedBy": "山下愛美",
     "type": "photo",
