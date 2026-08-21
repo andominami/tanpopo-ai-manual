@@ -3321,23 +3321,5 @@
     "submittedBy": "熊谷朋実",
     "type": "pdf",
     "driveFileId": "1CwL6EWCQr6AEISfMOV8SrwW0WpxK4rhL"
-  },
-  {
-    "id": "form-1787206496700",
-    "title": "",
-    "description": "テスト5",
-    "category": "診療業務",
-    "recordedDate": "2026-08-20",
-    "submittedBy": "安藤",
-    "type": "text"
-  },
-  {
-    "id": "form-1787206559672",
-    "title": "",
-    "description": "テスト6",
-    "category": "基本業務",
-    "recordedDate": "2026-08-20",
-    "submittedBy": "安藤",
-    "type": "text"
   }
 ]
