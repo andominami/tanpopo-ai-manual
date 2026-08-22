@@ -3702,5 +3702,70 @@
       "1Dm21XIveUp3ibJjFf13nWK7AEM35PqLH",
       "1NF18yPKIspdzVQ3q8zfVUDjrg5G-0wie"
     ]
+  },
+  {
+    "id": "photo-visualmax-self-pay-agreement-caution",
+    "title": "自費の同意書について",
+    "description": "同意書の作成をする時の注意事項です。\n\nビジュアルマックスで同意書を開いたときに、前回の情報が残っていることがあると思います。\n例えば同じものの時は、そのまま部位のみを変えて作成したいところですが、そうしてしまうと改定前の金額になってしまいますので、必ず全てクリアを押してから、新規作成をお願いします。\n\nまたは、自費同意書の作成を選んだ際に出る、\n「入力中のデータがあります。続きから入力をしますか?」\nには\n「OK」を押さず、「キャンセル」を押してください。\n\n前回の自費改定時にも、新料金ではなく旧料金の同意書が作られていたことがあったので、今だけではなく今後もずっと気をつけて下さい。\n\nそれから、自費項目の出てくる順番を使いやすいように少し変えました。さらに、表示順を変えてほしいなどありましたらお知らせください。",
+    "category": "診療業務",
+    "recordedDate": "2026-05-07",
+    "submittedBy": "杉本麻水",
+    "type": "photo",
+    "photoFileIds": [
+      "11nAoQnzQrKQnrabgAW8X8jLxrGDm2bKu"
+    ]
+  },
+  {
+    "id": "photo-oral-frailty-checkup-fy2026-pricing",
+    "title": "令和8年度オーラルフレイル健診、口腔がん検診について",
+    "description": "⚠昨年度と金額が若干違いますので、お伝えしておきます。(遅くなってすみません)\n\n①5年くらい前から、70〜74歳の方のオーラルフレイル健診の受診料が段階的に安くなっていましたが、昨年度の74歳の200円で終了し、今年度は\n\n75歳以上は無料\n50〜74歳は500円\n\nの2つのみです。ご注意ください。\n\n②オーラルフレイル健診2回目についてですが、年度をまたいで2回目の受診になると、前年度治療後の2回目に○をして下さい。\nまた、2回目を受けた同一年度に次の1回目は受けられませんので、ご注意ください。",
+    "category": "診療業務",
+    "recordedDate": "2026-04-27",
+    "submittedBy": "杉本麻水",
+    "type": "photo",
+    "photoFileIds": [
+      "1fh2oioE5Esi_lfdXWZmM7r-Gp-cxOPJ4",
+      "1v-CisQm4c3t8n8xLOFDpugw-_GiTZNoU",
+      "1kin5VB5fYVRRPuKfh4UJO7gEiJ3tq-YV"
+    ]
+  },
+  {
+    "id": "photo-caries-diagnostic-chart",
+    "title": "虫歯の診査表",
+    "description": "以前濱田セミナーで教えていただいた「虫歯の診査表」をアップしますので、Cチェック時にご活用ください",
+    "category": "診療業務",
+    "recordedDate": "2026-04-19",
+    "submittedBy": "吉田佳奈",
+    "type": "photo",
+    "photoFileIds": [
+      "16_sHVCiwzBBH8Zq6H1psQVLnCwFSeuOl"
+    ]
+  },
+  {
+    "id": "photo-morning-vacuum-outlet-caution",
+    "title": "朝掃除機をかける際のコンセントについて",
+    "description": "今朝部長より、コンセントは上を使わず下にあるものを使うようにお話がありました。物を落とす原因になる為です。朝礼ノートにも書きましたのでご周知お願い致します。",
+    "category": "基本業務",
+    "recordedDate": "2026-04-17",
+    "submittedBy": "平野あゆみ",
+    "type": "photo",
+    "photoFileIds": [
+      "1Rj0xXNLw-JB6uxLkvjf_Grca1Cl-7Pxq"
+    ]
+  },
+  {
+    "id": "photo-thumb-sucking-diet-guidance",
+    "title": "指しゃぶりをやめられないお子様がいたら食事指導のご案内をお願いします",
+    "description": "3歳以上で指しゃぶりをやめられないお子様がいたら\n保護者の方に食事質問表を記入いただきバイオ枠食事指導45分で予約をお願いします!\n\n3歳以上の指しゃぶりは歯列狭窄や上顎前突、開咬などの不正咬合に影響することがあるためです。\n栄養士が3〜5歳を目途に指しゃぶりを卒業できるよう絵本の読み聞かせやお口のトレーニング、食事指導をします。\n\nよろしくお願いします!",
+    "category": "受付業務",
+    "recordedDate": "2026-04-10",
+    "submittedBy": "林咲穂",
+    "type": "photo",
+    "photoFileIds": [
+      "1utEdX6OnY2mZizgEBQQgxNPKXDVSZMvk",
+      "11ScYhCof5Ctw1RPdiy0xkxvBMFIn1NIt",
+      "1AbIbR90Zulg29z_-NHPz3M-VXh4-ZbQZ",
+      "1E0vYr2rq4GLurJ5DMBd4D6JYuwi8eZlX"
+    ]
   }
 ]
