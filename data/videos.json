@@ -3793,5 +3793,72 @@
     "photoFileIds": [
       "1EbHqjQvSC_pNILId48lrdwl5PxhL7Wth"
     ]
+  },
+  {
+    "id": "photo-self-pay-treatment-plan-receipt-note",
+    "title": "受付に入る方へ【自費治療計画書の件】",
+    "description": "自費のお金を領収した時は黄色い用紙に記入するだけでなく、治療計画書に鉛筆で領収済みである事がわかるように記入をお願いします。\n\n【例(左)】\n・金額部分に○\n・領収日(曜日は無くてもok)\n・会計した人の名前\n\n以前から記入漏れがあったのと、最近受付に入る方も増えたのでお知らせしておきます。\nカルテの中から記入されていない治療計画書が出てくるとギョッとするのでご協力お願いします🙏",
+    "category": "受付業務",
+    "recordedDate": "2025-02-06",
+    "submittedBy": "蝦代三千代(阪下)",
+    "type": "photo",
+    "photoFileIds": [
+      "1SoG7EnZkPRek13nZK2-TqJ5XVAqdpxh8"
+    ]
+  },
+  {
+    "id": "photo-orthodontic-installment-payment-form",
+    "title": "矯正装置の分割支払いがあった場合",
+    "description": "Dr.曽根のアシストにつく方と受付さんにお願いします。\n\nDr.曽根で矯正を始める方で、装置を分割支払いにする場合に書く用紙をつくりました。\n\n支払い日は受付で会計を担当した方、それ以外はアシストについていた方が記入をお願いします。\n誕生日は年齢が分かるように西暦で記入して下さい。\nカルテの前に貼ってください。\n\nG側後ろPC横のDr.曽根矯正料金表が入っているファイルに入れます。\n\n何かあれば林にお声がけ下さい。\nよろしくお願いいたします。",
+    "category": "受付業務",
+    "recordedDate": "2025-03-03",
+    "submittedBy": "林咲穂",
+    "type": "photo",
+    "photoFileIds": [
+      "1XTBuwGHQhFuISGC-dGs92Kj85Xw26JyE"
+    ]
+  },
+  {
+    "id": "photo-alkaline-battery-no-charging",
+    "title": "アルカリ乾電池は充電しないでください",
+    "description": "OG消毒室の充電器に、4本のアルカリ乾電池がセットされていました。\n\nアルカリ乾電池の充電は危険ですので絶対にしないでください。",
+    "category": "基本業務",
+    "recordedDate": "2025-04-14",
+    "submittedBy": "須藤能子",
+    "type": "photo",
+    "photoFileIds": [
+      "1XfWv02ZE1vD6oXByf8APg_cD6sN8528Z",
+      "1KRiboeSEfx53yDJNFxoluUVB_i-mIzc6",
+      "1o9R9ZpKmjRPjPPZwOcuT0jzoJ-RW6Yca"
+    ]
+  },
+  {
+    "id": "photo-water-server-drip-tray-cleaning",
+    "title": "ウォーターサーバーを利用する方へお願い",
+    "description": "3階研修室・1階待合室のウォーターサーバーの水受け皿に水が溜まっている場合は、手前に引き出して外し、流しに捨ててください。\n\nサーバーの上部真ん中を軽く後ろに押して前足部分を少し浮かせると、引き出しやすいです。\n\nまた、時々受け皿上面の白い部品を外し、グレーの皿と共に軽く水洗いしてから水を切り、逆の手順で取り付けてください。\n\nよろしくお願いします🙏",
+    "category": "基本業務",
+    "recordedDate": "2025-05-10",
+    "submittedBy": "須藤能子",
+    "type": "photo",
+    "photoFileIds": [
+      "1W2ivhtSoSTujNC7fDadVGAPANueyYDQJ",
+      "1kSR3nnl8_LmDjdZ43JRisVE6_RIQuiSR",
+      "1TdaaSU81DR7YNYKnSroSNMzdr7cVkmtZ"
+    ]
+  },
+  {
+    "id": "photo-intercom-charging-caution",
+    "title": "【インカムの充電の件】",
+    "description": "朝インカムを見ると、電源が入ったまま充電器に挿さっていたり、きちんと挿さっておらず充電できていない事がよくあります。\n\nインカムを充電する時は電源を切ってから、きちんと充電器に挿さっているか確認するようにして下さい。\nまたそのようなインカムを見かけたら電源を切っていただけると助かります。\n\nよろしくお願い致します。",
+    "category": "基本業務",
+    "recordedDate": "2025-05-18",
+    "submittedBy": "蝦代三千代(阪下)",
+    "type": "photo",
+    "photoFileIds": [
+      "1ck7Z8UrQrPl2u0aq-stpXCItRe74vHn1",
+      "1fGE6u9UYNzkxkzjjsOlWIRp-XHT3WemF",
+      "1lUSamQdJHg9Cv96dVTyf4oEIDuTolEZe",
+      "13tBHtb9sjZngUDZdoTXAswiDJZoVupCI"
+    ]
   }
 ]
