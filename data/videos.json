@@ -80,7 +80,10 @@
     "id": "v1631",
     "title": "2階消毒室の片付けについて",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1KFg_5TI9FnextSEZ1Gt4ruuHLaauI0A7"
   },
@@ -592,7 +595,10 @@
     "id": "v0918",
     "title": "Vmax(ヴィジュアルマックス)の操作～患者さん向けツール編～",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "1qsBwpNZK0azPHX9pMEMOgFhajqn496Uo"
   },
@@ -1706,7 +1712,10 @@
     "id": "v0150",
     "title": "技工室の朝の準備",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "",
     "driveFileId": "11PyMBoGzgK5AeTI16MB3ewPuHJSic73u"
   },
@@ -2498,7 +2507,10 @@
     "id": "video-final-impression-agar-assist",
     "title": "本印象アシスト:寒天のアシストについて",
     "description": "",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2022-02-23",
     "driveFileId": "1ecw-4aFV2mxBqBzdt9MQV7BBAzQ8QK4u"
   },
@@ -2570,7 +2582,10 @@
     "id": "photo-5x-contra-angle-handpiece",
     "title": "５倍速コントラアングルハンドピース",
     "description": "幹部会より。\n各自、５倍速コントラのライト付き・無しの見分けを出来るようにお願いします。\n\n①接続部に黒い突起がある\nかつ、\n②注水部下に楕円形のパネルのような部分がある\n\nものがライト付きの５倍速です。\n口腔外科Dr.から要望があるようなのでお願いいたします。",
-    "category": "診療業務",
+    "category": [
+      "診療業務",
+      "新人マニュアル"
+    ],
     "recordedDate": "2023-10-30",
     "submittedBy": "草柳早紀",
     "type": "photo",
