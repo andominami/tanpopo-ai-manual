@@ -3897,5 +3897,53 @@
     "photoFileIds": [
       "1nrFmxg49Ipcq_KjKAYbKSwiXxyPOXByb"
     ]
+  },
+  {
+    "id": "video-vmax-screen-pink-fix",
+    "title": "画面がピンクになった時の対応",
+    "description": "特にO側の画面がピンクになってしまった時はグルグル巻かれてるコードをグッグッと上に上げてもらうと画面の色味が戻ります。ピンク色のままだと見にくいと思いますのでついてる人調節してみてください",
+    "category": "診療業務",
+    "recordedDate": "2025-06-12",
+    "submittedBy": "平野あゆみ",
+    "driveFileId": "1odZqYmhPORC21xwgnv3rqHaJjVvXq5uO"
+  },
+  {
+    "id": "text-implant-surgical-guide-impression-rules",
+    "title": "インプラント関係のすべて人にお願いします。",
+    "description": "インプラント関係のすべての人にお願いします。\n\nサージカルガイドの印象はすべて、光学印象で行ってください。アルジネート印象は基本的に禁止とします。\n印象材、石膏、宅急便の費用、タイムラグ、すべての行程で発生する人件費を考慮した場合、アルジネート印象を行う正当な理由がありません。\nガイド作成のためのスキャンはトリオス3でも十分な精度があります。\n\nまた、インプラントの本印象において、ジグプレートを使用するのは、フィクスチャー3本以上からとしてください。フィクスチャー3本以上でも、可能なら不用になったバーなどを利用してください。\n\n不要な経費、人件費のかからない方法論を考えてください。\n特殊なケースや非常時は上記の限りではありません。\nよろしくお願いします🙇",
+    "category": "診療業務",
+    "recordedDate": "2025-06-20",
+    "submittedBy": "柳田充康",
+    "type": "text"
+  },
+  {
+    "id": "photo-care1-unit-m1-m2-reset",
+    "title": "ケア1のユニット",
+    "description": "基盤交換を行った関係で「M1」「M2」の設定がリセットされました\n設定したい場合、ユニットを設定したい位置にしたあとに「▼」ボタンと「M1」「M2」ボタンのどちらかを同時に長押しし、「MICRO ENGINE X100rpm」と書いてある下の画面の数字が「000」と表示されたら設定完了です\n\nよろしくお願いいたします",
+    "category": "診療業務",
+    "recordedDate": "2025-07-02",
+    "submittedBy": "吉田佳奈",
+    "type": "photo",
+    "photoFileIds": [
+      "17xRV_m1flVtPmTPtnAqPmlX9rTdfii65"
+    ]
+  },
+  {
+    "id": "text-implant-ope-vacuum-tank-caution",
+    "title": "インプラントのOPEにつく方へ",
+    "description": "バキュームのタンクを洗う時、蓋にある白い部品を強く引っ張ると取れてしまいます\n一度取れると治すのが大変なので、洗う時は引っ張らずスポンジでソフトに洗ってください\n\nもし取れてしまった場合は早めに吉田に教えてください\n\nよろしくお願いいたします",
+    "category": "診療業務",
+    "recordedDate": "2025-07-09",
+    "submittedBy": "吉田佳奈",
+    "type": "text"
+  },
+  {
+    "id": "text-night-floor-lights-off-caution",
+    "title": "夜フロアの電気を消す時のお願い",
+    "description": "夜フロアの電気を消す時は、待合室など含め必ず誰もいないことを確認してから消してください\n昨日患者さんの予約を取っている時に消されてしまいました\n20:00、20:30過ぎても診療が長引いていると患者さんがいる場合があります\n2Fは気づきにくいと思いますが必ず確認してください\nお願いします",
+    "category": "基本業務",
+    "recordedDate": "2025-07-20",
+    "submittedBy": "吉田佳奈",
+    "type": "text"
   }
 ]
