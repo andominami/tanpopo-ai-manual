@@ -4009,5 +4009,65 @@
       "1lcjLDraIsGwTS6mgjET74U_5PkSX8qa2",
       "17IhAIacnqfXXwxXdcIcAwb5AKnC7jdaX"
     ]
+  },
+  {
+    "id": "photo-laundry-rule-revision-2025",
+    "title": "洗濯ルール改訂",
+    "description": "乾燥に時間がかかって、AMで終わらず午後になってしまうので、以前と同様に前日洗って乾いたものを翌日の方が畳んでしまう。また洗濯・乾燥まで設定して回し翌日まで放置。でやってみようかと思いますので、よろしくお願い致します。ご意見ありましたら、お願いします。",
+    "category": "基本業務",
+    "recordedDate": "2025-09-29",
+    "submittedBy": "田中歩美",
+    "type": "photo",
+    "photoFileIds": [
+      "1SaQzIXP0zU1PDwmW4s_gtd3suiyBKkRd"
+    ]
+  },
+  {
+    "id": "photo-root-canal-meter-cord-caution",
+    "title": "コードキツく巻かないでください",
+    "description": "根管長測定器の接続部分の断線で本体の修理3万5千円です。コードをキツく巻くと本体内部で故障しますので、みなさん注意してください😢💦",
+    "category": "診療業務",
+    "recordedDate": "2025-10-06",
+    "submittedBy": "田中歩美",
+    "type": "photo",
+    "photoFileIds": [
+      "1cIm_gg3IoIAXPKTdcMjJ9Ye3dke8dyGR"
+    ]
+  },
+  {
+    "id": "photo-dr-hirooka-handpiece-sterilization",
+    "title": "【お願い】廣岡先生につく方へ",
+    "description": "廣岡先生の私物のハンドピースは1日の診療が終わったら、滅菌室にあるスプレーで注油してから滅菌パックにいれてください。\n(滅菌パックに滅菌後Dr廣岡のバーセットの中に戻してくださいと書いてください。)\n時間がある時はプチクレーブで滅菌までお願いします。\n滅菌の時間がない時は滅菌パックに入れたままハンドピースの付近に置いてください。\nよろしくお願いします。\n\nご不明点あれば廣岡先生か井出に聞いてください。",
+    "category": "消毒室関連",
+    "recordedDate": "2025-10-21",
+    "submittedBy": "井出真理愛",
+    "type": "photo",
+    "photoFileIds": [
+      "1SzpZU7pdMc9BRxy4RwxgWK9_3OHvORY_",
+      "1AMJ77vtxbZiJSoHL_-f6diXUOVxnFkOG",
+      "1GW3VAr7Rn8UKlb5P7-cSbLPpJ3Edk-e_"
+    ]
+  },
+  {
+    "id": "text-nightguard-fabrication-assignment",
+    "title": "ナイトガードの作製について",
+    "description": "基本的にナイトガードは印象した人が作製することになっています。\n1列目の場合は先生のアシストの方が作製してください。\nよろしくお願いします。",
+    "category": "技工関連",
+    "recordedDate": "2025-10-30",
+    "submittedBy": "井出真理愛",
+    "type": "text"
+  },
+  {
+    "id": "photo-childcare-mark-reservation-note",
+    "title": "託児マークについて",
+    "description": "以前スタッフミーティングの議題にも出させて頂きましたが、再度受付さんにお願いします。\n初診・再初診の方の予約メモの欄に\"託児希望\"\"同意書貰って下さい\"などと書いてくださっているのですが、託児マークが付いてないことがとても多いです。\n\n託児マークを見て事前にお子さんの名前と来院時間を確認しています。\n託児マークが無いと見落としてしまい、夕方保育士1人の時間帯に託児室に保育士が居なく、患者さんを待たせてしまうということが何度かありましたので、再三のお願いとはなりますが、よろしくお願いします。\n\n託児マーク設定は 情報変更→スクロールしていくと託児マークON で設定出来ます。",
+    "category": "受付業務",
+    "recordedDate": "",
+    "submittedBy": "三枝真奈美",
+    "type": "photo",
+    "photoFileIds": [
+      "1wtR6-2GlCfM1V83nC4AhMZmQayBIlcYd",
+      "1XFHEiGVqzrF2s9P1ngneP9W3dGlcsbad"
+    ]
   }
 ]
