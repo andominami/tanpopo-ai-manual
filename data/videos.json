@@ -3945,5 +3945,69 @@
     "recordedDate": "2025-07-20",
     "submittedBy": "吉田佳奈",
     "type": "text"
+  },
+  {
+    "id": "text-corefront-email-reception-caution",
+    "title": "受付の方へ(コアフロントからのメールについて)",
+    "description": "受付のメール当番の方へ\n\n大切なので再度お伝えします。\nコアフロントからのメールが来たら、すぐに容子さんに伝えてください。\n昨日メールが届いていましたが、7/8に送ったメールに返信がないための再送でした。\n\nコアフロントのフォルダーに自動振り分けされて見落としにくいとは思いますが、7/8は伝え忘れたようですので、再度気をつけていきましょう。",
+    "category": "受付業務",
+    "recordedDate": "2025-07-25",
+    "submittedBy": "杉本麻水",
+    "type": "text"
+  },
+  {
+    "id": "photo-stain-removal-expectation-caution",
+    "title": "ステイン除去について",
+    "description": "ステイン除去では落ちないような歯の方が本日ステイン除去で予約してありました\n\n多少黄ばみは落ちましたが、歯質が弱っている部分は落ちませんでした\nこのような歯の方をステイン除去で予約する際は落ちないかもしれないことを説明の上予約お願いします\n\n落ちるかどうかの判断がつかない場合はわかる方に聞いてください\n\nよろしくお願いいたします!",
+    "category": "診療業務",
+    "recordedDate": "2025-08-06",
+    "submittedBy": "吉田佳奈",
+    "type": "photo",
+    "photoFileIds": [
+      "1qqthVeowPHek-G2UngLeZ1EC71UAGupk",
+      "1VPN5kDKgnzBxwDMbP6GWL7I_AMKaTUK1"
+    ]
+  },
+  {
+    "id": "photo-care-to-accounting-memo",
+    "title": "衛生士・受付の方へお知らせ(ケア→会計伝言メモ)",
+    "description": "ケアから会計への伝言メモを作りました。プレゼントの歯ブラシをカルテに入れる場合や販売品がある場合などに、カルテのいちばん上に入れてご利用ください。\n会計の方は読んだら取り出して破棄してください。\nメモはケアのカウンターに置きます。",
+    "category": "受付業務",
+    "recordedDate": "2025-08-08",
+    "submittedBy": "須藤能子",
+    "type": "photo",
+    "photoFileIds": [
+      "1-j3FHid18Hh2bWnS2z027gnunFAaHde_"
+    ]
+  },
+  {
+    "id": "photo-reception-closing-daily-report-writing",
+    "title": "受付締め 日計表への書き方",
+    "description": "相殺や返金があった時や\n介護保険分の支払いで振込みやカード払いだった時の記載の仕方をあげます。\n\n色々な書き方でバラバラになってきているので、統一したいと思います。\n\n矢沢先生への支払いも\n《矯正費用として ¥○○○ 出金》\nと書いてください。\n\n受付のみなさん、よろしくお願いします。\n黄色のファイルにも貼っておきます。",
+    "category": "受付業務",
+    "recordedDate": "2025-09-12",
+    "submittedBy": "杉本麻水",
+    "type": "photo",
+    "photoFileIds": [
+      "1FLgdYIHdNqvA1yI7u6OLNdilVeT-0aIE",
+      "1SVdWKSJq9Sxt24hwNdpmd64sGfYmluGy",
+      "1XnIRP2C2Q_Uy6lbAjNdj4yI3MNN9WWiT"
+    ]
+  },
+  {
+    "id": "photo-oral-cancer-checkup-two-types-2025oct",
+    "title": "口腔がん検診について(2025年10月〜2種類に)",
+    "description": "10月から口腔がん検診が2種類になります!!\n\n①オーラルックを使う自費の口腔がん検診📷✨\n②海老名市の視触診のみの口腔がん検診\n\n予約の取り方は5枚目を参考にして下さい。\n\n画像のチラシの通り、口腔がんは早期発見が大切です。\n進行したがんを切除すると顔の見た目が大きく変わったり話し方味覚が変わったりするため術後の自殺率も高いそうです。\n\nオーラルック希望の方や海老名市に住んでいない方、35歳未満の方には①の自費の口腔がん検診をすすめてください!\n\n海老名市在住の35歳以上の方でまずは視触診だけ、低価格の検診を希望する方には②の海老名市の口腔がん検診をすすめてください!\n\nなかなか治らない口内炎がある方、よく頬を噛む方、同じ場所に繰り返し傷ができる方、喫煙飲酒の習慣がある方には特に積極的にご案内をお願いします!!!",
+    "category": "診療業務",
+    "recordedDate": "2025-10-01",
+    "submittedBy": "林咲穂",
+    "type": "photo",
+    "photoFileIds": [
+      "1c0HYtqGWc5hsp-rpUP4gv_DwBvwEsyTO",
+      "1JckRpAO1K9tW-JA3SD3mXDCCTTOUWp6b",
+      "1bjvA6Z_3oAmt1HzQuNNIDP8vGjDYe6MH",
+      "1lcjLDraIsGwTS6mgjET74U_5PkSX8qa2",
+      "17IhAIacnqfXXwxXdcIcAwb5AKnC7jdaX"
+    ]
   }
 ]
