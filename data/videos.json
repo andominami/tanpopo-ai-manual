@@ -4379,5 +4379,28 @@
     "photoFileIds": [
       "1rm5tR7LjJBEp8K20VQFRfPMDzpuT-bh4"
     ]
+  },
+  {
+    "id": "text-branch-to-main-clinic-clock-in-out-correction",
+    "title": "分院に出勤し、本院で退勤した日の打刻について",
+    "description": "上記の勤務パターンの時は、タイムカードのときと同じように【4回打刻】してください。\n\n分院出勤時・退勤時と\n本院出勤時・退勤時の4回です。\n\n\"分院出勤時と本院退勤時の2回でよい\"とお伝えしてしまった方、または他の方からそう聞いた方もいらっしゃるかと思われますが、不具合がありましたので、訂正します。申し訳ありませんでした。\n\n以上よろしくお願いします。",
+    "category": "基本業務",
+    "recordedDate": "2026-07-04",
+    "submittedBy": "須藤能子",
+    "type": "text"
+  },
+  {
+    "id": "photo-toilet-flush-remote-battery-replacement",
+    "title": "トイレの水を流す壁のリモコン(装置)が反応しない時やってほしい事",
+    "description": "トイレの水を流すのにボタンを押しても反応しない時、壁のリモコン(装置)の電池を交換したら水が流れるかもしれないです。まずはこの手順に沿ってやってみて下さい🙏\n\nもしうまく外せないとか、電池交換しても水が流れなかったらくまみか須藤さんまで声掛けください。よろしくお願いします🙏\n\n①この装置全体を持って上にスライドさせる感じで引っ張る\n②外したらこんな感じ\n③裏返してもらってここを下にスライドさせて開ける(ネジは特にいじらなくて大丈夫です)\n※電池を入れる向きをよく確かめてから入れてください。新、旧の電池は混用しないでください。",
+    "category": "基本業務",
+    "recordedDate": "2026-06-20",
+    "submittedBy": "熊谷朋実",
+    "type": "photo",
+    "photoFileIds": [
+      "1G96009Ld5cZQnFM85ojUPUCXBb0_91SB",
+      "1ehBZw-CFr6OEGDKahHGLNPff21y0LjeU",
+      "19YjmRrwDx0s4f2zZzuv0OmkmphPgUIgX"
+    ]
   }
 ]
