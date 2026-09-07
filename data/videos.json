@@ -785,10 +785,7 @@
     "id": "v0831",
     "title": "分院　セファロの撮り方",
     "description": "",
-    "category": [
-      "分院・診療業務",
-      "新人マニュアル"
-    ],
+    "category": "分院・診療業務",
     "recordedDate": "",
     "driveFileId": "1qNsM665bt_oBvEEbfB5oRKafuRprNxNh"
   },
@@ -945,10 +942,7 @@
     "id": "v0817",
     "title": "分院iPadでのEPP 入力",
     "description": "",
-    "category": [
-      "分院・診療業務",
-      "新人マニュアル"
-    ],
+    "category": "分院・診療業務",
     "recordedDate": "",
     "driveFileId": "1hesSEn0CXaChuS9MYjAiKWh48Rzo466F"
   },
@@ -1093,10 +1087,7 @@
     "id": "v0570",
     "title": "分院 パノラマ 電源の入れ方",
     "description": "",
-    "category": [
-      "分院・診療業務",
-      "新人マニュアル"
-    ],
+    "category": "分院・診療業務",
     "recordedDate": "",
     "driveFileId": "1V0NcquCFWi1ihVglT78YaWnF7PmO1w-0"
   },
@@ -1104,10 +1095,7 @@
     "id": "v0576",
     "title": "分院　GO(レントゲン)",
     "description": "",
-    "category": [
-      "分院・診療業務",
-      "新人マニュアル"
-    ],
+    "category": "分院・診療業務",
     "recordedDate": "",
     "driveFileId": "1SIZizSpIZlNr1UNUbbG09XMhAvB0hBzK"
   },
@@ -1282,10 +1270,7 @@
     "id": "v0422",
     "title": "（新）精算機の閉め方",
     "description": "",
-    "category": [
-      "受付業務",
-      "新人マニュアル"
-    ],
+    "category": "受付業務",
     "recordedDate": "",
     "driveFileId": "1D2Yw_YcU6-AId7oNtg3TAlJgUOw2KU4y"
   },
@@ -2939,10 +2924,7 @@
     "id": "photo-branch-morning-pc-startup",
     "title": "分院の朝のパソコンの立ち上げの件",
     "description": "朝、診療室のパソコンを立ち上げるときに上のモニタのパソコンも起動しますが、起動したら、キャレットスクエア（写真の水色マーク）も起動してください\n（下のバーにアイコンが出ている状態にしてください）\n起動しないとパントモやデンタル等撮影したデータが飛ばないことがあるそうです\n\nよろしくお願いします",
-    "category": [
-      "分院・基本業務",
-      "新人マニュアル"
-    ],
+    "category": "分院・基本業務",
     "recordedDate": "2026-07-28",
     "submittedBy": "一門麻依",
     "type": "photo",
@@ -3694,10 +3676,7 @@
     "id": "photo-lab-instruction-handwriting-request",
     "title": "⭐指示書の文字についてのお願い⭐",
     "description": "再三、何度も申し上げておりますが、指示書(だけではありませんが)は誰でも読める字で書いてください。\n患者様のお名前を間違えて記入すると、技巧所さんからの納品書も誤ったお名前で届きます。\nまた、指示書に書いてある患者様のお名前が間違っていると、受付での技工物チェックにも非常に時間がかかってしまいます。\nご協力ください。",
-    "category": [
-      "技工関連",
-      "新人マニュアル"
-    ],
+    "category": "技工関連",
     "recordedDate": "2026-05-13",
     "submittedBy": "山下愛美",
     "type": "photo",
