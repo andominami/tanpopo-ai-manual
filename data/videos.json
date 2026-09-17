@@ -4413,12 +4413,33 @@
     ]
   },
   {
-    "id": "form-1789623265368",
-    "title": "口腔機能低下症関連の動画",
-    "description": "https://youtu.be/rvxfsEeOVM0?si=hd-QjLTMblZsPPHm  \nhttps://youtu.be/y8-cY96xOco?si=ez5hz1f4-JPRPl1b\nhttps://youtu.be/yAYx_h2X-vk?si=A8lS5LI_XDQ_PkrU\n\n口腔機能低下症の検査や説明がまとまっている動画です。",
+    "id": "youtube-oral-hypofunction-reference-rvxfsEeOVM0",
+    "title": "口腔機能低下症関連の動画①",
+    "description": "口腔機能低下症の検査や説明がまとまっている動画です。",
     "category": "セミナー関連",
     "recordedDate": "2026-09-17",
     "submittedBy": "太田",
-    "type": "text"
+    "type": "youtube",
+    "youtubeId": "rvxfsEeOVM0"
+  },
+  {
+    "id": "youtube-oral-hypofunction-reference-y8-cY96xOco",
+    "title": "口腔機能低下症関連の動画②",
+    "description": "口腔機能低下症の検査や説明がまとまっている動画です。",
+    "category": "セミナー関連",
+    "recordedDate": "2026-09-17",
+    "submittedBy": "太田",
+    "type": "youtube",
+    "youtubeId": "y8-cY96xOco"
+  },
+  {
+    "id": "youtube-oral-hypofunction-reference-yAYx_h2X-vk",
+    "title": "口腔機能低下症関連の動画③",
+    "description": "口腔機能低下症の検査や説明がまとまっている動画です。",
+    "category": "セミナー関連",
+    "recordedDate": "2026-09-17",
+    "submittedBy": "太田",
+    "type": "youtube",
+    "youtubeId": "yAYx_h2X-vk"
   }
 ]
