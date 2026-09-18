@@ -701,4 +701,13 @@ main {
   .video-description {
     display: none;
   }
+
+  .modal-photo-wrap {
+    width: 100%;
+  }
+
+  .modal-photo-wrap img {
+    width: 100%;
+    max-height: 50vh;
+  }
 }
