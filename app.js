@@ -24,6 +24,8 @@ const CATEGORY_ORDER = [
   "その他",
 ];
 
+const FAVORITES_KEY = "tanpopo-manual-favorites";
+
 const state = {
   videos: [],
   activeCategory: ALL_CATEGORY,
@@ -55,8 +57,6 @@ const modalFavoriteBtn = document.getElementById("modal-favorite-btn");
 let currentPhotoIndex = 0;
 let currentPhotoIds = [];
 let currentVideo = null;
-
-const FAVORITES_KEY = "tanpopo-manual-favorites";
 
 function loadFavorites() {
   try {
