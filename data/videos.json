@@ -4460,5 +4460,34 @@
     "recordedDate": "2026-09-04",
     "submittedBy": "山根佳奈",
     "driveFileId": "1dbYQK71Sjhn7NJO6N60x6dQvuSoQHMj8"
+  },
+  {
+    "id": "photo-1f-ct-usb-export-method",
+    "title": "1階のCTをUSBに入れる方法",
+    "description": "①CTを出して右側のツールから「画像をコミュニケーションパートナーに送信」を選択\n②「CT画像DICOMデータ出力」\n③モニター下の本体にUSBをいれる\n④ファイルから「CT画像DICOM出力」を選択すると該当のファイルがあります\n⑤データの名前を2階の時と同様編集する\n⑥USB「KINGSTON」へ移動させる\n⑦完了したら、USBをPCから安全に抜く",
+    "category": "撮影業務",
+    "recordedDate": "2026-09-27",
+    "submittedBy": "田中歩美",
+    "type": "photo",
+    "photoFileIds": [
+      "1zEppS-Pv6zlRZO9HEUleXUOeu7IdItrh",
+      "1ghd-BTRPA6FKwZM8fNE03_bUDgPmXs3-",
+      "1YAomlmGEGiGKXLkUWXJO_K0NBZ_ykhW-",
+      "18vE7-jIKgizqU2FlvSJ3D0z19_I7vfi1",
+      "1WSRp8riaKPHYHZmQY__-djqp0dw19Ckb",
+      "1nYsrhmNwDbYkARdfHfnB_QAXm0nDhEZO"
+    ]
+  },
+  {
+    "id": "photo-branch-dh-practical-guidance-document",
+    "title": "分院 歯科衛生実地指導 説明文書",
+    "description": "志賀先生からです。\n10月から分院でも実地を出すことになりました。確認をお願いします。",
+    "category": "分院・診療業務",
+    "recordedDate": "2026-09-20",
+    "submittedBy": "林咲穂",
+    "type": "photo",
+    "photoFileIds": [
+      "1l2X33tEFYva77TqjzYOciWs01pv0JQhY"
+    ]
   }
 ]
