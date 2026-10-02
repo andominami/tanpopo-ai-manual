@@ -4491,5 +4491,41 @@
     "photoFileIds": [
       "1l2X33tEFYva77TqjzYOciWs01pv0JQhY"
     ]
+  },
+  {
+    "id": "photo-dental-loan-option-explanation",
+    "title": "デンタルローンについて",
+    "description": "みなさんへ\n\n自費診療を説明する際に、金額がネックになる場合は選択肢のひとつとしてデンタルローンがあることもお伝えしてみてください!\n\nパンフレットは受付と2階にもあります。\n\n申し込みは患者さんがスマホでパンフレットのQRコードを読み取ってインターネットでです。\n(たんぽぽ側でやることはありません)",
+    "category": "受付業務",
+    "recordedDate": "2026-09-28",
+    "submittedBy": "篠崎菜月",
+    "type": "photo",
+    "photoFileIds": [
+      "1irRTgF7pVuZf3MABgLiSXqgmFhXP3slw",
+      "1xCEsyHBu0i-bFmNbpVjNwNK0MQm4UibR",
+      "1Hd2_ARIA1z5vbUl51TDT4gI7tzVPKdZq",
+      "1hItjZ6E2T_Ik3Z4FttES4cjGh9kP-EXL"
+    ]
+  },
+  {
+    "id": "text-outpatient-ipad-message-caution",
+    "title": "外来のiPadに届くメッセージについて",
+    "description": "外来で使用しているiPadご訪問のスマホと同期しているようです。\n訪問のスマホに患者さんやご家族、施設のスタッフさんや看護師さんからメッセージが送られてくることがありますが、外来のiPadで開いて読まれてしまうと訪問のスマホの方のメッセージが既読になってメールが届いている🔴マークが消えて、メッセージに気づくことができなくなってしまう可能性がありますので、外来のiPadでメッセージを開いて読まないようにお願いいたします。\nよろしくお願いいたします。",
+    "category": "基本業務",
+    "recordedDate": "2026-09-18",
+    "submittedBy": "後藤多喜子",
+    "type": "text"
+  },
+  {
+    "id": "photo-same-day-absence-late-early-leave-application",
+    "title": "【重要】当日欠勤・遅刻・早退の申請について",
+    "description": "事務局よりスタッフの皆様へご連絡です。\n\n既に申請をしていただいている方もいらっしゃいますが、改めて正式にご連絡です。\n当日欠勤・遅刻・早退をされる場合、必ず申請フォームより申請を行ってください。\nジョブカン及び院内のシステム整備が進み、申請の回数と有休残日数の管理を連動させることができるようになりました。\nシステムを運用しながら改善をしていく状況ではありますが、今後、申請をしていなければシステム上欠勤扱いになる場合もありますので、必ず申請をお願いします。\n申請フォームは残業申請と同じところにありますので、忘れずにご入力をお願いします。",
+    "category": "基本業務",
+    "recordedDate": "2026-09-13",
+    "submittedBy": "藤門翔平",
+    "type": "photo",
+    "photoFileIds": [
+      "1FBZZ_cEWfUkPu0kb-c7OnmvGo_azeZVw"
+    ]
   }
 ]
