@@ -181,7 +181,7 @@ function matchesMediaType(video) {
     case "photo":
       return isPhoto(video);
     case "video":
-      return !isPhoto(video);
+      return !isPhoto(video) && !isText(video) && !isPdf(video);
     case "favorite":
       return isFavorite(video.id);
     default:
