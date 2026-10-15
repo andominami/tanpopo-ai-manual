@@ -4544,5 +4544,23 @@
     "recordedDate": "2024-09-06",
     "submittedBy": "小林",
     "driveFileId": "1m6x0lmqdvjTheSsvoZyI8CZy9prFE0Bc"
+  },
+  {
+    "id": "form-1792028287029",
+    "title": "大規模災害のときに確認した方がいいこと",
+    "description": "建物が倒壊するような、大地震が起きたときに、確認した方がいいこと\n\n1　ガス滅菌が動いていないか？動いていたら、できたら電源をきって、ガスの元栓を閉めましょう。\nガスは有毒です。吸わないようにして、ガスが漏れていたら閉めましょう\n\n2 技工室のガス栓を閉めましょう。机の上にあるバーナーや、湯沸かし器のガスが閉められているか確認しましょう\n\n3　技工室の技工物が作っている機械、電源が入っている状態で、被災直後に机から落ちてる、もしくは余震が懸念される場合は、機械の裏に電源があるので切りましょう。　\n\n熱があるので火元になる可能性が考えられます。ゆたかさんには、大規模災害の場合は切ってしまってもしょうがないということです。\n\n1,2に関しては大規模災害でなくても、日頃からガスの締め忘れがあるので、皆さんも注意を向けましょう。特に2。",
+    "category": "防災関連",
+    "recordedDate": "2026-10-15",
+    "submittedBy": "太田",
+    "type": "photo",
+    "photoFileIds": [
+      "1zzkUw8pUz0D5uHmzjiRrUvWaT7dXihNY",
+      "109wu1kEZdqPenTGEV_oG1QfQ88CdQxNR",
+      "1YnxkBbBOKB-lgzT_RT-hQjv5Z8_sDPNj",
+      "19H5SNcU9NS4UQK_O7KDuiVG9nqfvv3F_",
+      "1U_aoQq0VzFNwslMF8u6xehOC2RC6Eq7H",
+      "1ju1rJErFOce_MbcG3VkH5F6SYLu33bIE",
+      "1ylWgE6-_nfpcm9-7CDvkjbWybkcsjtaP"
+    ]
   }
 ]
